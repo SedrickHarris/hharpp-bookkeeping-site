@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HARPP Bookkeeping Website
 
 This repository contains the website code for HARPP Bookkeeping, a bookkeeping and payroll support business serving small businesses and growing companies.
@@ -43,3 +44,6 @@ harpp-bookkeeping-website/
 │   └── main.js
 ├── images/
 └── README.md
+=======
+# harpp-bookkeeping-payroll-systems
+>>>>>>> a6af59b56065919878ec7337baf4983c4d43b7c0
