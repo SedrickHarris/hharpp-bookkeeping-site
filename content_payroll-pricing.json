@@ -1,0 +1,309 @@
+{
+  "page": {
+    "title": "Payroll Service Cost & Pricing | Henderson, NV | Hharpp",
+    "meta_description": "How much does a payroll service cost in Nevada? Understand what drives payroll pricing, compare outsourced vs. in-house vs. software, and get a free custom quote from Hharpp.",
+    "canonical": "https://hharpp.com/payroll/pricing/",
+    "og_title": "Payroll Service Pricing for Small Business | Henderson & Boulder City, NV | Hharpp",
+    "og_description": "Scope-based payroll pricing for Nevada small businesses. No tiers, no guessing — Hharpp quotes your specific situation. Free consultation.",
+    "og_image": "https://hharpp.com/images/hharpp-payroll-pricing-henderson-nv.jpg",
+    "og_image_alt": "Payroll service pricing for small business in Henderson and Boulder City, NV — Hharpp Business Services",
+    "twitter_card": "summary_large_image",
+    "geo_region": "US-NV",
+    "geo_placename": "Boulder City, Nevada",
+    "geo_position": "35.9788;-114.8328",
+    "icbm": "35.9788, -114.8328",
+    "breadcrumb": [
+      { "position": 1, "name": "Home", "url": "https://hharpp.com/" },
+      { "position": 2, "name": "Payroll Services", "url": "https://hharpp.com/payroll/" },
+      { "position": 3, "name": "Payroll Pricing", "url": "https://hharpp.com/payroll/pricing/" }
+    ]
+  },
+
+  "company": {
+    "name": "Hharpp Business Services Inc",
+    "phone": "(702) 342-8844",
+    "phone_href": "tel:+17023428844",
+    "email": "services@hharpp.com",
+    "address_street": "1010 Industrial Road #166 Canary Way",
+    "address_city": "Boulder City",
+    "address_state": "NV",
+    "address_zip": "89005",
+    "address_full": "1010 Industrial Road #166 Canary Way, Boulder City, NV 89005",
+    "hours_display": "Mon–Thu 8:30 AM–4:00 PM MT",
+    "hours_schema": "Mo-Th 08:30-16:00",
+    "website": "https://hharpp.com",
+    "contact_url": "https://hharpp.com/contact/",
+    "owner": "Heather Potvin, CPB",
+    "founded": "2009",
+    "years_experience": "16"
+  },
+
+  "hero": {
+    "eyebrow": "Payroll pricing · Boulder City & Henderson, NV",
+    "h1": "How much does a payroll service cost?",
+    "speakable_answer": "Professional payroll services for small businesses typically cost between $150 and $500 per month, depending on employee count, pay frequency, compliance requirements, and scope. Software platforms like Gusto or ADP run $40 to $160 per month but require the owner to manage every run. Hharpp's pricing is custom-scoped to each engagement — starting with a free consultation.",
+    "speakable_class": "pricing-speakable-0",
+    "subhead": "Hharpp prices every payroll engagement individually — based on your business, not a generic tier. Here's how payroll service pricing works and what drives the cost.",
+    "cta_primary_text": "Get a free payroll quote",
+    "cta_primary_url": "https://hharpp.com/contact/",
+    "cta_secondary_text": "Back to payroll services",
+    "cta_secondary_url": "https://hharpp.com/payroll/",
+    "trust_chips": [
+      "CPB · AIPB Member",
+      "SHRM Member",
+      "QuickBooks Advanced ProAdvisor",
+      "16 Years · Est. 2009",
+      "Free consultation · no obligation"
+    ]
+  },
+
+  "market_context": {
+    "h2": "What payroll services actually cost — the honest market picture",
+    "intro": "Before quoting your specific situation, it helps to understand what the market looks like. Most small business owners are comparing three options: outsourced managed payroll, payroll software, or handling it in-house. Each has a real cost — and the one that looks cheapest often isn't.",
+    "options": [
+      {
+        "id": "outsourced",
+        "label": "Outsourced managed payroll",
+        "example": "Hharpp and similar local services",
+        "cost_display": "Scope-dependent",
+        "cost_context": "Typically $150–$500/month nationally for most small businesses",
+        "owner_time": "~10 min per period — you approve, Hharpp runs it",
+        "compliance_support": "Expert advisory — DETR, MBT, certified payroll, multi-state",
+        "error_accountability": "Provider reviews every run before it processes",
+        "nv_knowledge": "Nevada-specific — DETR, MBT, daily overtime, no tip credit",
+        "certified_payroll": "Included for construction clients (NRS 338)",
+        "bookkeeping_integration": "Same person, same QuickBooks file",
+        "notice_support": "Direct call with Heather — no hold time",
+        "highlight": true,
+        "highlight_label": "Hharpp's model"
+      },
+      {
+        "id": "software",
+        "label": "Payroll software",
+        "example": "Gusto, ADP RUN, Paychex Flex, QuickBooks Payroll",
+        "cost_display": "$40–$160/month",
+        "cost_context": "Plus $4–$12 per employee per month",
+        "owner_time": "1–3 hours per period — you run it yourself",
+        "compliance_support": "Software only — no advisory, no state-specific review",
+        "error_accountability": "You review, you catch errors",
+        "nv_knowledge": "Generic federal/state — no Nevada-specific guidance",
+        "certified_payroll": "Not supported",
+        "bookkeeping_integration": "Separate bookkeeping relationship required",
+        "notice_support": "Call center — hold time, no continuity",
+        "highlight": false,
+        "highlight_label": ""
+      },
+      {
+        "id": "inhouse",
+        "label": "Dedicated in-house employee",
+        "example": "Full-time or part-time payroll administrator",
+        "cost_display": "$40,000–$55,000/year",
+        "cost_context": "Plus payroll taxes, benefits, overhead — before they make a single error",
+        "owner_time": "Managed — but requires hiring, training, supervision",
+        "compliance_support": "Depends entirely on the employee's knowledge",
+        "error_accountability": "Employee accountability — turnover risk",
+        "nv_knowledge": "Depends on employee's Nevada experience",
+        "certified_payroll": "Possible — requires specialized training",
+        "bookkeeping_integration": "Coordination required between departments",
+        "notice_support": "Internal — knowledge varies",
+        "highlight": false,
+        "highlight_label": ""
+      }
+    ]
+  },
+
+  "scope_factors": {
+    "h2": "What determines the cost of your Hharpp payroll quote",
+    "intro": "No two businesses have the same payroll. The five factors below are what Hharpp reviews in every free consultation to build a scope that fits your situation — not a billing structure that charges you for complexity you don't have.",
+    "factors": [
+      {
+        "id": "employee-count",
+        "title": "Employee count",
+        "body": "More employees means more pay runs, more tax calculations, more W-2s at year-end, and more compliance surface area. It's the single largest driver of payroll service cost in any market.",
+        "example": "1–5 employees versus 20–50 employees represents very different scope"
+      },
+      {
+        "id": "pay-frequency",
+        "title": "Pay frequency",
+        "body": "Weekly payroll requires 52 processing cycles per year. Monthly is 12. Biweekly is 26. More pay periods means more processing time, more tax deposits, and more reconciliation against your books.",
+        "example": "Weekly payroll is roughly twice the processing work of monthly"
+      },
+      {
+        "id": "compliance-complexity",
+        "title": "Compliance complexity",
+        "body": "Nevada-only employers have simpler obligations than businesses operating in both Nevada and California. Construction companies with certified payroll and prevailing wage reporting under NRS 338 carry significantly higher compliance load — and that scope is priced accordingly.",
+        "example": "Certified payroll under NRS 338.070 adds monthly reporting requirements"
+      },
+      {
+        "id": "worker-mix",
+        "title": "Worker mix",
+        "body": "Businesses with a mix of W-2 employees and 1099 independent contractors require classification review, separate filing workflows, and 1099-NEC preparation at year-end — all of which affect scope.",
+        "example": "All-W-2 versus mixed W-2 and 1099 affects year-end scope materially"
+      },
+      {
+        "id": "bundled-service",
+        "title": "Bundled versus standalone",
+        "body": "Payroll bundled with Hharpp's bookkeeping service means a single engagement for both — eliminating redundant setup and coordination. Clients who bundle payroll and bookkeeping typically see better value than engaging both services separately.",
+        "example": "Bookkeeping and payroll in the same QuickBooks file from the same person"
+      },
+      {
+        "id": "initial-setup",
+        "title": "Initial setup versus ongoing",
+        "body": "New employers requiring DETR registration, MBT configuration, QuickBooks Payroll setup, and first-run review carry a defined one-time setup scope on top of ongoing monthly processing. Established employers with a running system have a narrower initial scope.",
+        "example": "First-employee setup is a defined scope; ongoing runs are a recurring scope"
+      }
+    ]
+  },
+
+  "cost_reality": {
+    "h2": "What it actually costs to run payroll yourself",
+    "intro": "Many small business owners assume running payroll in-house is free. It isn't — it costs time, and time is your most valuable resource. Here's what the real cost looks like for a typical 10-employee business on a biweekly pay schedule.",
+    "table_note": "Owner time valued at $75/hr — a conservative estimate for most small business owners. IRS penalties for missed 941 deposits run 2–15% of the unpaid amount. DETR penalties for unreported wages include back taxes plus interest. Sources: IRS Publication 15, Nevada DETR employer guidance.",
+    "rows": [
+      {
+        "label": "Payroll software subscription (e.g., Gusto at ~$100/mo)",
+        "diy_cost": "$1,200/yr",
+        "hharpp_cost": "—"
+      },
+      {
+        "label": "Owner time running payroll (2 hrs × 26 periods × $75/hr)",
+        "diy_cost": "$3,900/yr",
+        "hharpp_cost": "—"
+      },
+      {
+        "label": "Year-end W-2 and 1099 preparation (if outsourced separately to a CPA)",
+        "diy_cost": "$300–$600",
+        "hharpp_cost": "Included"
+      },
+      {
+        "label": "IRS or DETR penalty exposure from filing errors",
+        "diy_cost": "Variable — 2–15% per missed deposit",
+        "hharpp_cost": "Managed"
+      },
+      {
+        "label": "Time spent on hold with software support during a compliance issue",
+        "diy_cost": "Untracked",
+        "hharpp_cost": "Direct access to Heather"
+      }
+    ],
+    "total_diy": "$5,100+/yr (before any penalties)",
+    "total_hharpp": "Free custom quote",
+    "bottom_line": "For most businesses with biweekly payroll and 5–15 employees, outsourced managed payroll is cost-competitive with software once owner time is properly accounted for — and it eliminates the compliance risk entirely."
+  },
+
+  "faqs": [
+    {
+      "id": "faq-pricing-0",
+      "anchor": "faq-why-no-published-price",
+      "question": "Why doesn't Hharpp publish fixed pricing?",
+      "speakable_class": "pricing-speakable-1",
+      "voice_answer": "Payroll scope varies significantly between businesses, so Hharpp prices every engagement based on your specific situation rather than a generic tier.",
+      "full_answer": "A sole proprietor with two employees paid monthly has very different needs than a construction company with 15 workers, biweekly pay, certified payroll requirements, and a mixed W-2 and 1099 workforce. Publishing a flat rate would either overcharge simple clients or undercharge complex ones. Hharpp scopes every engagement individually — which means you pay for what your business actually needs, not a tier built for someone else's payroll."
+    },
+    {
+      "id": "faq-pricing-1",
+      "anchor": "faq-outsourcing-cheaper",
+      "question": "Is outsourcing payroll cheaper than doing it myself?",
+      "speakable_class": "pricing-speakable-2",
+      "voice_answer": "For most small businesses, yes — when total cost is properly calculated including owner time and compliance risk.",
+      "full_answer": "Software subscriptions appear cheap until you add owner time — typically one to three hours per pay period at the opportunity cost of running your business — plus the risk of IRS or DETR penalties for errors. Outsourced payroll eliminates the time burden and transfers the compliance risk. Businesses spending more than 30 minutes per pay period on payroll typically find that professional service pays for itself. The calculation is straightforward: if your time is worth $75 per hour and payroll takes two hours per biweekly period, that's $3,900 per year in owner time alone — before the software subscription and before any penalties."
+    },
+    {
+      "id": "faq-pricing-2",
+      "anchor": "faq-certified-payroll-cost",
+      "question": "Does Hharpp charge more for certified payroll or construction payroll?",
+      "speakable_class": "pricing-speakable-3",
+      "voice_answer": "Yes — certified payroll under NRS 338 adds monthly reporting requirements that go beyond standard payroll processing, and Hharpp scopes this honestly.",
+      "full_answer": "Certified payroll under NRS 338.070 requires monthly submission to the awarding public body by the 15th of the following month, tracking worker classifications against the 2025–2026 Nevada prevailing wage rates, and maintaining documentation sufficient for audit. This scope is meaningfully larger than standard payroll processing, and Hharpp quotes it accordingly. Construction clients receive a full-scope quote that covers monthly report preparation, prevailing wage rate compliance monitoring, and the additional year-end complexity of a mixed workforce. The quote is specific, transparent, and delivered during the free consultation."
+    },
+    {
+      "id": "faq-pricing-3",
+      "anchor": "faq-free-consultation",
+      "question": "What does a free payroll consultation with Hharpp cover?",
+      "speakable_class": "pricing-speakable-4",
+      "voice_answer": "The free consultation reviews your current payroll situation and produces a specific scope and quote. There is no obligation and no sales pressure.",
+      "full_answer": "Heather reviews your current payroll setup — employee count, pay frequency, software or process currently in use, compliance history, and any specific obligations like certified payroll or multi-state filing. The consultation produces a specific scope description and a fee quote for Hharpp's managed payroll service. Most consultations take 20–30 minutes. There is no obligation to proceed, no contract to sign during the call, and no pressure. To schedule: call (702) 342-8844, available Monday through Thursday, 8:30 AM to 4:00 PM MT, or contact via hharpp.com/contact/."
+    }
+  ],
+
+  "cta_band": {
+    "h2": "Get a precise quote for your business — free, no obligation",
+    "body": "Hharpp's free consultation reviews your payroll situation and produces a specific scope and fee — no tiers, no guessing, no pressure. Most consultations take 20–30 minutes.",
+    "stat_1_value": "Free",
+    "stat_1_label": "Consultation",
+    "stat_2_value": "16",
+    "stat_2_label": "Years experience",
+    "stat_3_value": "0",
+    "stat_3_label": "Complaints — BBB listed",
+    "cta_primary_text": "Schedule a free consultation",
+    "cta_primary_url": "https://hharpp.com/contact/",
+    "cta_secondary_text": "Call (702) 342-8844",
+    "cta_secondary_href": "tel:+17023428844",
+    "hours": "Mon–Thu 8:30 AM–4:00 PM MT",
+    "email": "services@hharpp.com"
+  },
+
+  "internal_links": [
+    {
+      "anchor_text": "Payroll services overview",
+      "url": "https://hharpp.com/payroll/",
+      "context": "Parent page link — breadcrumb and in-content"
+    },
+    {
+      "anchor_text": "Bookkeeping services",
+      "url": "https://hharpp.com/bookkeeping/",
+      "context": "Bundled service cross-sell — scope factors section"
+    },
+    {
+      "anchor_text": "QuickBooks setup and training",
+      "url": "https://hharpp.com/quickbooks/",
+      "context": "Software integration cross-link"
+    },
+    {
+      "anchor_text": "Contact — free consultation",
+      "url": "https://hharpp.com/contact/",
+      "context": "Primary CTA destination"
+    },
+    {
+      "anchor_text": "About Heather Potvin",
+      "url": "https://hharpp.com/about/",
+      "context": "Credentials section reference"
+    }
+  ],
+
+  "schema": {
+    "organization_id": "https://hharpp.com/#organization",
+    "person_id": "https://hharpp.com/#heather-potvin",
+    "service_id": "https://hharpp.com/payroll/#service",
+    "page_url": "https://hharpp.com/payroll/pricing/",
+    "speakable_selectors": [
+      ".pricing-speakable-0",
+      ".pricing-speakable-1",
+      ".pricing-speakable-2",
+      "#faq-outsourcing-cheaper",
+      "#faq-free-consultation"
+    ],
+    "howto_name": "How to get a payroll service quote from Hharpp",
+    "howto_description": "A step-by-step process for evaluating your payroll situation and obtaining a custom scope and pricing quote from Hharpp Business Services in Boulder City, Nevada.",
+    "howto_steps": [
+      {
+        "position": 1,
+        "name": "Review your current payroll situation",
+        "text": "Gather your employee count, current pay frequency (weekly, biweekly, semi-monthly, or monthly), any existing payroll software or service you are using, and your current Nevada compliance status — including whether you have a DETR account and MBT registration.",
+        "url": "https://hharpp.com/payroll/pricing/#scope-factors"
+      },
+      {
+        "position": 2,
+        "name": "Identify your compliance obligations",
+        "text": "Determine whether your engagement will include standard payroll only, or additional obligations such as certified payroll for Nevada public works projects under NRS 338, multi-state payroll for Nevada and California operations, or a mix of W-2 employees and 1099 contractors.",
+        "url": "https://hharpp.com/payroll/pricing/#scope-factors"
+      },
+      {
+        "position": 3,
+        "name": "Schedule a free consultation with Hharpp",
+        "text": "Call (702) 342-8844 or contact via hharpp.com/contact/ to schedule a free 20–30 minute consultation. Heather Potvin reviews your specific situation and produces a custom scope and fee quote. No obligation, no contract required.",
+        "url": "https://hharpp.com/payroll/pricing/#free-consultation"
+      }
+    ]
+  }
+}

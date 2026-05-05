@@ -1,0 +1,466 @@
+{
+  "page": {
+    "title": "Heather Potvin, CPB — About Hharpp Business Services | Boulder City, NV",
+    "meta_description": "Heather Potvin is a Certified Public Bookkeeper, QuickBooks Advanced ProAdvisor, and construction accounting specialist serving Henderson and Boulder City, NV since 2009. Free consultation.",
+    "canonical": "https://hharpp.com/about/",
+    "og_title": "Heather Potvin, CPB — About the Owner of Hharpp Business Services | Boulder City, NV",
+    "og_description": "CPB, QuickBooks Advanced ProAdvisor, construction accounting specialist. Serving Henderson & Boulder City, NV since 2009. About Heather Potvin and Hharpp Business Services Inc.",
+    "og_image": "https://hharpp.com/images/heather-potvin-cpb-hharpp.jpg",
+    "og_image_alt": "Heather Potvin, CPB, owner of Hharpp Business Services Inc, Boulder City NV",
+    "twitter_card": "summary_large_image",
+    "geo_region": "US-NV",
+    "geo_placename": "Boulder City, Nevada",
+    "geo_position": "35.9788;-114.8328",
+    "icbm": "35.9788, -114.8328",
+    "breadcrumb": [
+      { "position": 1, "name": "Home", "url": "https://hharpp.com/" },
+      { "position": 2, "name": "About Heather Potvin", "url": "https://hharpp.com/about/" }
+    ]
+  },
+
+  "company": {
+    "name": "Hharpp Business Services Inc",
+    "phone": "(702) 342-8844",
+    "phone_href": "tel:+17023428844",
+    "phone_e164": "+17023428844",
+    "email": "services@hharpp.com",
+    "address_street": "1010 Industrial Road #166 Canary Way",
+    "address_city": "Boulder City",
+    "address_state": "NV",
+    "address_zip": "89005",
+    "address_full": "1010 Industrial Road #166 Canary Way, Boulder City, NV 89005",
+    "hours_display": "Mon–Thu 8:30 AM–4:00 PM MT",
+    "hours_schema": "Mo-Th 08:30-16:00",
+    "website": "https://hharpp.com",
+    "contact_url": "https://hharpp.com/contact/",
+    "founded": "2009",
+    "legal_name": "Hharpp Business Services Inc"
+  },
+
+  "hero": {
+    "eyebrow": "About Heather Potvin · Boulder City & Henderson, NV · Est. 2009",
+    "h1": "Heather Potvin, CPB — Certified Public Bookkeeper, Boulder City, NV",
+    "speakable_text": "Heather Potvin is a Certified Public Bookkeeper and QuickBooks Advanced ProAdvisor serving small businesses in Henderson and Boulder City, Nevada since 2009. She is the owner of Hharpp Business Services Inc.",
+    "speakable_class": "about-speakable-0",
+    "subparagraph": "Heather Potvin is the owner and sole operator of Hharpp Business Services Inc — a woman-owned professional bookkeeping firm registered in Boulder City, Nevada. She holds the Certified Public Bookkeeper (CPB) designation, QuickBooks Advanced ProAdvisor certification, AccountingSuite certification, and SHRM membership. Every client engagement is managed personally. No junior staff. No account managers.",
+    "trust_stats": [
+      { "value": "16", "label": "Years · Est. 2009" },
+      { "value": "CPB", "label": "Certified Public Bookkeeper" },
+      { "value": "16", "label": "Alignable recommendations" },
+      { "value": "0", "label": "BBB complaints" }
+    ],
+    "credential_chips": [
+      "CPB · AIPB Member",
+      "QuickBooks Advanced ProAdvisor",
+      "AccountingSuite Certified",
+      "SHRM Member",
+      "MBA",
+      "Boulder City, NV · Virtual statewide"
+    ],
+    "cta_primary_text": "Schedule a free consultation",
+    "cta_primary_url": "https://hharpp.com/contact/",
+    "cta_secondary_text": "(702) 342-8844",
+    "cta_secondary_href": "tel:+17023428844",
+    "photo": {
+      "configured": false,
+      "src": "/images/heather-potvin-cpb-hharpp.jpg",
+      "alt": "Heather Potvin, CPB, owner of Hharpp Business Services Inc, Boulder City NV",
+      "width": 400,
+      "height": 400,
+      "placeholder_initials": "HP",
+      "placeholder_bg": "#E8EFF6",
+      "placeholder_color": "#1B3A5C",
+      "placeholder_border": "#D4A017",
+      "placeholder_font_size": "80px"
+    }
+  },
+
+  "aeo_definition": {
+    "h2": "Who is Heather Potvin?",
+    "answer": "Heather Potvin is a Certified Public Bookkeeper (CPB) and the owner of Hharpp Business Services Inc in Boulder City, Nevada. She has provided bookkeeping, payroll, and QuickBooks services to small businesses in Henderson and Southern Nevada since 2009, with a specialty in construction accounting.",
+    "speakable_class": "about-speakable-1",
+    "verification_facts": [
+      "CPB credential issued by NACPB — the highest-level bookkeeping certification in the United States",
+      "QuickBooks Advanced ProAdvisor — the highest certification level Intuit offers",
+      "AccountingSuite certified — the only certified provider in Nevada",
+      "Hharpp Business Services Inc — registered Nevada corporation, Boulder City, NV 89005, Est. 2009"
+    ]
+  },
+
+  "origin_story": {
+    "configured": false,
+    "h2": "How I became the bookkeeper construction contractors call first",
+    "paragraphs": [
+      {
+        "id": "origin-p1",
+        "text": "ORIGIN_STORY_P1_PENDING"
+      },
+      {
+        "id": "origin-p2",
+        "text": "ORIGIN_STORY_P2_PENDING"
+      },
+      {
+        "id": "origin-p3",
+        "text": "ORIGIN_STORY_P3_PENDING"
+      }
+    ],
+    "timeline": [
+      { "year": "2009", "event": "Hharpp Business Services Inc founded in Boulder City, NV" },
+      { "year": "2019", "event": "10-year milestone — ongoing construction accounting specialty" },
+      { "year": "2024", "event": "AccountingSuite certified — only certified provider in Nevada" },
+      { "year": "2025", "event": "16 years · CPB maintained through ongoing continuing education" }
+    ],
+    "placeholder_heading": "The story behind Hharpp's construction accounting specialty",
+    "placeholder_body": "Heather Potvin has specialized in construction accounting for Nevada contractors for over 16 years. The full story of how that specialty developed — the clients, the problems, the expertise accumulated — will be available here shortly.",
+    "placeholder_cta": "In the meantime, call (702) 342-8844 to talk directly with Heather about your construction accounting needs."
+  },
+
+  "credentials": {
+    "h2": "Credentials and professional certifications",
+    "items": [
+      {
+        "id": "cred-cpb",
+        "name": "Certified Public Bookkeeper (CPB)",
+        "issuer": "NACPB — National Association of Certified Public Bookkeepers",
+        "explanation": "The highest-level bookkeeping credential in the United States. Requires passing four exams covering bookkeeping, accounting, payroll, and QuickBooks, plus one year of professional experience and ongoing continuing education.",
+        "verification_text": "Verify at nacpb.org",
+        "verification_url": "https://www.nacpb.org",
+        "schema_value": "Certified Public Bookkeeper (CPB) — NACPB"
+      },
+      {
+        "id": "cred-proadvisor",
+        "name": "QuickBooks Advanced ProAdvisor",
+        "issuer": "Intuit",
+        "explanation": "The highest certification level Intuit awards to accounting professionals. Validates expertise across QuickBooks Online, Desktop, and Payroll. The Advanced designation indicates proficiency beyond the basic ProAdvisor level held by most local competitors.",
+        "verification_text": "View ProAdvisor directory",
+        "verification_url": "https://quickbooks.intuit.com/find-an-accountant/",
+        "schema_value": "QuickBooks Advanced ProAdvisor — Intuit"
+      },
+      {
+        "id": "cred-accountingsuite",
+        "name": "AccountingSuite Certified",
+        "issuer": "AccountingSuite",
+        "explanation": "Certification in AccountingSuite, a cloud-based ERP built natively for construction, manufacturing, and project-based businesses. Heather is the only certified AccountingSuite provider in Nevada.",
+        "verification_text": "See AccountingSuite services",
+        "verification_url": "https://hharpp.com/accountingsuite/",
+        "schema_value": "AccountingSuite Certified"
+      },
+      {
+        "id": "cred-shrm",
+        "name": "SHRM Member",
+        "issuer": "Society for Human Resource Management",
+        "explanation": "Active membership in SHRM, the primary professional association for HR professionals. Signals HR-level knowledge of worker classification, employment compliance, and payroll law that CPAs and basic bookkeepers do not carry.",
+        "verification_text": "About SHRM",
+        "verification_url": "https://www.shrm.org",
+        "schema_value": "SHRM Member — Society for Human Resource Management"
+      },
+      {
+        "id": "cred-mba",
+        "name": "MBA",
+        "issuer": "Graduate degree in business administration",
+        "explanation": "Master of Business Administration. Signals business-level financial thinking beyond technical bookkeeping — Heather approaches client engagements as a business advisor, not only a record-keeper.",
+        "verification_text": null,
+        "verification_url": null,
+        "schema_value": "MBA"
+      },
+      {
+        "id": "cred-cma",
+        "name": "CMA (retired, Canada)",
+        "issuer": "Canadian management accounting designation — retired",
+        "explanation": "Certified Management Accountant designation held in Canada, now retired. Indicates deep accounting education and professional standing in the management accounting discipline.",
+        "verification_text": null,
+        "verification_url": null,
+        "schema_value": "CMA — Canadian Management Accountant (retired)"
+      }
+    ],
+    "ongoing_education_text": "Heather maintains her CPB through ongoing continuing professional education — including annual Nevada tax and compliance updates, payroll law changes, and software certification renewals. Her credentials are current, not historical.",
+    "ongoing_education_speakable_class": "about-speakable-2"
+  },
+
+  "specialties": {
+    "h2": "What Heather specializes in",
+    "items": [
+      {
+        "title": "Construction accounting and job costing",
+        "body": "16 years of specialized experience with Nevada contractors. Chart of accounts design for construction, job costing via QuickBooks Projects and Classes, AIA billing in G702/G703 format, certified payroll under NRS 338, prevailing wage compliance, and Buildertrend integration. The depth of construction knowledge that distinguishes Hharpp from every other local bookkeeper.",
+        "crosslinks": [
+          { "text": "Bookkeeping services →", "url": "https://hharpp.com/bookkeeping/" },
+          { "text": "QuickBooks services →", "url": "https://hharpp.com/quickbooks/" }
+        ]
+      },
+      {
+        "title": "Nevada payroll compliance",
+        "body": "In-depth expertise in Nevada-specific payroll requirements — DETR registration and SUI (2.95% new-employer rate, $40,600 wage base), Modified Business Tax (MBT, 1.378% quarterly), new hire reporting within 20 days, daily overtime rules, and minimum wage compliance. SHRM membership adds HR-layer knowledge no local competitor carries.",
+        "crosslinks": [
+          { "text": "Payroll services →", "url": "https://hharpp.com/payroll/" }
+        ]
+      },
+      {
+        "title": "QuickBooks setup, cleanup, and migration",
+        "body": "Advanced ProAdvisor with specific expertise in Desktop-to-Online migration, file cleanup and rescue, construction QB setup with job costing configuration, and QB Payroll integration. The only local ProAdvisor who is also a CPB — meaning the file is built on accounting knowledge, not just software familiarity.",
+        "crosslinks": [
+          { "text": "QuickBooks services →", "url": "https://hharpp.com/quickbooks/" }
+        ]
+      },
+      {
+        "title": "AccountingSuite — Nevada's only certified provider",
+        "body": "Serves construction contractors who need native job costing, project management, and multi-entity reporting that QBO requires workarounds to approximate. Setup, training, and QuickBooks migration from Nevada's only AccountingSuite-certified provider.",
+        "crosslinks": [
+          { "text": "AccountingSuite services →", "url": "https://hharpp.com/accountingsuite/" }
+        ]
+      },
+      {
+        "title": "Multi-state NV + CA bookkeeping and payroll",
+        "body": "Serves businesses operating in both Nevada and California — a common pattern for CA-based businesses holding Nevada LLCs or expanding across state lines. Dual-state compliance for both bookkeeping and payroll from a single engagement.",
+        "crosslinks": []
+      }
+    ]
+  },
+
+  "how_heather_works": {
+    "h2": "How working with Hharpp actually works",
+    "items": [
+      {
+        "id": "how-step-1",
+        "title": "Every engagement is personal",
+        "body": "Heather is the only person who works on your books. When you call or email, you reach Heather — not an account manager, not a junior bookkeeper, not a support queue. This is not a staffed firm. It is one experienced professional who knows your file."
+      },
+      {
+        "id": "how-step-2",
+        "title": "100% virtual, 100% accessible",
+        "body": "All services are delivered via screen share and secure cloud access. No office visit required — clients in Henderson, Boulder City, Las Vegas, Southern California, and across the country work with Hharpp on equal footing. Virtual delivery does not mean impersonal delivery."
+      },
+      {
+        "id": "how-step-3",
+        "title": "Data security and confidentiality",
+        "body": "Client financial records are handled with the standards required for professional CPB practice. Access is restricted, data is stored securely, and records are maintained per Nevada's four-year retention requirement. Heather does not share client information with third parties."
+      }
+    ],
+    "consultation_heading": "What to expect from a free consultation",
+    "consultation_body": "The first conversation is free and takes 20–30 minutes. Heather reviews your current situation, asks about your business, and gives an honest assessment — including whether Hharpp is the right fit. If the engagement moves forward, she provides a flat-rate scope and quote. No surprises."
+  },
+
+  "client_story": {
+    "configured": false,
+    "h2": "What clients say about working with Heather",
+    "testimonials": [
+      {
+        "id": "testimonial-0",
+        "author": "Cathy DeHart",
+        "company": "DeHart Construction Services",
+        "quote": "Like Mary Poppins, she swept in and brought order to our financial chaos. Heather's expertise in construction accounting is unmatched — she knows exactly what contractors need and delivers it.",
+        "angle": "Construction + accuracy"
+      },
+      {
+        "id": "testimonial-1",
+        "author": "William J. Osgood",
+        "company": "CFR & Associates",
+        "quote": "Heather is a specialist in construction cost accounting. Her work on our books gave us the accurate job costing we needed to understand our true profitability on every project.",
+        "angle": "Job costing accuracy"
+      },
+      {
+        "id": "testimonial-2",
+        "author": "Armands Williams",
+        "company": "SimpleTech",
+        "quote": "Heather is amazing at what she does. She set up our QuickBooks the right way and trained our team to use it. We finally have reports we can trust.",
+        "angle": "QB setup + training"
+      }
+    ],
+    "placeholder_heading": "Construction contractors trust Hharpp with their books",
+    "placeholder_body": "Hharpp has served Nevada construction companies for over 16 years. Client stories and case studies are being finalized and will appear here shortly.",
+    "placeholder_stats": [
+      "16 years serving Nevada contractors",
+      "Certified payroll filed under NRS 338",
+      "Job costing configured in QuickBooks and AccountingSuite"
+    ]
+  },
+
+  "community": {
+    "h2": "Professional memberships and community involvement",
+    "signals": [
+      {
+        "label": "Alignable — Highly Recommended",
+        "body": "16 peer recommendations from fellow Henderson and Boulder City business owners. The Highly Recommended badge from Alignable reflects genuine peer credibility within the local business community.",
+        "url": "https://www.alignable.com/boulder-city-nv/hharpp-business-services",
+        "link_text": "View Alignable profile →"
+      },
+      {
+        "label": "AIPB Member — American Institute of Professional Bookkeepers",
+        "body": "Active member of the national professional organization behind the CPB credential. Members commit to ongoing professional education and ethical standards in bookkeeping practice.",
+        "url": "https://www.aipb.org",
+        "link_text": "About AIPB →"
+      },
+      {
+        "label": "Holistic Chamber of Commerce — Boulder City",
+        "body": "Active member and speaker. Heather has presented at Holistic Chamber events, establishing her as a visible and engaged member of the Boulder City business community.",
+        "url": "https://hharpp.com/about/",
+        "link_text": "Holistic Chamber of Commerce →",
+        "url_note": "Replace with actual Holistic Chamber URL when confirmed"
+      },
+      {
+        "label": "BBB Listed — Zero Complaints",
+        "body": "Hharpp Business Services Inc is listed with the Better Business Bureau with no complaint history. A zero-complaint BBB record over 16 years is a meaningful trust signal.",
+        "url": "https://www.bbb.org",
+        "link_text": "View BBB listing →",
+        "url_note": "Replace with direct BBB listing URL when confirmed"
+      },
+      {
+        "label": "Intuit QuickBooks ProAdvisor Directory",
+        "body": "Verified listing in the Intuit ProAdvisor directory — the platform where businesses search for certified QuickBooks professionals by location and specialty.",
+        "url": "https://quickbooks.intuit.com/find-an-accountant/",
+        "link_text": "View ProAdvisor directory →"
+      }
+    ],
+    "nacpb_note": "CPB credential holders can be verified at nacpb.org. Heather's CPB certification is active and maintained through ongoing continuing education.",
+    "nacpb_url": "https://www.nacpb.org",
+    "address_mention": "Hharpp Business Services Inc is registered in Boulder City, Nevada (1010 Industrial Road #166 Canary Way, Boulder City, NV 89005) and serves Henderson, Las Vegas, and Southern Nevada virtually."
+  },
+
+  "services_nav": {
+    "h2": "Services Heather provides through Hharpp",
+    "services": [
+      { "title": "Bookkeeping", "description": "Monthly bookkeeping, catch-up cleanup, financial statements, Nevada compliance.", "url": "https://hharpp.com/bookkeeping/" },
+      { "title": "Payroll", "description": "Managed payroll, certified payroll NRS 338, DETR and MBT compliance.", "url": "https://hharpp.com/payroll/" },
+      { "title": "QuickBooks", "description": "Setup, training, Desktop migration, file cleanup, construction QB.", "url": "https://hharpp.com/quickbooks/" },
+      { "title": "AccountingSuite", "description": "Nevada's only certified AccountingSuite provider.", "url": "https://hharpp.com/accountingsuite/" },
+      { "title": "Payroll pricing", "description": "Scope-based pricing — free quote.", "url": "https://hharpp.com/payroll/pricing/" },
+      { "title": "Contact", "description": "Free consultation · (702) 342-8844", "url": "https://hharpp.com/contact/" }
+    ],
+    "cta_h2": "Ready to work with Heather?",
+    "cta_sub": "Free consultation · No obligation · Flat-rate quotes before any work begins",
+    "cta_primary_text": "Schedule a free consultation",
+    "cta_primary_url": "https://hharpp.com/contact/",
+    "cta_secondary_text": "Call (702) 342-8844",
+    "cta_secondary_href": "tel:+17023428844",
+    "cta_hours": "Mon–Thu 8:30 AM–4:00 PM MT"
+  },
+
+  "faqs": [
+    {
+      "id": "faq-0",
+      "anchor": "faq-who-is-heather",
+      "question": "Who is Heather Potvin?",
+      "speakable_class": "about-speakable-3",
+      "voice_answer": "Heather Potvin is a Certified Public Bookkeeper and the owner of Hharpp Business Services Inc in Boulder City, Nevada, serving small businesses in Henderson and Southern Nevada since 2009.",
+      "full_answer": "She holds the QuickBooks Advanced ProAdvisor certification, AccountingSuite certification, and SHRM membership. She specializes in construction accounting, certified payroll under NRS 338, and Nevada compliance."
+    },
+    {
+      "id": "faq-1",
+      "anchor": "faq-what-is-cpb",
+      "question": "What is a Certified Public Bookkeeper (CPB)?",
+      "speakable_class": "about-speakable-4",
+      "voice_answer": "A Certified Public Bookkeeper (CPB) is the highest-level bookkeeping credential in the United States, issued by the National Association of Certified Public Bookkeepers. It requires passing four exams and ongoing continuing education.",
+      "full_answer": "The CPB requires passing four exams covering bookkeeping, accounting, payroll, and QuickBooks, plus at least one year of professional experience, and ongoing continuing professional education to maintain. The CPB credential is specifically designed for bookkeepers who serve clients as independent practitioners — which is why it is sometimes described as the bookkeeping equivalent of a CPA license for accounting."
+    },
+    {
+      "id": "faq-2",
+      "anchor": "faq-cpb-vs-cpa",
+      "question": "Is a CPB as good as a CPA for bookkeeping?",
+      "speakable_class": "about-speakable-5",
+      "voice_answer": "For ongoing bookkeeping, a CPB is the appropriate credential — and in some ways more specialized. A CPA is trained broadly in auditing and tax strategy. A Certified Public Bookkeeper specializes exclusively in bookkeeping.",
+      "full_answer": "A CPA (Certified Public Accountant) is trained broadly in auditing, tax strategy, and financial reporting. A Certified Public Bookkeeper specializes exclusively in bookkeeping: recording transactions, reconciling accounts, maintaining financial records, and producing accurate financial statements. For the day-to-day financial record-keeping that small businesses need, a CPB's training is directly targeted at that work. For tax filing and tax strategy, a CPA or Enrolled Agent is the right credential. Many Hharpp clients use Heather for bookkeeping and payroll year-round, and work with a CPA only at tax time."
+    },
+    {
+      "id": "faq-3",
+      "anchor": "faq-bookkeeper-vs-accountant",
+      "question": "What is the difference between a bookkeeper and an accountant?",
+      "speakable_class": "about-speakable-6",
+      "voice_answer": "A bookkeeper records and categorizes financial transactions, reconciles accounts, and produces financial statements. An accountant analyzes those records for tax strategy, files tax returns, and advises on financial decisions.",
+      "full_answer": "Think of the bookkeeper as the person who keeps the financial records current and accurate, and the CPA as the person who uses those records to minimize your tax liability and ensure compliance. Both are necessary; they serve different functions. Many small businesses work with a bookkeeper year-round and bring in a CPA only at tax time."
+    },
+    {
+      "id": "faq-4",
+      "anchor": "faq-verify-credentials",
+      "question": "How do I verify a bookkeeper is certified?",
+      "speakable_class": "about-speakable-7",
+      "voice_answer": "For CPB certification, check the NACPB member directory at nacpb.org. For QuickBooks ProAdvisor certification, search the Intuit ProAdvisor directory. For BBB standing, check bbb.org.",
+      "full_answer": "For CPB certification: check the NACPB member directory at nacpb.org. For QuickBooks ProAdvisor certification: search the Intuit ProAdvisor directory at quickbooks.intuit.com/find-an-accountant. For AIPB membership: contact AIPB directly at aipb.org. For BBB standing: check bbb.org. For Alignable peer recommendations: visit the business profile on alignable.com. Heather Potvin's credentials are independently verifiable through each of these sources."
+    },
+    {
+      "id": "faq-5",
+      "anchor": "faq-why-hire-bookkeeper",
+      "question": "Why should I hire a bookkeeper instead of doing my own books?",
+      "speakable_class": null,
+      "voice_answer": "Three reasons: time — the average small business owner spends 8–10 hours per month on bookkeeping. Accuracy — errors compound. And compliance — Nevada has specific payroll requirements that change annually.",
+      "full_answer": "First, time — the average small business owner spends 8–10 hours per month on bookkeeping. That time has an opportunity cost. Second, accuracy — bookkeeping errors compound. A miscategorized expense in January becomes a wrong financial statement in December becomes a tax return that does not reflect reality. Third, compliance — Nevada has specific requirements for payroll (DETR registration, MBT, certified payroll for public works) that change annually. A CPB who tracks Nevada compliance keeps your business current without you needing to track it yourself."
+    },
+    {
+      "id": "faq-6",
+      "anchor": "faq-construction-specialty",
+      "question": "Does Heather Potvin specialize in construction accounting?",
+      "speakable_class": null,
+      "voice_answer": "Yes. Heather Potvin has specialized in construction accounting for Nevada contractors for over 16 years, including job costing, AIA billing, certified payroll under NRS 338, and AccountingSuite setup.",
+      "full_answer": "Her construction accounting services include job costing setup via QuickBooks Projects and Classes, AIA billing in G702/G703 format, certified payroll reporting under NRS 338.070, prevailing wage compliance monitoring for Nevada public works contracts, Buildertrend-to-QuickBooks integration, and AccountingSuite setup for contractors who need construction-native ERP."
+    },
+    {
+      "id": "faq-7",
+      "anchor": "faq-how-long-hharpp",
+      "question": "How long has Hharpp Business Services been in operation?",
+      "speakable_class": "about-speakable-8",
+      "voice_answer": "Hharpp Business Services Inc was founded by Heather Potvin in Boulder City, Nevada in 2009, and has been in continuous operation for 16 years serving small businesses in Henderson, Las Vegas, and Southern Nevada.",
+      "full_answer": "As of 2025, Hharpp has been in continuous operation for 16 years serving small businesses in Henderson, Las Vegas, Southern Nevada, and California. Hharpp is a registered Nevada corporation and is listed with the Better Business Bureau with no complaints on record."
+    }
+  ],
+
+  "schema": {
+    "person_id": "https://hharpp.com/#heather-potvin",
+    "organization_id": "https://hharpp.com/#organization",
+    "page_url": "https://hharpp.com/about/",
+    "speakable_selectors": [
+      ".about-speakable-0",
+      ".about-speakable-1",
+      ".about-speakable-2",
+      ".about-speakable-3",
+      ".about-speakable-4",
+      ".about-speakable-5",
+      ".about-speakable-6",
+      ".about-speakable-7",
+      ".about-speakable-8"
+    ],
+    "person": {
+      "name": "Heather Potvin",
+      "job_title": "President, CFO, Certified Public Bookkeeper",
+      "has_credential": [
+        "Certified Public Bookkeeper (CPB) — NACPB",
+        "QuickBooks Advanced ProAdvisor — Intuit",
+        "AccountingSuite Certified",
+        "SHRM Member — Society for Human Resource Management",
+        "MBA",
+        "CMA — Canadian Management Accountant (retired)"
+      ],
+      "knows_about": [
+        "Construction Accounting",
+        "Job Costing",
+        "AIA Billing",
+        "Certified Payroll NRS 338",
+        "Nevada Payroll Compliance",
+        "QuickBooks Online",
+        "QuickBooks Desktop Migration",
+        "AccountingSuite",
+        "Nevada DETR Compliance",
+        "Modified Business Tax"
+      ],
+      "member_of": [
+        { "name": "American Institute of Professional Bookkeepers", "url": "https://www.aipb.org" },
+        { "name": "Society for Human Resource Management", "url": "https://www.shrm.org" },
+        { "name": "Holistic Chamber of Commerce", "url": "https://hharpp.com/about/" }
+      ],
+      "same_as": [
+        "https://www.alignable.com/boulder-city-nv/hharpp-business-services",
+        "https://www.bbb.org",
+        "https://www.aipb.org",
+        "https://quickbooks.intuit.com/find-an-accountant/",
+        "https://www.nacpb.org"
+      ]
+    }
+  },
+
+  "internal_links": [
+    { "anchor_text": "Bookkeeping services", "url": "https://hharpp.com/bookkeeping/" },
+    { "anchor_text": "Payroll services", "url": "https://hharpp.com/payroll/" },
+    { "anchor_text": "QuickBooks services", "url": "https://hharpp.com/quickbooks/" },
+    { "anchor_text": "AccountingSuite", "url": "https://hharpp.com/accountingsuite/" },
+    { "anchor_text": "Payroll pricing", "url": "https://hharpp.com/payroll/pricing/" },
+    { "anchor_text": "Contact — free consultation", "url": "https://hharpp.com/contact/" }
+  ]
+}

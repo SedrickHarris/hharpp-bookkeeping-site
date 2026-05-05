@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy | Hharpp Business Services | Boulder City, NV</title>
+  <meta name="description" content="Privacy policy for Hharpp Business Services Inc  -  how we collect, use, and protect your information. Boulder City, NV.">
+  <link rel="canonical" href="https://hharpp.com/privacy-policy/">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Heather Potvin, CPB">
+
+  <meta property="og:title" content="Privacy Policy | Hharpp Business Services">
+  <meta property="og:description" content="How Hharpp Business Services Inc collects, uses, and protects your information.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hharpp.com/privacy-policy/">
+  <meta property="og:site_name" content="Hharpp Business Services">
+  <meta property="og:locale" content="en_US">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+    :root {
+      --gold:        #B8960C;
+      --gold-lt:     #FFF8E0;
+      --gold-dk:     #8A6500;
+      --gold-border: #D4A017;
+      --navy:        #1B2F6E;
+      --navy-lt:     #E8EFF6;
+      --warm-white:  #F7F4EF;
+      --white:       #FFFFFF;
+      --charcoal:    #2C2C2C;
+      --mid-grey:    #6B6B6B;
+      --font-serif:  'Lora', Georgia, serif;
+      --font-sans:   'Plus Jakarta Sans', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-sans);
+      font-size: 16px;
+      color: var(--charcoal);
+      background: var(--white);
+      line-height: 1.7;
+    }
+
+    /* NAV */
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: var(--white);
+      border-bottom: 0.5px solid rgba(0,0,0,0.08);
+    }
+    .nav-inner {
+      max-width: 1200px; margin: 0 auto; padding: 0 24px;
+      display: flex; align-items: center;
+      justify-content: space-between; height: 64px;
+    }
+    .nav-logo {
+      font-family: var(--font-serif); font-weight: 600;
+      font-size: 22px; color: var(--navy);
+      text-decoration: none;
+    }
+    .nav-links {
+      display: none; gap: 28px; list-style: none;
+    }
+    @media (min-width: 768px) { .nav-links { display: flex; } }
+    .nav-links a {
+      font-size: 14px; font-weight: 500; color: var(--charcoal);
+      text-decoration: none; opacity: 0.8;
+    }
+    .nav-links a:hover { opacity: 1; }
+    .nav-cta {
+      background: var(--gold); color: var(--white);
+      font-family: var(--font-sans); font-weight: 600;
+      font-size: 13px; padding: 9px 20px;
+      border-radius: 6px; border: none;
+      text-decoration: none; white-space: nowrap;
+    }
+    .nav-cta:hover { background: var(--gold-dk); }
+
+    /* BREADCRUMB */
+    .breadcrumb {
+      background: var(--warm-white);
+      border-bottom: 0.5px solid rgba(0,0,0,0.05);
+    }
+    .breadcrumb ol {
+      max-width: 1200px; margin: 0 auto;
+      padding: 8px 24px; list-style: none;
+      display: flex; gap: 8px;
+      font-size: 12px; color: var(--mid-grey);
+    }
+    .breadcrumb li + li::before { content: "›"; margin-right: 8px; }
+    .breadcrumb a { color: var(--mid-grey); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--navy); }
+
+    /* HERO */
+    .policy-hero {
+      background: var(--warm-white);
+      padding: 56px 24px 40px;
+      border-bottom: 0.5px solid rgba(0,0,0,0.06);
+    }
+    .policy-hero-inner {
+      max-width: 800px; margin: 0 auto;
+    }
+    .eyebrow {
+      font-family: var(--font-sans); font-weight: 600;
+      font-size: 11px; text-transform: uppercase;
+      letter-spacing: 0.1em; color: var(--gold-dk);
+      margin-bottom: 10px;
+    }
+    .policy-hero h1 {
+      font-family: var(--font-serif); font-weight: 600;
+      font-size: clamp(28px, 4vw, 36px); color: var(--navy);
+      line-height: 1.2; margin-bottom: 16px;
+    }
+    .policy-meta {
+      font-size: 13px; color: var(--mid-grey);
+      display: flex; gap: 20px; flex-wrap: wrap;
+    }
+    .policy-meta span { display: flex; align-items: center; gap: 5px; }
+    .policy-meta .dot {
+      width: 4px; height: 4px; border-radius: 50%;
+      background: var(--gold); flex-shrink: 0;
+    }
+
+    /* MAIN CONTENT */
+    .policy-body {
+      max-width: 800px; margin: 0 auto;
+      padding: 48px 24px 72px;
+    }
+
+    /* SECTION */
+    .policy-section { margin-bottom: 40px; }
+
+    .policy-section h2 {
+      font-family: var(--font-serif); font-weight: 600;
+      font-size: 20px; color: var(--navy);
+      line-height: 1.3; margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 0.5px solid rgba(0,0,0,0.08);
+    }
+
+    .policy-section p {
+      font-size: 15px; color: var(--charcoal);
+      line-height: 1.75; margin-bottom: 14px;
+    }
+    .policy-section p:last-child { margin-bottom: 0; }
+
+    .policy-section ul {
+      margin: 10px 0 14px 0; padding-left: 0;
+      list-style: none;
+    }
+    .policy-section ul li {
+      font-size: 15px; color: var(--charcoal);
+      line-height: 1.65; margin-bottom: 8px;
+      padding-left: 18px; position: relative;
+    }
+    .policy-section ul li::before {
+      content: '';
+      position: absolute; left: 0; top: 9px;
+      width: 5px; height: 5px; border-radius: 50%;
+      background: var(--gold);
+    }
+
+    /* CONTACT BOX */
+    .contact-box {
+      background: var(--navy-lt);
+      border-radius: 10px;
+      padding: 22px 26px;
+      margin-top: 16px;
+    }
+    .contact-box p {
+      font-size: 14px; color: var(--navy);
+      line-height: 1.65; margin-bottom: 6px !important;
+    }
+    .contact-box p:last-child { margin-bottom: 0 !important; }
+    .contact-box a {
+      color: var(--navy); font-weight: 500;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(27,58,92,0.4);
+    }
+    .contact-box a:hover { border-bottom-color: var(--navy); }
+
+    /* HIGHLIGHT BOX */
+    .highlight-box {
+      background: var(--gold-lt);
+      border-left: 3px solid var(--gold-border);
+      padding: 16px 20px;
+      margin: 16px 0;
+    }
+    .highlight-box p {
+      font-size: 14px; color: var(--charcoal);
+      line-height: 1.65; margin-bottom: 0 !important;
+    }
+
+    /* EFFECTIVE DATE BANNER */
+    .effective-banner {
+      background: var(--warm-white);
+      border: 0.5px solid rgba(0,0,0,0.1);
+      border-radius: 8px;
+      padding: 14px 18px;
+      margin-bottom: 36px;
+      display: flex; align-items: center;
+      gap: 10px; flex-wrap: wrap;
+    }
+    .effective-banner .badge {
+      background: var(--navy); color: var(--white);
+      font-size: 11px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.07em;
+      padding: 3px 10px; border-radius: 99px;
+      white-space: nowrap;
+    }
+    .effective-banner p {
+      font-size: 13px; color: var(--mid-grey);
+      margin-bottom: 0 !important;
+    }
+
+    /* TOC */
+    .toc {
+      background: var(--warm-white);
+      border: 0.5px solid rgba(0,0,0,0.08);
+      border-radius: 10px;
+      padding: 20px 24px;
+      margin-bottom: 40px;
+    }
+    .toc-label {
+      font-size: 11px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.08em;
+      color: var(--mid-grey); margin-bottom: 12px;
+    }
+    .toc ol {
+      list-style: decimal; padding-left: 18px;
+      columns: 2; column-gap: 24px;
+    }
+    @media (max-width: 540px) { .toc ol { columns: 1; } }
+    .toc li {
+      font-size: 13px; color: var(--navy);
+      margin-bottom: 6px;
+    }
+    .toc a {
+      color: var(--navy); text-decoration: none;
+    }
+    .toc a:hover {
+      color: var(--gold);
+      border-bottom: 1px solid var(--gold);
+    }
+
+    /* CTA BAND */
+    .cta-band {
+      background: var(--navy);
+      padding: 52px 24px;
+      text-align: center;
+    }
+    .cta-band-inner { max-width: 640px; margin: 0 auto; }
+    .cta-band h2 {
+      font-family: var(--font-serif); font-weight: 600;
+      font-size: 26px; color: var(--white);
+      line-height: 1.3; margin-bottom: 10px;
+    }
+    .cta-band p {
+      font-size: 15px; color: rgba(255,255,255,0.75);
+      margin-bottom: 28px;
+    }
+    .cta-row {
+      display: flex; flex-wrap: wrap;
+      gap: 12px; justify-content: center;
+    }
+    .btn-white {
+      background: var(--white); color: var(--navy);
+      font-family: var(--font-sans); font-weight: 600;
+      font-size: 13px; padding: 11px 24px;
+      border-radius: 6px; border: none;
+      text-decoration: none;
+    }
+    .btn-white:hover { background: var(--warm-white); }
+    .btn-outline-white {
+      background: transparent; color: var(--white);
+      font-family: var(--font-sans); font-weight: 600;
+      font-size: 13px; padding: 11px 24px;
+      border-radius: 6px; border: 1.5px solid rgba(255,255,255,0.5);
+      text-decoration: none;
+    }
+    .btn-outline-white:hover { border-color: var(--white); }
+
+    /* FOOTER */
+    footer {
+      background: var(--charcoal);
+      color: rgba(255,255,255,0.65);
+      padding: 40px 24px;
+    }
+    .footer-inner {
+      max-width: 1200px; margin: 0 auto;
+      display: flex; flex-wrap: wrap;
+      justify-content: space-between; gap: 24px;
+    }
+    .footer-left p {
+      font-size: 13px; line-height: 1.7; margin-bottom: 2px;
+    }
+    .footer-name {
+      font-family: var(--font-serif); font-weight: 600;
+      font-size: 18px; color: var(--white);
+      margin-bottom: 6px !important;
+    }
+    .footer-left a {
+      color: rgba(255,255,255,0.65); text-decoration: none;
+    }
+    .footer-left a:hover { color: var(--white); }
+    .footer-right {
+      text-align: right;
+      display: flex; flex-direction: column; gap: 4px;
+    }
+    @media (max-width: 640px) { .footer-right { text-align: left; } }
+    .footer-right a {
+      font-size: 13px; color: rgba(255,255,255,0.65);
+      text-decoration: none; display: block;
+    }
+    .footer-right a:hover { color: var(--white); }
+    .footer-bottom {
+      max-width: 1200px; margin: 20px auto 0;
+      padding-top: 16px;
+      border-top: 0.5px solid rgba(255,255,255,0.1);
+      font-size: 12px; color: rgba(255,255,255,0.4);
+    }
+  
+/* ============================================================
+   GLOBAL ENHANCEMENTS — injected across all Hharpp pages
+   ============================================================ */
+
+/* ── Scroll-triggered fade-in ── */
+.reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition: opacity 0.55s ease, transform 0.55s ease;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.reveal-delay-1 { transition-delay: 0.08s; }
+.reveal-delay-2 { transition-delay: 0.16s; }
+.reveal-delay-3 { transition-delay: 0.24s; }
+
+/* ── Card hover elevation (plain cards only) ── */
+.service-card:hover,
+.cat-card:hover,
+.sv-card:hover,
+.cm-card:hover,
+.tr-card:hover,
+.mc-card:hover,
+.svc-card:hover,
+.plan-card:hover,
+.who-card:hover,
+.hw-card:hover,
+.profile-card:hover,
+.ds-step:hover,
+.rs-errors:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.07);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+/* ── Gold-accent card hover ── */
+.cr-card:hover,
+.included-card:hover,
+.diff-card:hover,
+.cqb-card:hover,
+.why-card:hover,
+.sf-card:hover,
+.sp-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(184,150,12,0.12);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+/* ── Button micro-interactions ── */
+.btn-gold, .btn-primary, .nav-cta,
+.btn-gold-outline, a.btn-gold, a.btn-primary {
+  transition: background 0.15s ease, transform 0.1s ease, box-shadow 0.15s ease;
+}
+.btn-gold:hover, a.btn-gold:hover, .nav-cta:hover {
+  box-shadow: 0 4px 14px rgba(184,150,12,0.3);
+}
+.btn-gold:active, a.btn-gold:active,
+.btn-primary:active, a.btn-primary:active,
+.nav-cta:active {
+  transform: scale(0.97);
+}
+
+/* ── H2 gold underline (section headings) ── */
+.section-h2-gold {
+  position: relative;
+  display: inline-block;
+}
+.section-h2-gold::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 44px;
+  height: 3px;
+  background: var(--gold);
+  border-radius: 2px;
+}
+
+/* ── Testimonial decorative quote mark ── */
+.test-card,
+.testimonial-card,
+.te-card {
+  position: relative;
+}
+.test-card::before,
+.testimonial-card::before,
+.te-card::before {
+  content: '\201C';
+  position: absolute;
+  top: 8px;
+  right: 18px;
+  font-family: var(--font-serif);
+  font-size: 72px;
+  line-height: 1;
+  color: var(--gold-border);
+  opacity: 0.35;
+  pointer-events: none;
+  font-style: italic;
+}
+
+/* ── Focus ring — accessible, branded ── */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ── Nav active page indicator ── */
+.nav-current {
+  color: var(--navy) !important;
+  font-weight: 600 !important;
+  position: relative;
+}
+.nav-current::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: var(--gold);
+  border-radius: 1px;
+}
+
+/* ── Smooth card transition baseline ── */
+[class*="-card"] {
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.15s ease;
+}
+
+/* ── Hero subtle gradient ── */
+.hero-gradient {
+  background: radial-gradient(ellipse at 50% 0%, #FFF8E0 0%, var(--warm-white) 65%);
+}
+
+</style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://hharpp.com/privacy-policy/#webpage",
+    "url": "https://hharpp.com/privacy-policy/",
+    "name": "Privacy Policy | Hharpp Business Services",
+    "description": "Privacy policy for Hharpp Business Services Inc  -  how we collect, use, and protect your information.",
+    "isPartOf": { "@id": "https://hharpp.com/#website" },
+    "breadcrumb": { "@id": "https://hharpp.com/privacy-policy/#breadcrumb" },
+    "author": { "@id": "https://hharpp.com/#heather-potvin" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "@id": "https://hharpp.com/privacy-policy/#breadcrumb",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hharpp.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Privacy Policy", "item": "https://hharpp.com/privacy-policy/" }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<!-- NAV -->
+<nav id="main-nav">
+  <div class="nav-inner">
+    <a href="/" class="nav-logo"><img src="/images/hharpp_logo.webp" alt="Hharpp Business Services Inc" height="40" style="display:block;"></a>
+    <ul class="nav-links">
+      <li><a href="/bookkeeping/">Bookkeeping</a></li>
+      <li><a href="/payroll/">Payroll</a></li>
+      <li><a href="/quickbooks/">QuickBooks</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/contact/">Contact</a></li>
+    </ul>
+    <a href="/contact/" class="nav-cta">Get a free consultation</a>
+  </div>
+</nav>
+
+<!-- BREADCRUMB -->
+<div class="breadcrumb">
+  <nav aria-label="breadcrumb">
+    <ol>
+      <li><a href="/">Home</a></li>
+      <li aria-current="page">Privacy Policy</li>
+    </ol>
+  </nav>
+</div>
+
+<!-- HERO -->
+<div class="policy-hero">
+  <div class="policy-hero-inner">
+    <p class="eyebrow">Legal · Hharpp Business Services Inc</p>
+    <h1>Privacy Policy</h1>
+    <div class="policy-meta">
+      <span><span class="dot"></span>Effective date: January 1, 2025</span>
+      <span><span class="dot"></span>Last updated: May 2026</span>
+      <span><span class="dot"></span>Hharpp Business Services Inc · Boulder City, NV</span>
+    </div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<main>
+  <div class="policy-body">
+
+    <div class="effective-banner">
+      <span class="badge">Important</span>
+      <p>This policy describes how Hharpp Business Services Inc collects, uses, and protects information when you use our website (hharpp.com) or engage our services. Please read it carefully. By using our website, you agree to the practices described here.</p>
+    </div>
+
+    <!-- TOC -->
+    <div class="toc">
+      <p class="toc-label">Contents</p>
+      <ol>
+        <li><a href="#who-we-are">Who we are</a></li>
+        <li><a href="#information-we-collect">Information we collect</a></li>
+        <li><a href="#how-we-use">How we use your information</a></li>
+        <li><a href="#sharing">Sharing your information</a></li>
+        <li><a href="#data-security">Data security</a></li>
+        <li><a href="#retention">Data retention</a></li>
+        <li><a href="#your-rights">Your rights</a></li>
+        <li><a href="#cookies">Cookies and tracking</a></li>
+        <li><a href="#third-party-links">Third-party links</a></li>
+        <li><a href="#children">Children's privacy</a></li>
+        <li><a href="#nevada-residents">Nevada residents</a></li>
+        <li><a href="#changes">Changes to this policy</a></li>
+        <li><a href="#contact-us">Contact us</a></li>
+      </ol>
+    </div>
+
+    <!-- SECTION 1 -->
+    <div class="policy-section" id="who-we-are">
+      <h2>1. Who we are</h2>
+      <p>Hharpp Business Services Inc ("Hharpp," "we," "our," or "us") is a bookkeeping, payroll, and QuickBooks services firm registered in Nevada. Our registered address is 1010 Industrial Road #166 Canary Way, Boulder City, NV 89005.</p>
+      <p>This Privacy Policy applies to information collected through our website at hharpp.com, through our contact form, and in connection with our professional services engagements.</p>
+      <p>Questions about this policy may be directed to Heather Potvin at <a href="mailto:services@hharpp.com" style="color:var(--gold);border-bottom:1px solid var(--gold-border);text-decoration:none"><a href="mailto:services@hharpp.com" style="color:inherit;text-decoration:none;">services@hharpp.com</a></a> or <a href="tel:+17023428844" style="color:var(--gold);border-bottom:1px solid var(--gold-border);text-decoration:none"><a href="tel:+17023428844" style="color:inherit;text-decoration:none;">(702) 342-8844</a></a>.</p>
+    </div>
+
+    <!-- SECTION 2 -->
+    <div class="policy-section" id="information-we-collect">
+      <h2>2. Information we collect</h2>
+      <p>We collect information in two ways: information you provide to us directly, and information collected automatically when you use our website.</p>
+
+      <p><strong style="color:var(--navy)">Information you provide directly</strong></p>
+      <ul>
+        <li>Contact form submissions: your name, email address, phone number, business name, and the message or service inquiry you submit</li>
+        <li>Email correspondence: any information you share when contacting us by email</li>
+        <li>Phone consultations: notes we take during or after a consultation call</li>
+        <li>Client engagement: if you become a client, financial records, payroll data, business information, and other materials you share with us in the course of our services  -  governed separately by our client engagement agreement and applicable professional standards</li>
+      </ul>
+
+      <p><strong style="color:var(--navy)">Information collected automatically</strong></p>
+      <ul>
+        <li>Log data: your IP address, browser type, pages visited, time and date of visit, and referring URL</li>
+        <li>Analytics: aggregated usage data collected through Google Analytics or similar tools (see Cookies section)</li>
+        <li>Device information: general information about the device used to access our website</li>
+      </ul>
+
+      <div class="highlight-box">
+        <p>We do not collect sensitive personal information such as Social Security Numbers, financial account numbers, or tax identification numbers through our website contact form. If you become a client, such information is collected only through secure, encrypted channels and is governed by our professional engagement agreement.</p>
+      </div>
+    </div>
+
+    <!-- SECTION 3 -->
+    <div class="policy-section" id="how-we-use">
+      <h2>3. How we use your information</h2>
+      <p>We use the information we collect for the following purposes:</p>
+      <ul>
+        <li>To respond to your inquiry or contact form submission</li>
+        <li>To provide and deliver bookkeeping, payroll, QuickBooks, and related professional services</li>
+        <li>To schedule and conduct consultations</li>
+        <li>To communicate with you about your account, services, or questions</li>
+        <li>To improve our website and understand how visitors use it</li>
+        <li>To comply with applicable laws, professional standards, and regulatory requirements</li>
+        <li>To protect the rights, property, or safety of Hharpp, our clients, or others</li>
+      </ul>
+      <p>We do not sell your information. We do not use your information for automated decision-making or profiling. We do not send unsolicited marketing emails.</p>
+    </div>
+
+    <!-- SECTION 4 -->
+    <div class="policy-section" id="sharing">
+      <h2>4. Sharing your information</h2>
+      <p>We do not sell, rent, or trade your personal information to third parties. We share information only in the following limited circumstances:</p>
+      <ul>
+        <li><strong style="color:var(--navy)">Service providers:</strong> We use a small number of third-party tools to operate our website and deliver services  -  including email, scheduling software, and accounting software. These providers are contractually required to protect your information and may not use it for their own purposes.</li>
+        <li><strong style="color:var(--navy)">Professional collaborators:</strong> In some engagements, we may work alongside your CPA, attorney, or other advisors at your direction. We share only what is necessary and only with your knowledge.</li>
+        <li><strong style="color:var(--navy)">Legal requirements:</strong> We may disclose information if required to do so by law, court order, or government authority, or if we believe in good faith that disclosure is necessary to protect our rights, your safety, or the safety of others.</li>
+        <li><strong style="color:var(--navy)">Business transfer:</strong> In the unlikely event of a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you before your information becomes subject to a different privacy policy.</li>
+      </ul>
+    </div>
+
+    <!-- SECTION 5 -->
+    <div class="policy-section" id="data-security">
+      <h2>5. Data security</h2>
+      <p>We take the security of your information seriously. As a professional bookkeeping firm, we apply the same care to your personal data that we apply to client financial records.</p>
+      <ul>
+        <li>Our website uses HTTPS with TLS encryption for all data transmission</li>
+        <li>Contact form submissions are transmitted securely and stored in access-controlled systems</li>
+        <li>Client financial data is handled through cloud-based platforms (QuickBooks Online, AccountingSuite) that maintain SOC 2 certification and bank-level encryption</li>
+        <li>We use strong password practices, two-factor authentication, and role-based access controls on all systems containing client data</li>
+        <li>We do not store sensitive financial information in email</li>
+      </ul>
+      <p>No method of internet transmission or electronic storage is 100% secure. While we use commercially reasonable measures to protect your information, we cannot guarantee absolute security. If you have reason to believe your information has been compromised, please contact us immediately.</p>
+    </div>
+
+    <!-- SECTION 6 -->
+    <div class="policy-section" id="retention">
+      <h2>6. Data retention</h2>
+      <p>We retain information for as long as necessary to fulfill the purposes for which it was collected, comply with legal and professional obligations, and resolve disputes.</p>
+      <ul>
+        <li><strong style="color:var(--navy)">Website inquiries and contact form submissions:</strong> Retained for up to 2 years unless a client relationship develops, in which case the inquiry becomes part of the client record</li>
+        <li><strong style="color:var(--navy)">Client financial and payroll records:</strong> Retained for a minimum of 4 years following the end of the engagement, consistent with Nevada's 4-year record retention requirement and IRS guidance (7 years for payroll tax records)</li>
+        <li><strong style="color:var(--navy)">Website analytics data:</strong> Retained per the terms of our analytics provider (Google Analytics default: 26 months)</li>
+      </ul>
+      <p>When information is no longer needed, we delete or anonymize it using secure methods appropriate to the sensitivity of the data.</p>
+    </div>
+
+    <!-- SECTION 7 -->
+    <div class="policy-section" id="your-rights">
+      <h2>7. Your rights</h2>
+      <p>Depending on your location and applicable law, you may have the following rights regarding your personal information:</p>
+      <ul>
+        <li><strong style="color:var(--navy)">Access:</strong> You may request a copy of the personal information we hold about you</li>
+        <li><strong style="color:var(--navy)">Correction:</strong> You may request that we correct inaccurate or incomplete information</li>
+        <li><strong style="color:var(--navy)">Deletion:</strong> You may request that we delete your personal information, subject to our legal and professional retention obligations</li>
+        <li><strong style="color:var(--navy)">Portability:</strong> Where technically feasible, you may request your information in a portable format</li>
+        <li><strong style="color:var(--navy)">Opt-out:</strong> You may opt out of any marketing communications at any time by contacting us directly</li>
+      </ul>
+      <p>To exercise any of these rights, please contact us using the information in Section 13. We will respond within 30 days. We may need to verify your identity before fulfilling a request. Note that some requests may be limited by our professional obligations or applicable law.</p>
+    </div>
+
+    <!-- SECTION 8 -->
+    <div class="policy-section" id="cookies">
+      <h2>8. Cookies and tracking</h2>
+      <p>Our website uses cookies and similar technologies. A cookie is a small text file stored on your device when you visit a website.</p>
+      <p><strong style="color:var(--navy)">Cookies we use:</strong></p>
+      <ul>
+        <li><strong style="color:var(--navy)">Strictly necessary cookies:</strong> Required for the website to function (e.g., security, form submission). Cannot be disabled.</li>
+        <li><strong style="color:var(--navy)">Analytics cookies:</strong> We use Google Analytics to understand how visitors use our website. Data is aggregated and anonymized. You can opt out using the <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank" style="color:var(--gold);border-bottom:1px solid var(--gold-border);text-decoration:none">Google Analytics opt-out browser add-on</a>.</li>
+      </ul>
+      <p>We do not use advertising cookies, remarketing pixels, or behavioral tracking cookies. We do not share website visitor data with advertisers.</p>
+      <p>Most browsers allow you to control cookies through their settings. Disabling cookies may affect some website functionality.</p>
+    </div>
+
+    <!-- SECTION 9 -->
+    <div class="policy-section" id="third-party-links">
+      <h2>9. Third-party links</h2>
+      <p>Our website may contain links to third-party websites  -  such as the Intuit ProAdvisor directory, Alignable, the Nevada Department of Taxation, DETR, and similar resources. These links are provided for your convenience and information.</p>
+      <p>We have no control over and are not responsible for the privacy practices or content of third-party websites. We encourage you to review the privacy policies of any site you visit through a link on our website.</p>
+    </div>
+
+    <!-- SECTION 10 -->
+    <div class="policy-section" id="children">
+      <h2>10. Children's privacy</h2>
+      <p>Our website and services are intended for business owners and professionals. We do not knowingly collect personal information from children under the age of 13. If you believe a child has provided us with personal information, please contact us immediately and we will delete it.</p>
+    </div>
+
+    <!-- SECTION 11 -->
+    <div class="policy-section" id="nevada-residents">
+      <h2>11. Nevada residents</h2>
+      <p>Nevada residents have specific rights under Nevada Revised Statutes Chapter 603A (Nevada Privacy of Information Collected on the Internet from Consumers Act).</p>
+      <p>Nevada law gives consumers the right to opt out of the sale of their covered information. <strong style="color:var(--navy)">Hharpp does not sell personal information</strong> as defined under Nevada law. We have not sold personal information in the past 12 months. You do not need to take any action to opt out of a sale that does not occur.</p>
+      <p>If you have questions about your Nevada privacy rights, please contact us using the information in Section 13.</p>
+    </div>
+
+    <!-- SECTION 12 -->
+    <div class="policy-section" id="changes">
+      <h2>12. Changes to this policy</h2>
+      <p>We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or for other business reasons. When we make changes, we will update the "Last updated" date at the top of this page.</p>
+      <p>For material changes  -  those that significantly affect how we collect or use your information  -  we will provide additional notice, such as a prominent notice on our website or direct communication to affected individuals.</p>
+      <p>Your continued use of our website after changes are posted constitutes your acceptance of the updated policy.</p>
+    </div>
+
+    <!-- SECTION 13 -->
+    <div class="policy-section" id="contact-us">
+      <h2>13. Contact us</h2>
+      <p>If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
+      <div class="contact-box">
+        <p><strong style="color:var(--navy)">Hharpp Business Services Inc</strong></p>
+        <p>Attn: Heather Potvin  -  Privacy</p>
+        <p>1010 Industrial Road #166 Canary Way<br>Boulder City, NV 89005</p>
+        <p><a href="mailto:services@hharpp.com">services@hharpp.com</a></p>
+        <p><a href="tel:+17023428844">(702) 342-8844</a></p>
+        <p style="margin-top:8px!important;font-size:13px;color:var(--mid-grey)!important">Monday - Thursday · 8:30 AM - 4:30 PM · Friday by appointment · Pacific Time</p>
+      </div>
+      <p style="margin-top:16px;font-size:14px;color:var(--mid-grey)">We will respond to privacy inquiries within 30 days. This policy was last reviewed and updated in May 2026.</p>
+    </div>
+
+  </div>
+</main>
+
+<!-- CTA BAND -->
+<section class="cta-band">
+  <div class="cta-band-inner">
+    <h2>Questions about our privacy practices?</h2>
+    <p>Contact Heather Potvin directly  -  all inquiries are handled personally.</p>
+    <div class="cta-row">
+      <a href="/contact/" class="btn-white">Contact Hharpp</a>
+      <a href="tel:+17023428844" class="btn-outline-white">(702) 342-8844</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-left">
+      <p class="footer-name">Hharpp Business Services Inc</p>
+      <p>1010 Industrial Road #166 Canary Way, Boulder City, NV 89005</p>
+      <p><a href="tel:+17023428844">(702) 342-8844</a></p>
+      <p>Mon-Thu 8:30 AM-4:30 PM · Fri by appt · PT</p>
+    </div>
+    <div class="footer-right">
+      <a href="/bookkeeping/">Bookkeeping</a>
+      <a href="/payroll/">Payroll</a>
+      <a href="/quickbooks/">QuickBooks</a>
+      <a href="/accountingsuite/">AccountingSuite</a>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/terms/">Terms of Service</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    © 2025 Hharpp Business Services Inc · Boulder City, NV ·
+    <a href="/privacy-policy/" style="color:rgba(255,255,255,0.4);text-decoration:none">Privacy Policy</a> ·
+    <a href="/terms/" style="color:rgba(255,255,255,0.4);text-decoration:none">Terms of Service</a>
+  </div>
+</footer>
+
+<script>
+const nav = document.getElementById('main-nav');
+window.addEventListener('scroll', () => {
+  nav.style.boxShadow = window.scrollY > 10
+    ? '0 1px 12px rgba(0,0,0,0.08)'
+    : 'none';
+});
+
+document.querySelectorAll('a[href^="#"]').forEach(a => {
+  a.addEventListener('click', e => {
+    const target = document.querySelector(a.getAttribute('href'));
+    if (!target) return;
+    e.preventDefault();
+    const offset = 72;
+    const top = target.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo({ top, behavior: 'smooth' });
+  });
+});
+</script>
+<script>
+/* ── Scroll reveal observer ── */
+(function() {
+  var els = document.querySelectorAll(
+    'section, .service-card, .cat-card, .included-card, .diff-card, ' +
+    '.cqb-card, .why-card, .who-card, .mc-card, .svc-card, .plan-card, ' +
+    '.test-card, .testimonial-card, .te-card, .cr-card, .hw-card, ' +
+    '.cm-card, .sv-card, .tr-card, .sf-card, .sp-card, .ds-step'
+  );
+  els.forEach(function(el, i) {
+    el.classList.add('reveal');
+    if (i % 3 === 1) el.classList.add('reveal-delay-1');
+    if (i % 3 === 2) el.classList.add('reveal-delay-2');
+  });
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        observer.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+  els.forEach(function(el) { observer.observe(el); });
+})();
+</script>
+</body>
+</html>

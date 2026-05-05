@@ -1,0 +1,316 @@
+{
+  "company": {
+    "name": "Hharpp Business Services",
+    "legal_name": "Hharpp Business Services Inc",
+    "owner": "Heather Potvin",
+    "title": "President / CFO / CPB",
+    "founded": "2009",
+    "years_in_business": "16+",
+    "location": "Boulder City, Nevada",
+    "service_model": "100% virtual / remote",
+    "states_served": ["Nevada", "California"],
+    "reach": "Nationwide",
+    "phone": "(702) 342-8844",
+    "phone_schema": "+1-702-342-8844",
+    "email": "services@hharpp.com",
+    "website": "https://hharpp.com",
+    "hours": "Monday–Thursday 8:30 AM – 4:00 PM MT",
+    "hours_schema": [
+      { "days": ["Monday","Tuesday","Wednesday","Thursday"], "opens": "08:30", "closes": "16:00" }
+    ],
+    "address": {
+      "street": "1010 Industrial Road #166 Canary Way",
+      "city": "Boulder City",
+      "state": "NV",
+      "zip": "89005",
+      "country": "US",
+      "lat": 35.9788,
+      "lng": -114.8328
+    },
+    "social_proof": "Alignable Highly Recommended · 16 Peer Recommendations · BBB Listed — Zero Complaints"
+  },
+
+  "credentials": [
+    { "name": "Certified Public Bookkeeper (CPB)", "issuer": "American Institute of Professional Bookkeepers" },
+    { "name": "Certified Management Accountant (CMA, retired)", "issuer": "CMA Canada" },
+    { "name": "QuickBooks Certified Advanced Pro-Advisor", "issuer": "Intuit" },
+    { "name": "Master of Business Administration (MBA)", "issuer": "" }
+  ],
+
+  "memberships": [
+    "Society for Human Resource Management (SHRM)",
+    "American Institute of Professional Bookkeepers (AIPB)"
+  ],
+
+  "same_as": [
+    "https://www.alignable.com/henderson-nv/hharpp-accounting-services",
+    "https://proadvisor.intuit.com/app/accountant/search?searchId=heather-potvin",
+    "https://members.ghdcc.com/members/member/hharpp-business-services-inc-117",
+    "https://www.bbb.org/us/ca/rancho-cucamonga/profile/accountant/hharpp-accounting-services-1126-89075592"
+  ],
+
+  "services": [
+    {
+      "id": "bookkeeping",
+      "name": "Bookkeeping",
+      "url": "/bookkeeping/",
+      "description": "Monthly bookkeeping, catch-up, clean-up, and account reconciliation. We specialize in getting books that are months or years behind back in order — no judgment, no chaos too big."
+    },
+    {
+      "id": "payroll",
+      "name": "Payroll Services",
+      "url": "/payroll/",
+      "description": "Full-service cloud payroll management from onboarding through year-end W-2s and 1099s. Or we train you and your staff to run it yourselves — whichever fits your business."
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks Setup & Training",
+      "url": "/quickbooks/",
+      "description": "QuickBooks Certified Advanced Pro-Advisor for Desktop and Online. We set up, clean up, and train your team. Alternatives available: AccountingSuite, BuilderTrend, and Sage."
+    },
+    {
+      "id": "cashflow",
+      "name": "Cash Flow Management",
+      "url": "/cash-flow-management/",
+      "description": "Real-time visibility into where your money is going and when it's coming in. We build the reports and review cadence that keeps you out of cash crisis and in control."
+    },
+    {
+      "id": "consulting",
+      "name": "Business Consulting",
+      "url": "/consulting/",
+      "description": "Our S.M.A.R.T. framework helps you identify what's working and what isn't. Includes a complimentary Customer Value Analysis — no obligation, no pressure."
+    },
+    {
+      "id": "hr",
+      "name": "HR Services",
+      "url": "/hr-services/",
+      "description": "Payroll compliance, staff management support, and HR guidance from a SHRM-certified professional. Most bookkeeping firms don't offer this — we do."
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud Accounting & Data Storage",
+      "url": "/cloud-accounting/",
+      "description": "Your books, reports, and financial data secured in the cloud and accessible from anywhere. Ransomware and drive failure protection with everything audit-ready."
+    }
+  ],
+
+  "construction": {
+    "url": "/construction-accounting/",
+    "eyebrow": "Our specialty",
+    "h2": "Construction Accounting & Job Costing",
+    "para1": "Construction accounting is one of the most complex and most mishandled areas of small business finance. Job costing, AIA billing, certified payroll, retainage tracking, and subcontractor management require a bookkeeper who has actually worked inside the construction industry — not one who learned it from a manual.",
+    "para2": "Hharpp has specialized in construction cost accounting for over a decade. Before founding Hharpp in 2009, Heather spent years inside one of the largest construction companies in Southern California. That hands-on experience is what separates our construction clients from the rest — and why their projects stay profitable.",
+    "services": [
+      "Job costing by project, phase, and cost code",
+      "AIA progress billing and retainage tracking",
+      "Certified payroll reporting",
+      "Subcontractor 1099 filing and management",
+      "QuickBooks and BuilderTrend setup for contractors",
+      "Cash flow management for project-based businesses"
+    ]
+  },
+
+  "differentiators": [
+    {
+      "title": "100% Virtual — Built for Remote",
+      "body": "Working entirely online since 2009 — long before virtual was an industry buzzword. Your location doesn't matter. Nevada, California, or anywhere with internet access, we manage your books, run your payroll, and review your financials with you on a video call."
+    },
+    {
+      "title": "Relationship-First, Not Transactional",
+      "body": "We take time to understand your business, your industry, and your goals before we touch your books. Clients who have been with us for years say it feels like having a financial partner inside the business, not an outside vendor."
+    },
+    {
+      "title": "Real Credentials, Real Expertise",
+      "body": "Heather holds an MBA, is a Certified Public Bookkeeper (CPB), a retired Certified Management Accountant (CMA), and a QuickBooks Certified Advanced Pro-Advisor. She is also a member of SHRM and AIPB. In a market full of self-described bookkeepers, credentials matter."
+    },
+    {
+      "title": "Construction Specialist",
+      "body": "Job costing, AIA billing, certified payroll, and construction-specific cash flow are not skills most bookkeepers have. Hharpp has spent over a decade building a practice around construction — it is our deepest specialty and our strongest competitive advantage."
+    }
+  ],
+
+  "testimonials": [
+    {
+      "quote": "Like Mary Poppins, she swept in and took care of everything. She set us up on QuickBooks, organized our customers and jobs, and made sense out of the chaos.",
+      "author": "Cathy DeHart",
+      "company": "DeHart Construction Services"
+    },
+    {
+      "quote": "Choosing Hharpp for our bookkeeping has been one of the best decisions our Board of Directors has made to make me more effective as a leader.",
+      "author": "Brad Letner",
+      "company": "President & CEO, Hesperia Chamber of Commerce"
+    },
+    {
+      "quote": "Heather is one amazing bookkeeper and accountant. She has become a specialist in construction cost accounting — one of the more difficult areas in bookkeeping and you cannot leave it to chance.",
+      "author": "William J. Osgood",
+      "company": "CFR & Associates"
+    },
+    {
+      "quote": "She is amazing at what she does and takes time to listen and understand the individualized needs of your business.",
+      "author": "Armands Williams",
+      "company": "SimpleTech"
+    }
+  ],
+
+  "faqs": [
+    {
+      "id": "faq-1",
+      "speakable_class": "faq-speakable-1",
+      "question": "What does a virtual bookkeeper do for a small business?",
+      "voice_answer": "Hharpp Business Services manages your financial records entirely online — handling bookkeeping, payroll, QuickBooks, and cash flow so you never have to worry about your books.",
+      "full_answer": "A virtual bookkeeper manages your financial records entirely online — recording transactions, reconciling accounts, preparing financial statements, and keeping your books audit-ready — without ever stepping foot in your office. At Hharpp, we handle everything from monthly bookkeeping and catch-up work to payroll processing, QuickBooks setup, and cash flow management. You share access to your accounting software and bank feeds, and we take care of the rest. Virtual bookkeeping gives small businesses access to a full-time-quality financial professional at a fraction of the cost of an in-house hire."
+    },
+    {
+      "id": "faq-2",
+      "speakable_class": "faq-speakable-2",
+      "question": "How do I know if my small business needs a bookkeeper?",
+      "voice_answer": "You need a bookkeeper if you're spending hours on your books each month, behind on reconciliations, or unsure what your business actually made last quarter.",
+      "full_answer": "Your business needs a bookkeeper if you are spending more than a few hours each month on your books, falling behind on reconciliations, unsure of your actual cash position, or dreading tax season because your records aren't in order. Other clear signs include: you've received notices from the IRS or EDD, you're behind on payroll tax deposits, or you're making financial decisions without reliable numbers in front of you. The cost of a professional bookkeeper is almost always less than the penalties, missed deductions, and poor decisions that come from doing it yourself or letting it slide."
+    },
+    {
+      "id": "faq-3",
+      "speakable_class": "faq-speakable-3",
+      "question": "What is the difference between a bookkeeper, an accountant, and a CPA?",
+      "voice_answer": "A bookkeeper records your transactions, an accountant analyzes them, and a CPA is a licensed professional who can represent you before the IRS. Most small businesses need a bookkeeper first.",
+      "full_answer": "A bookkeeper records and organizes your financial transactions on an ongoing basis — it is the foundation of everything else. An accountant analyzes those records to produce reports, manage compliance, and offer financial strategy. A CPA (Certified Public Accountant) is a state-licensed accountant who can also represent you before the IRS, conduct audits, and sign off on tax returns. Most small businesses need a bookkeeper as their primary financial support, with a CPA engaged at tax time. Hharpp's founder, Heather Potvin, is a Certified Public Bookkeeper (CPB) and retired Certified Management Accountant (CMA), which means she brings accountant-level expertise to bookkeeping work."
+    },
+    {
+      "id": "faq-4",
+      "speakable_class": "faq-speakable-4",
+      "question": "Does Hharpp serve businesses outside of Nevada?",
+      "voice_answer": "Yes — Hharpp is 100% virtual and serves small businesses across Nevada, California, and anywhere in the United States with internet access.",
+      "full_answer": "Yes. Hharpp is a fully virtual bookkeeping and payroll service, which means we work with clients anywhere in the United States. While we are based in Boulder City, Nevada, and have deep experience with Nevada-specific compliance — including the Modified Business Tax (MBT), Commerce Tax, and state payroll requirements — our cloud-based model means your location is not a barrier. We currently serve clients throughout Nevada and California, with the capability to serve businesses in any state."
+    },
+    {
+      "id": "faq-5",
+      "speakable_class": "faq-speakable-5",
+      "question": "How does Hharpp work with clients virtually?",
+      "voice_answer": "Hharpp connects to your QuickBooks or accounting software securely online, handles your books on a set schedule, and meets with you monthly by video call to review your numbers.",
+      "full_answer": "Everything we do is managed through cloud-based accounting software — primarily QuickBooks Online, but also AccountingSuite, BuilderTrend, and Sage depending on your business. You grant us secure access to your accounting platform and bank feeds, and we handle recording, reconciliation, and reporting on your agreed schedule. We communicate via email, phone, and video conference — monthly review meetings are conducted virtually so you always understand your numbers. You can monitor your books in real time through your own software login. No in-person visits required — and no disruption to your operations."
+    },
+    {
+      "id": "faq-6",
+      "speakable_class": "faq-speakable-6",
+      "question": "What is job costing and why does it matter for construction businesses?",
+      "voice_answer": "Job costing tracks every labor, material, and overhead cost against a specific project so construction businesses know exactly which jobs are profitable and which are losing money.",
+      "full_answer": "Job costing is the process of tracking every expense — labor, materials, subcontractors, equipment, and overhead — against a specific project or job, so you know exactly how profitable each project is in real time. For construction businesses, job costing is critical because costs are incurred across multiple projects simultaneously, contracts span months or years, and a single cost overrun can wipe out a project's margin. Hharpp specializes in construction job costing using QuickBooks and BuilderTrend, giving Nevada contractors real-time visibility into which jobs are making money and which are not."
+    }
+  ],
+
+  "service_area_chips": [
+    "Boulder City, NV",
+    "Henderson, NV",
+    "Las Vegas, NV",
+    "North Las Vegas, NV",
+    "Southern Nevada",
+    "Rancho Cucamonga, CA",
+    "Inland Empire, CA",
+    "Southern California",
+    "Remote / Nationwide"
+  ],
+
+  "heather_bio": "Heather Potvin founded Hharpp in 2009 at the height of the recession, turning a single vendor relationship into a practice that has helped hundreds of small businesses get organized, stay compliant, and grow with confidence. She holds an MBA, is a Certified Public Bookkeeper, a retired Certified Management Accountant, and a QuickBooks Certified Advanced Pro-Advisor. She is also a member of SHRM and AIPB. Over 30 years of accounting, management, and problem-solving experience — including deep expertise in the construction industry — means Hharpp clients get more than clean books. They get a trusted adviser who has seen almost every mistake a business can make, and knows exactly how to fix it.",
+
+  "cta": {
+    "primary_text": "Book your free consultation",
+    "primary_url": "/contact/",
+    "secondary_text": "See our services →",
+    "secondary_url": "#services"
+  },
+
+  "lead_magnet": {
+    "eyebrow": "Free download",
+    "h2": "Nevada Small Business Bookkeeping Checklist",
+    "description": "Monthly, quarterly, and annual tasks every Nevada business owner needs — with Nevada-specific compliance notes on MBT, DETR, Commerce Tax, and the 2026 sales tax deadline change. Prepared by Heather Potvin, CPB.",
+    "bullets": [
+      "40+ tasks across monthly, quarterly, annual cadences",
+      "Nevada compliance deadlines included",
+      "Construction accounting track"
+    ],
+    "pdf_url": "/downloads/hharpp-nevada-bookkeeping-checklist.pdf"
+  },
+
+  "quiz": {
+    "title": "What does your business need most right now?",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What best describes where your books stand today?",
+        "options": [
+          { "value": "current", "label": "Current — I just need ongoing support", "sub": "Books are up to date, I want a pro to take over" },
+          { "value": "behind", "label": "Behind — I need to catch up first", "sub": "Months or years of backlog to clean up" },
+          { "value": "starting", "label": "Starting fresh — new business", "sub": "Just launched or launching soon, need setup" },
+          { "value": "messy", "label": "It's a mess — I don't know where to start", "sub": "Chaos. Need someone to take over completely." }
+        ]
+      },
+      {
+        "id": "q2",
+        "text": "What industry is your business in?",
+        "options": [
+          { "value": "construction", "label": "Construction or contracting", "sub": "General contractor, subcontractor, trades" },
+          { "value": "service", "label": "Professional or service business", "sub": "Consulting, healthcare, legal, real estate" },
+          { "value": "retail", "label": "Retail, restaurant, or hospitality", "sub": "Product-based or food and beverage" },
+          { "value": "other", "label": "Something else", "sub": "Nonprofit, tech, creative, or other" }
+        ]
+      },
+      {
+        "id": "q3",
+        "text": "Beyond bookkeeping, what else keeps you up at night?",
+        "options": [
+          { "value": "payroll", "label": "Payroll — I'm worried about compliance", "sub": "Making payroll correctly, taxes, year-end" },
+          { "value": "cashflow", "label": "Cash flow — I never know where I stand", "sub": "Too much month at the end of the money" },
+          { "value": "quickbooks", "label": "QuickBooks — it's set up wrong or I can't use it", "sub": "Setup, cleanup, or training needed" },
+          { "value": "growth", "label": "Growth — I need a financial partner, not just a bookkeeper", "sub": "Strategy, consulting, and a plan for the future" }
+        ]
+      }
+    ],
+    "results": {
+      "construction": {
+        "title": "Construction accounting + job costing",
+        "body": "You need a bookkeeper who actually understands construction — not one who learned it from a manual. Hharpp has specialized in construction cost accounting for over a decade, including job costing, AIA billing, certified payroll, and BuilderTrend setup for Nevada contractors.",
+        "services": ["Construction accounting", "Job costing", "Payroll", "QuickBooks / BuilderTrend"]
+      },
+      "catchup": {
+        "title": "Catch-up bookkeeping + full-service support",
+        "body": "Getting behind on books is more common than you think — and no situation is too far back to fix. Hharpp specializes in catch-up and clean-up work, reconstructing records from bank statements and prior data, then transitioning to clean monthly bookkeeping.",
+        "services": ["Catch-up bookkeeping", "Account reconciliation", "Monthly bookkeeping", "QuickBooks cleanup"]
+      },
+      "newbiz": {
+        "title": "New business setup + QuickBooks onboarding",
+        "body": "Starting right matters more than starting fast. Hharpp sets up your chart of accounts, configures QuickBooks for your specific industry, establishes payroll if you're hiring, and gives you the financial foundation to grow without cleaning up a mess later.",
+        "services": ["QuickBooks setup", "Bookkeeping", "Payroll setup", "Business consulting"]
+      },
+      "payroll": {
+        "title": "Payroll compliance + bookkeeping",
+        "body": "Nevada payroll compliance — Modified Business Tax, DETR registration, quarterly filings — is genuinely complex for small businesses. Hharpp manages the entire payroll cycle, from employee onboarding through year-end W-2s, ensuring full state and federal compliance.",
+        "services": ["Payroll services", "MBT compliance", "W-2 / 1099 filing", "Bookkeeping"]
+      },
+      "cashflow": {
+        "title": "Cash flow management + virtual CFO services",
+        "body": "If you're never sure whether you can make payroll next month, you need more than bookkeeping — you need a financial partner. Hharpp's virtual CFO service provides real-time cash flow visibility, forecasting, and business consulting to help you make decisions with confidence.",
+        "services": ["Cash flow management", "Virtual CFO", "Business consulting", "Monthly reporting"]
+      },
+      "quickbooks": {
+        "title": "QuickBooks setup, cleanup + training",
+        "body": "A misconfigured QuickBooks file causes more financial damage than no QuickBooks at all. As a QuickBooks Certified Advanced Pro-Advisor, Heather diagnoses exactly what's wrong, fixes it, and trains you or your staff to use the system correctly going forward.",
+        "services": ["QuickBooks cleanup", "QB training", "Account reconciliation", "Bookkeeping"]
+      },
+      "fullservice": {
+        "title": "Full-service bookkeeping + business consulting",
+        "body": "You need a trusted financial partner who can see the whole picture. Hharpp's full-service engagement covers bookkeeping, payroll, QuickBooks, cash flow, and strategic consulting — giving you CFO-level support at a fraction of the cost of a full-time hire.",
+        "services": ["Full-service bookkeeping", "Payroll", "Cash flow", "Business consulting", "HR services"]
+      }
+    },
+    "routing_logic": "if q2===construction → construction | elif q1===behind OR q1===messy → catchup | elif q1===starting → newbiz | elif q3===payroll → payroll | elif q3===cashflow → cashflow | elif q3===quickbooks → quickbooks | else → fullservice"
+  },
+
+  "seo": {
+    "title": "Virtual Bookkeeping & Payroll Services | Small Business | Hharpp — Boulder City, NV",
+    "meta_description": "16 years. 100% virtual. Certified Public Bookkeeper serving small businesses in Nevada and California. Bookkeeping, payroll, QuickBooks, construction accounting. Free consultation — services@hharpp.com",
+    "canonical": "https://hharpp.com/",
+    "og_image": "https://hharpp.com/assets/og-homepage.jpg",
+    "geo_region": "US-NV",
+    "geo_placename": "Boulder City, Nevada",
+    "geo_position": "35.9788;-114.8328"
+  }
+}

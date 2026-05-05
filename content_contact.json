@@ -1,0 +1,463 @@
+{
+  "page": {
+    "title": "Contact Hharpp Business Services | Boulder City, NV",
+    "meta_description": "Schedule a free consultation with Hharpp Business Services — bookkeeping, payroll, and QuickBooks services in Henderson & Boulder City, NV. Call (702) 342-8844.",
+    "canonical": "https://hharpp.com/contact/",
+    "og_title": "Contact Hharpp Business Services | Free Consultation | Boulder City, NV",
+    "og_description": "Free bookkeeping, payroll, and QuickBooks consultations. Heather Potvin, CPB — Henderson & Boulder City, NV. Call (702) 342-8844.",
+    "og_image": "https://hharpp.com/images/hharpp-contact-boulder-city-nv.jpg",
+    "og_image_alt": "Contact Hharpp Business Services — free bookkeeping and payroll consultation in Boulder City and Henderson, NV",
+    "twitter_card": "summary_large_image",
+    "geo_region": "US-NV",
+    "geo_placename": "Boulder City, Nevada",
+    "geo_position": "35.9788;-114.8328",
+    "icbm": "35.9788, -114.8328",
+    "breadcrumb": [
+      { "position": 1, "name": "Home", "url": "https://hharpp.com/" },
+      { "position": 2, "name": "Contact", "url": "https://hharpp.com/contact/" }
+    ]
+  },
+
+  "company": {
+    "name": "Hharpp Business Services Inc",
+    "phone_display": "(702) 342-8844",
+    "phone_href": "tel:+17023428844",
+    "phone_e164": "+17023428844",
+    "email": "services@hharpp.com",
+    "email_href": "mailto:services@hharpp.com",
+    "address_street": "1010 Industrial Road #166 Canary Way",
+    "address_city": "Boulder City",
+    "address_state": "NV",
+    "address_zip": "89005",
+    "address_full": "1010 Industrial Road #166 Canary Way, Boulder City, NV 89005",
+    "nap_exact": "Hharpp Business Services Inc · 1010 Industrial Road #166 Canary Way, Boulder City, NV 89005 · (702) 342-8844",
+    "hours_display": "Monday – Thursday · 8:30 AM – 4:00 PM Mountain Time",
+    "hours_closed": "Closed Friday – Sunday. Email responses within 1 business day.",
+    "hours_schema": "Mo-Th 08:30-16:00",
+    "owner": "Heather Potvin, CPB",
+    "website": "https://hharpp.com",
+    "founded": "2009",
+    "years_experience": "16"
+  },
+
+  "hero": {
+    "eyebrow": "Hharpp Business Services · Boulder City & Henderson, NV · Est. 2009",
+    "h1": "Get a free consultation with Hharpp Business Services",
+    "speakable_text": "Hharpp Business Services provides bookkeeping, payroll, and QuickBooks services for small businesses in Henderson and Boulder City, Nevada. Free consultations available Monday through Thursday.",
+    "speakable_class": "contact-speakable-0",
+    "sub": "All consultations are free, carry no obligation, and are handled personally by Heather Potvin.",
+    "contact_methods": [
+      {
+        "id": "call",
+        "label": "Call",
+        "value": "(702) 342-8844",
+        "href": "tel:+17023428844",
+        "cta": "Call now",
+        "speakable_class": "contact-speakable-phone"
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "value": "services@hharpp.com",
+        "href": "mailto:services@hharpp.com",
+        "cta": "Send an email"
+      },
+      {
+        "id": "form",
+        "label": "Form",
+        "value": "Send a message below",
+        "href": "#contact-form",
+        "cta": "Use the contact form"
+      }
+    ],
+    "hours_speakable_class": "contact-speakable-hours"
+  },
+
+  "form": {
+    "section_id": "contact-form",
+    "h2": "Schedule your free consultation",
+    "intro": "All consultations are free and carry no obligation. Heather responds within 1 business day — typically same day for urgent matters.",
+    "fields": [
+      {
+        "id": "name",
+        "label": "Full name",
+        "type": "text",
+        "required": true,
+        "placeholder": "Your name"
+      },
+      {
+        "id": "email",
+        "label": "Email address",
+        "type": "email",
+        "required": true,
+        "placeholder": "your@email.com"
+      },
+      {
+        "id": "phone",
+        "label": "Phone number",
+        "type": "tel",
+        "required": false,
+        "placeholder": "(702) 000-0000",
+        "note": "Optional but recommended"
+      },
+      {
+        "id": "business",
+        "label": "Business name",
+        "type": "text",
+        "required": false,
+        "placeholder": "Your business name"
+      },
+      {
+        "id": "service",
+        "label": "Service interested in",
+        "type": "select",
+        "required": true,
+        "options": [
+          { "value": "bookkeeping-monthly", "label": "Bookkeeping — monthly or ongoing" },
+          { "value": "bookkeeping-catchup", "label": "Catch-up or cleanup bookkeeping" },
+          { "value": "payroll-managed", "label": "Payroll — managed service" },
+          { "value": "payroll-training", "label": "Payroll — staff training" },
+          { "value": "quickbooks-setup", "label": "QuickBooks setup" },
+          { "value": "quickbooks-cleanup", "label": "QuickBooks cleanup or rescue" },
+          { "value": "quickbooks-migration", "label": "QuickBooks Desktop migration (urgent — May 31 deadline)" },
+          { "value": "accountingsuite", "label": "AccountingSuite setup or training" },
+          { "value": "irs-detr-urgent", "label": "IRS / DETR notice — urgent" },
+          { "value": "not-sure", "label": "Not sure — I need to talk it through" }
+        ]
+      },
+      {
+        "id": "message",
+        "label": "Message",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "Tell Heather a bit about your situation — the more detail, the more useful your consultation will be.",
+        "rows": 5
+      }
+    ],
+    "submit_text": "Get your free consultation →",
+    "confirmation_heading": "Thank you — message received.",
+    "confirmation_body": "Heather will respond within 1 business day. If your matter is urgent, call (702) 342-8844 directly.",
+    "confirmation_href": "tel:+17023428844"
+  },
+
+  "scheduler": {
+    "section_id": "scheduler",
+    "configured": false,
+    "embed_url": "GBP_EMBED_URL_PENDING",
+    "embed_type": "calendly",
+    "embed_height": 630,
+    "eyebrow": "Can't reach us right now?",
+    "h2": "Schedule a callback at a time that works for you",
+    "sub": "Hharpp is available Monday through Thursday, 8:30 AM to 4:00 PM Mountain Time. If you're visiting outside those hours, pick a time below and Heather will call you back.",
+    "footnote": "All scheduled consultations are free and carry no obligation. Heather will call at the scheduled time from (702) 342-8844.",
+    "fallback_heading": "Pick a time and Heather will call you",
+    "fallback_body": "Scheduling link coming soon. In the meantime, email services@hharpp.com with your preferred callback time and Heather will confirm within 1 business day.",
+    "fallback_cta_text": "Email to schedule a callback →",
+    "fallback_cta_href": "mailto:services@hharpp.com?subject=Callback+request"
+  },
+
+  "what_happens_next": {
+    "section_id": "what-happens-next",
+    "h2": "What happens after you reach out",
+    "speakable_class": "contact-speakable-1",
+    "steps": [
+      {
+        "id": "next-step-1",
+        "number": "1",
+        "title": "Heather responds within 1 business day.",
+        "body": "She reviews your message and follows up by email or phone — whichever you prefer. Urgent matters — IRS notices, DETR letters, or QuickBooks Desktop migration deadlines — are prioritized for same-day response."
+      },
+      {
+        "id": "next-step-2",
+        "number": "2",
+        "title": "Free 20–30 minute consultation.",
+        "body": "Heather reviews your situation, answers your questions, and gives you an honest assessment of what you need. No pitch, no pressure, no obligation to proceed."
+      },
+      {
+        "id": "next-step-3",
+        "number": "3",
+        "title": "Scope and quote.",
+        "body": "If you'd like to move forward, Heather provides a specific scope and flat-rate fee — no surprises. You decide when and whether to start."
+      }
+    ],
+    "urgency_note": "If you've received an IRS notice, a DETR letter, or are approaching the QuickBooks Desktop 2023 deadline (May 31, 2026), mention it in your message or call (702) 342-8844 directly. These are prioritized."
+  },
+
+  "about": {
+    "section_id": "about-heather",
+    "h2": "You're reaching out to Heather Potvin, CPB",
+    "body": "Heather Potvin is the owner of Hharpp Business Services Inc, a Certified Public Bookkeeper (CPB) through AIPB, a QuickBooks Advanced ProAdvisor, and an AccountingSuite certified provider. She has served small businesses in Henderson, Boulder City, and Southern Nevada since 2009. Every engagement is handled personally — no handoffs, no account managers, no rotating staff.",
+    "credentials": [
+      "CPB · AIPB Member — Certified Public Bookkeeper",
+      "QuickBooks Advanced ProAdvisor — highest Intuit certification",
+      "AccountingSuite Certified — construction ERP specialist",
+      "SHRM Member — HR-level payroll knowledge",
+      "MBA · CMA (retired, Canada) · Est. 2009 · 16 years"
+    ],
+    "photo": {
+      "configured": false,
+      "src": "/images/heather-potvin-cpb-hharpp.jpg",
+      "alt": "Heather Potvin, CPB, owner of Hharpp Business Services Inc, Boulder City NV",
+      "width": 280,
+      "height": 280,
+      "caption": "Heather Potvin, CPB",
+      "placeholder_initials": "HP",
+      "placeholder_bg": "#E8EFF6",
+      "placeholder_color": "#1B3A5C",
+      "placeholder_border": "#D4A017"
+    }
+  },
+
+  "services_summary": {
+    "section_id": "services",
+    "h2": "Services available through Hharpp",
+    "services": [
+      {
+        "title": "Bookkeeping",
+        "description": "Monthly bookkeeping, catch-up and cleanup, financial statements, Nevada compliance.",
+        "url": "https://hharpp.com/bookkeeping/",
+        "anchor_text": "Bookkeeping services →"
+      },
+      {
+        "title": "Payroll",
+        "description": "Managed payroll, certified payroll under NRS 338, Nevada DETR and MBT compliance, staff training.",
+        "url": "https://hharpp.com/payroll/",
+        "anchor_text": "Payroll services →"
+      },
+      {
+        "title": "QuickBooks",
+        "description": "Setup, training, file cleanup, Desktop-to-Online migration, construction QB, plan advisory.",
+        "url": "https://hharpp.com/quickbooks/",
+        "anchor_text": "QuickBooks services →"
+      },
+      {
+        "title": "AccountingSuite",
+        "description": "Setup, training, and QuickBooks migration for construction contractors.",
+        "url": "https://hharpp.com/accountingsuite/",
+        "anchor_text": "AccountingSuite services →"
+      },
+      {
+        "title": "Payroll pricing",
+        "description": "Scope-based payroll pricing — free quote.",
+        "url": "https://hharpp.com/payroll/pricing/",
+        "anchor_text": "Payroll pricing guide →"
+      },
+      {
+        "title": "About Hharpp",
+        "description": "Full credentials, background, and service history.",
+        "url": "https://hharpp.com/about/",
+        "anchor_text": "About Heather Potvin →"
+      }
+    ],
+    "service_area_label": "Service area",
+    "service_area_body": "Hharpp delivers all services 100% virtually — no office visit required. Primary service markets:",
+    "geo_chips": [
+      "Boulder City NV",
+      "Henderson NV",
+      "Las Vegas NV",
+      "North Las Vegas NV",
+      "Mesquite NV",
+      "Southern Nevada",
+      "Rancho Cucamonga CA",
+      "Southern California",
+      "Nationwide (virtual)"
+    ]
+  },
+
+  "trust": {
+    "section_id": "trust-signals",
+    "h2": "Why small business owners trust Hharpp",
+    "signals": [
+      {
+        "label": "Alignable — Highly Recommended",
+        "body": "16 peer recommendations from fellow Henderson and Boulder City business owners.",
+        "url": "https://www.alignable.com/boulder-city-nv/hharpp-business-services",
+        "link_text": "View Alignable profile →"
+      },
+      {
+        "label": "BBB listed · zero complaints",
+        "body": "Better Business Bureau listing with no complaint history.",
+        "url": "https://www.bbb.org/us/nv/boulder-city/profile/bookkeeping-services/hharpp-business-services-inc",
+        "link_text": "View BBB listing →"
+      },
+      {
+        "label": "AIPB member — Certified Public Bookkeeper",
+        "body": "American Institute of Professional Bookkeepers. CPB is the highest bookkeeping credential available without a CPA license.",
+        "url": "https://www.aipb.org",
+        "link_text": "About AIPB certification →"
+      },
+      {
+        "label": "Intuit QuickBooks Advanced ProAdvisor",
+        "body": "Verified in the Intuit ProAdvisor directory. Advanced ProAdvisor is the highest Intuit certification level.",
+        "url": "https://quickbooks.intuit.com/find-an-accountant/",
+        "link_text": "View ProAdvisor directory →"
+      },
+      {
+        "label": "SHRM member",
+        "body": "Society for Human Resource Management. The only local bookkeeper with both CPB and SHRM credentials.",
+        "url": "https://www.shrm.org",
+        "link_text": "About SHRM membership →"
+      }
+    ],
+    "testimonial_quote": "Like Mary Poppins, she swept in and brought order to our financial chaos.",
+    "testimonial_author": "Cathy DeHart",
+    "testimonial_company": "DeHart Construction Services"
+  },
+
+  "urgency": {
+    "section_id": "urgency",
+    "label": "If your situation is time-sensitive",
+    "items": [
+      {
+        "title": "IRS 941 notice or DETR penalty letter",
+        "body": "These escalate fast. Call (702) 342-8844 directly — don't wait for an email response. Heather prioritizes active penalty situations.",
+        "href": "tel:+17023428844",
+        "cta": "Call now →"
+      },
+      {
+        "title": "QuickBooks Desktop 2023 deadline",
+        "body": "Payroll tables, bank feeds, and security patches expire May 31, 2026. If you haven't migrated, contact Hharpp now. Migration consultations are free and slots are limited as the deadline approaches.",
+        "href": "tel:+17023428844",
+        "cta": "Call or message today →"
+      },
+      {
+        "title": "Behind on payroll taxes",
+        "body": "Missed 941 filings or DETR quarterly returns compound weekly. Call (702) 342-8844 for same-day priority response.",
+        "href": "tel:+17023428844",
+        "cta": "Call now →"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "id": "faq-0",
+      "anchor": "faq-how-to-contact",
+      "question": "How do I contact Hharpp Business Services?",
+      "speakable_class": "contact-speakable-2",
+      "voice_answer": "Hharpp Business Services can be reached by phone at (702) 342-8844, by email at services@hharpp.com, or through the contact form at hharpp.com/contact/.",
+      "full_answer": "Office hours are Monday through Thursday, 8:30 AM to 4:00 PM Mountain Time. Heather Potvin responds to all inquiries within 1 business day. Urgent matters — IRS notices, DETR letters, or QuickBooks Desktop migration deadlines — are prioritized for same-day response."
+    },
+    {
+      "id": "faq-1",
+      "anchor": "faq-hharpp-hours",
+      "question": "What are Hharpp's business hours?",
+      "speakable_class": "contact-speakable-3",
+      "voice_answer": "Hharpp Business Services is available Monday through Thursday, 8:30 AM to 4:00 PM Mountain Time. The office is closed Friday through Sunday.",
+      "full_answer": "Email inquiries submitted outside business hours receive a response on the next business day. For urgent matters such as IRS notices or active payroll tax issues, voicemail is monitored and urgent calls are returned as soon as possible."
+    },
+    {
+      "id": "faq-2",
+      "anchor": "faq-hharpp-location",
+      "question": "Where is Hharpp Business Services located?",
+      "speakable_class": "contact-speakable-4",
+      "voice_answer": "Hharpp Business Services Inc is registered at 1010 Industrial Road #166 Canary Way, Boulder City, NV 89005. All services are delivered 100% virtually — no office visit is required.",
+      "full_answer": "Heather Potvin serves small businesses in Henderson, Las Vegas, Boulder City, and across Southern Nevada, California, and nationally via screen share."
+    },
+    {
+      "id": "faq-3",
+      "anchor": "faq-free-consultation",
+      "question": "Is the initial consultation with Hharpp really free?",
+      "speakable_class": "contact-speakable-5",
+      "voice_answer": "Yes. All initial consultations with Hharpp are free and carry no obligation. The consultation is typically 20 to 30 minutes.",
+      "full_answer": "The consultation covers your current situation, what services would address it, and what the scope and cost would look like. There is no contract to sign during the call and no pressure to proceed. To schedule: call (702) 342-8844, email services@hharpp.com, or submit the contact form at hharpp.com/contact/."
+    },
+    {
+      "id": "faq-4",
+      "anchor": "faq-service-area",
+      "question": "Does Hharpp work with businesses outside Boulder City and Henderson?",
+      "speakable_class": "contact-speakable-6",
+      "voice_answer": "Yes. Hharpp delivers all services 100% virtually via screen share — location is no barrier.",
+      "full_answer": "While primary service markets are Henderson, Las Vegas, and Boulder City in Nevada, Hharpp serves clients across Nevada, California, and nationally. Construction contractors, multi-state businesses, and Nevada LLC holders based in California are all served under the same virtual engagement model."
+    }
+  ],
+
+  "maps_embed": {
+    "configured": false,
+    "embed_url": "GBP_EMBED_URL_PENDING",
+    "fallback_search_url": "https://www.google.com/maps/search/Hharpp+Business+Services+Boulder+City+NV",
+    "iframe_title": "Hharpp Business Services — Boulder City, NV on Google Maps",
+    "iframe_aria": "Google Maps showing Hharpp Business Services location in Boulder City, Nevada",
+    "iframe_height": 320
+  },
+
+  "same_as": [
+    "https://www.alignable.com/boulder-city-nv/hharpp-business-services",
+    "https://www.bbb.org/us/nv/boulder-city/profile/bookkeeping-services/hharpp-business-services-inc",
+    "https://www.aipb.org",
+    "https://quickbooks.intuit.com/find-an-accountant/"
+  ],
+
+  "internal_links": [
+    { "anchor_text": "Bookkeeping services", "url": "https://hharpp.com/bookkeeping/" },
+    { "anchor_text": "Payroll services", "url": "https://hharpp.com/payroll/" },
+    { "anchor_text": "QuickBooks services", "url": "https://hharpp.com/quickbooks/" },
+    { "anchor_text": "AccountingSuite", "url": "https://hharpp.com/accountingsuite/" },
+    { "anchor_text": "Payroll pricing", "url": "https://hharpp.com/payroll/pricing/" },
+    { "anchor_text": "About Heather Potvin", "url": "https://hharpp.com/about/" }
+  ],
+
+  "schema": {
+    "organization_id": "https://hharpp.com/#organization",
+    "person_id": "https://hharpp.com/#heather-potvin",
+    "page_url": "https://hharpp.com/contact/",
+    "speakable_selectors": [
+      ".contact-speakable-0",
+      ".contact-speakable-phone",
+      ".contact-speakable-hours",
+      ".contact-speakable-1",
+      ".contact-speakable-2",
+      ".contact-speakable-3",
+      ".contact-speakable-4",
+      ".contact-speakable-5",
+      ".contact-speakable-6"
+    ],
+    "professional_service": {
+      "type": "ProfessionalService",
+      "name": "Hharpp Business Services Inc",
+      "price_range": "$",
+      "currencies_accepted": "USD",
+      "payment_accepted": "Check, ACH, Credit Card",
+      "makes_offer": [
+        "Monthly Bookkeeping",
+        "Catch-up Bookkeeping",
+        "Payroll Services",
+        "QuickBooks Setup and Training",
+        "AccountingSuite Setup and Training",
+        "Certified Payroll — NRS 338",
+        "QuickBooks Desktop Migration"
+      ],
+      "area_served": [
+        { "type": "City", "name": "Boulder City", "state": "Nevada" },
+        { "type": "City", "name": "Henderson", "state": "Nevada" },
+        { "type": "City", "name": "Las Vegas", "state": "Nevada" },
+        { "type": "State", "name": "Nevada" },
+        { "type": "State", "name": "California" }
+      ]
+    },
+    "howto": {
+      "name": "How to schedule a free consultation with Hharpp Business Services",
+      "description": "A step-by-step process for contacting Hharpp Business Services and scheduling a free, no-obligation bookkeeping, payroll, or QuickBooks consultation.",
+      "steps": [
+        {
+          "position": 1,
+          "name": "Submit the contact form, call, or email",
+          "text": "Reach Hharpp by phone at (702) 342-8844, email at services@hharpp.com, or through the contact form at hharpp.com/contact/. Include your service interest and any relevant details about your situation.",
+          "url": "https://hharpp.com/contact/#contact-form"
+        },
+        {
+          "position": 2,
+          "name": "Receive a response within 1 business day",
+          "text": "Heather Potvin reviews every inquiry personally and responds within 1 business day — typically same day for urgent matters such as IRS notices or DETR letters. She will follow up by email or phone, whichever you prefer.",
+          "url": "https://hharpp.com/contact/#what-happens-next"
+        },
+        {
+          "position": 3,
+          "name": "Complete the free 20-30 minute consultation",
+          "text": "Heather reviews your situation, answers your questions, and provides an honest assessment of what you need and what it will cost. There is no obligation to proceed and no contract to sign during the consultation.",
+          "url": "https://hharpp.com/contact/#what-happens-next"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "page": {
+    "title": "QuickBooks Setup, Training & Cleanup | Henderson, NV | Hharpp",
+    "meta_description": "QuickBooks Advanced ProAdvisor in Henderson & Boulder City, NV. Setup, training, cleanup, Desktop migration, and construction QB. Certified. Virtual. Free consultation.",
+    "canonical": "https://hharpp.com/quickbooks/",
+    "og_title": "QuickBooks Setup, Training & Cleanup | Henderson & Boulder City, NV | Hharpp",
+    "og_description": "QuickBooks Advanced ProAdvisor + CPB. Setup, cleanup, Desktop migration, and construction QB. Henderson & Boulder City, NV — virtual statewide. Free consultation.",
+    "og_image": "https://hharpp.com/images/hharpp-quickbooks-setup-training-henderson-nv.jpg",
+    "og_image_alt": "QuickBooks setup and training services for small business in Henderson and Boulder City, NV — Hharpp Business Services",
+    "twitter_card": "summary_large_image",
+    "geo_region": "US-NV",
+    "geo_placename": "Boulder City, Nevada",
+    "geo_position": "35.9788;-114.8328",
+    "icbm": "35.9788, -114.8328",
+    "breadcrumb": [
+      { "position": 1, "name": "Home", "url": "https://hharpp.com/" },
+      { "position": 2, "name": "Services", "url": "https://hharpp.com/services/" },
+      { "position": 3, "name": "QuickBooks Services", "url": "https://hharpp.com/quickbooks/" }
+    ]
+  },
+
+  "company": {
+    "name": "Hharpp Business Services Inc",
+    "phone": "(702) 342-8844",
+    "phone_href": "tel:+17023428844",
+    "email": "services@hharpp.com",
+    "address_street": "1010 Industrial Road #166 Canary Way",
+    "address_city": "Boulder City",
+    "address_state": "NV",
+    "address_zip": "89005",
+    "address_full": "1010 Industrial Road #166 Canary Way, Boulder City, NV 89005",
+    "hours_display": "Mon–Thu 8:30 AM–4:00 PM MT",
+    "hours_schema": "Mo-Th 08:30-16:00",
+    "website": "https://hharpp.com",
+    "contact_url": "https://hharpp.com/contact/",
+    "owner": "Heather Potvin, CPB",
+    "founded": "2009",
+    "years_experience": "16"
+  },
+
+  "hero": {
+    "eyebrow": "QuickBooks services · Boulder City & Henderson, NV · Advanced ProAdvisor · Est. 2009",
+    "h1": "QuickBooks Setup, Training & Cleanup — Henderson & Boulder City, NV",
+    "speakable_text": "Hharpp Business Services provides QuickBooks setup, training, cleanup, and Desktop migration for small businesses in Henderson and Boulder City, Nevada. Owner Heather Potvin is a QuickBooks Advanced ProAdvisor and Certified Public Bookkeeper.",
+    "speakable_class": "qb-speakable-0",
+    "subparagraph": "Heather Potvin is a QuickBooks Advanced ProAdvisor — the highest Intuit certification — and the only one in the Henderson market who is also a Certified Public Bookkeeper. Whether you need QuickBooks built right from the start, your existing file cleaned up, or your staff trained to use it correctly, Hharpp handles it all from the same relationship.",
+    "trust_chips": [
+      "QuickBooks Advanced ProAdvisor",
+      "CPB · AIPB Member",
+      "AccountingSuite Certified",
+      "16 Years · Est. 2009",
+      "Boulder City, NV · Virtual statewide"
+    ],
+    "cta_primary_text": "Get a free QuickBooks consultation",
+    "cta_primary_url": "https://hharpp.com/contact/",
+    "cta_secondary_text": "(702) 342-8844",
+    "cta_secondary_href": "tel:+17023428844"
+  },
+
+  "qualifier": {
+    "eyebrow": "Find your fit",
+    "title": "What do you need from QuickBooks?",
+    "question": "Which best describes your situation?",
+    "options": [
+      {
+        "value": "setup",
+        "label": "I need QuickBooks set up correctly from scratch",
+        "sub": "New business or starting over"
+      },
+      {
+        "value": "cleanup",
+        "label": "My QuickBooks is a mess and I need it fixed",
+        "sub": "Errors, wrong setup, or months behind"
+      },
+      {
+        "value": "migration",
+        "label": "I need to migrate from Desktop to Online",
+        "sub": "Desktop 2023 sunsets May 31, 2026"
+      },
+      {
+        "value": "training",
+        "label": "I need training for myself or my staff",
+        "sub": "One-on-one in your actual file"
+      }
+    ],
+    "results": {
+      "setup": {
+        "title": "You need a proper QuickBooks setup.",
+        "body": "Hharpp builds your chart of accounts around your actual business — not the default template — connects bank feeds, configures automation rules, selects the right QBO plan, and integrates payroll if needed. Your first month reconciled is included."
+      },
+      "cleanup": {
+        "title": "You need a QuickBooks file diagnostic and cleanup.",
+        "body": "Hharpp reviews your file first — chart of accounts, reconciliation status, Undeposited Funds, balance sheet integrity, opening balances. A written summary of every issue is delivered before any work begins, with a flat-rate cleanup quote. No judgment — we've seen everything."
+      },
+      "migration": {
+        "title": "Desktop 2023 sunsets May 31, 2026. Time to act.",
+        "body": "Hharpp migrates your company file, validates every report against your Desktop data, rebuilds payroll history in QBO, and ensures integrations are running correctly before you close the old file. Migration consultations are free. Call (702) 342-8844 today."
+      },
+      "training": {
+        "title": "You need one-on-one QuickBooks training.",
+        "body": "Training in your actual QuickBooks file — not a classroom exercise. Hharpp trains owners, office managers, and bookkeepers on the system they will actually use. Available as a standalone engagement or alongside setup."
+      }
+    }
+  },
+
+  "aeo_definition": {
+    "h2": "What does a QuickBooks ProAdvisor do?",
+    "answer": "A QuickBooks ProAdvisor is a certified accounting professional who sets up, trains, cleans up, and supports QuickBooks on behalf of small businesses. The Advanced ProAdvisor certification — the highest Intuit offers — indicates expertise across QuickBooks Online, Desktop, and Payroll.",
+    "speakable_class": "qb-speakable-1",
+    "services_list": [
+      "New company file setup — chart of accounts, bank connections, plan selection, automation rules",
+      "Desktop-to-Online migration with post-migration validation of all reports",
+      "File cleanup and rescue — error diagnosis, reclassification, reconciliation, locked periods",
+      "One-on-one training — owner, office manager, or bookkeeper, in your actual file",
+      "Construction QB — job costing, class tracking, Buildertrend integration, AIA billing setup",
+      "QuickBooks Payroll integration — set up alongside bookkeeping in the same file",
+      "AccountingSuite setup and training — for contractors needing construction-native ERP",
+      "Ongoing QB support — call or email Heather directly, no hold time"
+    ]
+  },
+
+  "desktop_sunset": {
+    "urgency_label": "Time-critical — QuickBooks Desktop 2023 sunsets May 31, 2026",
+    "h2": "QuickBooks Desktop 2023 sunsets May 31, 2026 — migration help available now",
+    "opening": "On May 31, 2026, QuickBooks Desktop 2023 loses payroll tax tables, bank feed connections, and all security patches. If you're still on Desktop 2023, you have a hard deadline. Hharpp migrates your company file to QuickBooks Online, validates every report against your Desktop data, and ensures your payroll and integrations are running correctly before you close the old file.",
+    "steps": [
+      {
+        "id": "migration-step-1",
+        "title": "Pre-migration file cleanup",
+        "body": "Reconcile all accounts, merge duplicates, and clear Undeposited Funds before export. A clean Desktop file migrates cleanly. A messy one migrates messy."
+      },
+      {
+        "id": "migration-step-2",
+        "title": "Company file migration",
+        "body": "Hharpp runs Intuit's migration tool, transfers chart of accounts, customer and vendor lists, and up to 24 months of transaction history — then validates the trial balance against Desktop before you proceed."
+      },
+      {
+        "id": "migration-step-3",
+        "title": "Payroll history migration",
+        "body": "Employee YTD balances, deduction configurations, and tax setup do not automatically transfer. Hharpp rebuilds this manually in QBO Payroll so your first post-migration payroll run is correct."
+      },
+      {
+        "id": "migration-step-4",
+        "title": "Post-migration validation",
+        "body": "Compare trial balance, A/R aging, A/P aging, and bank balances between Desktop and QBO. Discrepancies caught now are fixed in hours. Discrepancies caught at tax time cost thousands."
+      }
+    ],
+    "contractor_note": "QuickBooks Enterprise 2023 follows the same May 31 sunset — but QuickBooks Enterprise (ongoing subscription) continues to be sold and supported by Intuit. If you're a construction contractor relying on Desktop Enterprise for advanced job costing, Hharpp advises before you migrate: for some contractors, the right answer is upgrading to QBO Advanced with proper class setup; for others, staying on Enterprise is the correct call. Don't migrate without understanding the difference.",
+    "cta_text": "Call (702) 342-8844 today — Desktop 2023 migration consultations are free. Slots fill as the deadline approaches.",
+    "cta_href": "tel:+17023428844"
+  },
+
+  "services_grid": {
+    "h2": "Every QuickBooks service your business needs — from one Advanced ProAdvisor",
+    "services": [
+      {
+        "title": "New company setup",
+        "body": "Chart of accounts built for your industry, bank feeds connected, automation rules configured, plan selected. Not the default template — built around your actual business."
+      },
+      {
+        "title": "QuickBooks Online plan advisory",
+        "body": "Simple Start / Essentials / Plus / Advanced. Wrong plan costs money or loses features. Hharpp advises before setup and can pass a ProAdvisor discount to your subscription."
+      },
+      {
+        "title": "Desktop-to-Online migration",
+        "body": "Full migration with pre-migration cleanup, validated trial balance, payroll history rebuild, and integration reconnection. Desktop 2023 deadline: May 31, 2026."
+      },
+      {
+        "title": "File cleanup and rescue",
+        "body": "Undeposited funds, unreconciled accounts, balance sheet errors, wrong chart of accounts. Hharpp diagnoses first, quotes a flat-rate cleanup, then fixes it systematically."
+      },
+      {
+        "title": "One-on-one training",
+        "body": "Owner, office manager, or bookkeeper. Training in your actual QuickBooks file — not a classroom exercise. You learn the system you'll actually use."
+      },
+      {
+        "title": "QuickBooks Payroll integration",
+        "body": "Payroll and bookkeeping configured in the same file by the same person. No reconciliation lag between two separate systems."
+      },
+      {
+        "title": "Third-party app integration",
+        "body": "Buildertrend, Stripe, PayPal, POS systems. Connection and validation so data syncs correctly rather than flooding your file with errors."
+      },
+      {
+        "title": "AccountingSuite setup and training",
+        "body": "For construction contractors needing native job costing. Heather is certified in AccountingSuite — the only named local provider in Nevada."
+      }
+    ]
+  },
+
+  "plan_advisor": {
+    "h2": "Which QuickBooks Online plan is right for your business?",
+    "intro": "QuickBooks Online has four plans ranging from $35 to $235 per month. The wrong plan either costs you money you don't need to spend, or locks you out of features your business requires — particularly job costing and class tracking in Plus and Advanced.",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "How many users need access to QuickBooks?",
+        "options": ["1 user", "2–3 users", "4–5 users", "6+ users"]
+      },
+      {
+        "id": "q2",
+        "text": "Do you need to track costs by job or project?",
+        "options": ["Yes — I'm a contractor or project business", "No — general income and expenses only"]
+      },
+      {
+        "id": "q3",
+        "text": "Do you run payroll through QuickBooks?",
+        "options": ["Yes", "No", "I'm considering it"]
+      },
+      {
+        "id": "q4",
+        "text": "Do you manage inventory?",
+        "options": ["Yes", "No"]
+      }
+    ],
+    "plans": [
+      {
+        "id": "simple-start",
+        "name": "Simple Start",
+        "price": "$35/mo",
+        "best_for": "Solo user, no job costing, no inventory, no payroll. Freelancers and sole proprietors with straightforward income and expenses.",
+        "note": "Hharpp sets this up in half a day."
+      },
+      {
+        "id": "essentials",
+        "name": "Essentials",
+        "price": "$65/mo",
+        "best_for": "2–3 users, no job costing required, bill management needed. Service businesses with a small team.",
+        "note": "Adds accounts payable and multi-user access over Simple Start."
+      },
+      {
+        "id": "plus",
+        "name": "Plus",
+        "price": "$99/mo",
+        "badge": "Most common for small businesses",
+        "best_for": "Up to 5 users, job costing via Projects, class and location tracking, inventory. The right plan for most construction, trade, and project-based businesses.",
+        "note": "Hharpp's most common setup engagement."
+      },
+      {
+        "id": "advanced",
+        "name": "Advanced",
+        "price": "$235/mo",
+        "best_for": "6+ users, custom reporting, workflow automation, batch invoicing, dedicated account manager. Mid-size businesses outgrowing Plus.",
+        "note": "Also relevant for contractors who need Buildertrend integration at scale."
+      }
+    ],
+    "result_cta": "Heather can confirm the right plan for your business in a free 20-minute consultation — and pass you a ProAdvisor discount on your subscription.",
+    "result_cta_url": "https://hharpp.com/contact/"
+  },
+
+  "rescue": {
+    "h2": "Your QuickBooks is wrong. Here's how Hharpp fixes it.",
+    "opening": "If your reports don't match what you expect, your balance sheet doesn't balance, or your Undeposited Funds account has grown to an alarming number — your QuickBooks file has errors. Getting QuickBooks wrong costs 3–5x more to fix than setting it up correctly. Hharpp diagnoses the full scope of errors first, quotes a flat rate before any work starts, and fixes it systematically so your CPA gets books they can actually work with.",
+    "steps": [
+      {
+        "id": "rescue-step-1",
+        "title": "File diagnostic",
+        "body": "Heather audits your QuickBooks file: chart of accounts structure, bank reconciliation status, Undeposited Funds balance, Accounts Receivable aging, balance sheet integrity, and whether your opening balances were entered correctly. A written summary of every issue found is delivered before work begins."
+      },
+      {
+        "id": "rescue-step-2",
+        "title": "Flat-rate cleanup quote",
+        "body": "Based on the diagnostic, Hharpp provides a fixed-price cleanup quote — not hourly. You know the total cost before a single transaction is touched. Scope includes period-by-period reconciliation, reclassification of miscategorized transactions, correction of opening balances, and clearing of reconciliation discrepancies."
+      },
+      {
+        "id": "rescue-step-3",
+        "title": "Systematic cleanup and lock",
+        "body": "Work proceeds chronologically through each affected period. Each period is reconciled, verified against bank statements, and locked. Delivery: a clean trial balance, accurate P&L, and correct balance sheet — ready for your CPA or for ongoing bookkeeping."
+      }
+    ],
+    "error_types": [
+      "Undeposited Funds account with months or years of uncategorized payments",
+      "Balance sheet that doesn't balance — negative cash, incorrect equity, asset errors",
+      "Chart of accounts built from the default template with wrong account types for your industry",
+      "Months or years of unreconciled bank and credit card accounts",
+      "Previous bookkeeper departure with no transition documentation and unknown errors"
+    ],
+    "cta_text": "Call (702) 342-8844 — file diagnostic consultations are free. Hharpp has seen everything. No judgment.",
+    "cta_href": "tel:+17023428844"
+  },
+
+  "construction": {
+    "h2": "QuickBooks for construction — set up by someone who understands construction accounting",
+    "opening": "Contractors have different QuickBooks needs than retail or service businesses. Job costing, progress invoicing, certified payroll, subcontractor 1099 tracking, and Buildertrend integration all require a setup that understands construction accounting — not just accounting software.",
+    "services": [
+      {
+        "title": "Contractor chart of accounts",
+        "body": "Labor, materials, subcontractors, equipment, overhead — structured correctly by cost type and mapped to job categories. Not the default template. Built for a contractor P&L that actually shows job profitability."
+      },
+      {
+        "title": "Job costing setup (Classes + Projects)",
+        "body": "QuickBooks Plus and Advanced support job costing via Projects. Heather configures class tracking and project setup so your cost reports show profitability by job, not just by account. This is the setup that prevents the 'we thought we were making money' problem."
+      },
+      {
+        "title": "Buildertrend + QuickBooks integration",
+        "body": "Buildertrend estimates, invoices, purchase orders, and payments sync to QuickBooks — but only if the integration is configured correctly. Incorrectly mapped sync rules create duplicate transactions and wrong job cost totals. Hharpp validates the integration after connection."
+      },
+      {
+        "title": "AIA billing and progress invoicing",
+        "body": "Schedule-of-values invoicing (G702/G703 format) for commercial construction clients. QuickBooks Online supports progress invoicing natively — Hharpp configures it so your billing matches your contract structure."
+      },
+      {
+        "title": "AccountingSuite for contractors",
+        "body": "For contractors who need construction-native job costing, project management, and financial reporting beyond what QBO offers, Hharpp is certified in AccountingSuite — the only named local provider in Nevada. Includes setup, data migration, and one-on-one training."
+      }
+    ],
+    "crosslink_text": "Hharpp also handles certified payroll reporting under NRS 338 and prevailing wage compliance for Nevada public works contractors.",
+    "crosslink_anchor": "See payroll services for construction",
+    "crosslink_url": "https://hharpp.com/payroll/",
+    "accountingsuite_anchor": "See AccountingSuite setup and training",
+    "accountingsuite_url": "https://hharpp.com/accountingsuite/"
+  },
+
+  "who_its_for": {
+    "h2": "Hharpp's QuickBooks service is for businesses in one of these situations",
+    "profiles": [
+      {
+        "title": "The new business owner",
+        "body": "You just formed your LLC or corporation and need QuickBooks set up correctly from day one. You want your chart of accounts to match how your business actually works — not some generic template — so your first year of reports is useful."
+      },
+      {
+        "title": "The Desktop 2023 user",
+        "body": "You've been on QuickBooks Desktop for years and the May 31, 2026 sunset is forcing a decision. You need someone to handle the migration, validate the data, and make sure your payroll and integrations work correctly in QBO before you close the old file. Time-sensitive."
+      },
+      {
+        "title": "The wrong-setup survivor",
+        "body": "A bookkeeper, an employee, or you yourself set up QuickBooks without accounting knowledge. The chart of accounts is wrong, your P&L doesn't reflect reality, and your CPA has said the books are a mess. Hharpp rebuilds from the foundation."
+      },
+      {
+        "title": "The construction contractor",
+        "body": "You need QuickBooks set up for job costing, progress invoicing, and Buildertrend integration — or you need AccountingSuite for native construction accounting. You need a ProAdvisor who understands construction, not just software."
+      },
+      {
+        "title": "The QuickBooks Live refugee",
+        "body": "You signed up for QuickBooks Live and got a rotating roster of bookkeepers with no continuity, no local knowledge, and no Nevada compliance understanding. You want one person who knows your file and your business."
+      },
+      {
+        "title": "The staff trainer",
+        "body": "You have an office manager or internal bookkeeper who will run QuickBooks daily — but they were never properly trained on your specific setup. One-on-one training from the person who built (or will rebuild) the file means training in context, not in theory."
+      }
+    ]
+  },
+
+  "why_hharpp": {
+    "h2": "What separates Hharpp from every other QuickBooks ProAdvisor in Nevada",
+    "differentiators": [
+      {
+        "title": "Advanced ProAdvisor + CPB — the only combination in Henderson",
+        "body": "Heather holds QuickBooks Advanced ProAdvisor certification — the highest level Intuit offers — and is a Certified Public Bookkeeper through AIPB. Most local ProAdvisors hold basic certification only. The CPB means your QuickBooks file is built on accounting principles, not just software familiarity. If the chart of accounts is wrong, the software doesn't matter."
+      },
+      {
+        "title": "Construction depth no other local ProAdvisor has",
+        "body": "16 years serving Nevada construction companies. Contractor chart of accounts, job costing via Classes and Projects, Buildertrend integration, AIA billing, certified payroll under NRS 338, and AccountingSuite certification. No other local ProAdvisor brings this combination of software expertise and construction accounting knowledge."
+      },
+      {
+        "title": "QB + bookkeeping + payroll in one engagement",
+        "body": "National ProAdvisor firms set up QuickBooks then hand you off. Hharpp sets up QuickBooks, runs your books, and runs your payroll in the same file — from the same person. Your chart of accounts, your reconciliations, and your payroll all live in one engagement with one accountable contact."
+      },
+      {
+        "title": "ProAdvisor client discount on your QBO subscription",
+        "body": "As an Advanced ProAdvisor, Heather can pass a client discount on QuickBooks Online subscriptions — typically 30% on QBO and Payroll. If you're paying list price for QBO, working with Hharpp for setup saves money on the subscription before counting the value of the setup itself."
+      }
+    ]
+  },
+
+  "testimonials": [
+    {
+      "author": "Cathy DeHart",
+      "company": "DeHart Construction Services",
+      "quote": "Like Mary Poppins, she swept in and brought order to our financial chaos. Heather's expertise in construction accounting is unmatched — she knows exactly what contractors need and delivers it.",
+      "angle": "Construction + accuracy"
+    },
+    {
+      "author": "William J. Osgood",
+      "company": "CFR & Associates",
+      "quote": "Heather is a specialist in construction cost accounting. Her work on our books gave us the accurate job costing we needed to understand our true profitability on every project.",
+      "angle": "Job costing accuracy"
+    },
+    {
+      "author": "Armands Williams",
+      "company": "SimpleTech",
+      "quote": "Heather is amazing at what she does. She set up our QuickBooks the right way and trained our team to use it. We finally have reports we can trust.",
+      "angle": "Setup + training reliability"
+    }
+  ],
+
+  "faqs": [
+    {
+      "id": "faq-0",
+      "anchor": "faq-what-proadvisor-does",
+      "question": "What does a QuickBooks ProAdvisor do?",
+      "speakable_class": "qb-speakable-1",
+      "voice_answer": "A QuickBooks ProAdvisor is a certified accounting professional who sets up, trains, cleans up, and supports QuickBooks on behalf of small businesses.",
+      "full_answer": "The Advanced ProAdvisor certification — the highest Intuit offers — indicates expertise across QuickBooks Online, Desktop, and Payroll. Hharpp provides setup, migration, cleanup, training, and ongoing support from a single Advanced ProAdvisor who is also a Certified Public Bookkeeper. This means your QuickBooks file is built on accounting knowledge, not just software familiarity."
+    },
+    {
+      "id": "faq-1",
+      "anchor": "faq-qbo-vs-desktop",
+      "question": "What is the difference between QuickBooks Online and Desktop?",
+      "speakable_class": "qb-speakable-2",
+      "voice_answer": "QuickBooks Online is cloud-based and receives continuous updates. QuickBooks Desktop is locally installed and being phased out — Desktop 2023 loses payroll, bank feeds, and security patches on May 31, 2026.",
+      "full_answer": "QuickBooks Desktop 2024 is the final version Intuit plans to sell, supported through September 2027. For most small businesses, QuickBooks Online Plus or Advanced is the right choice in 2026. Contractors with advanced job costing needs should consider whether QuickBooks Enterprise (ongoing subscription) or QBO Advanced with proper class setup better serves them — Hharpp advises before migrating to ensure the right decision is made before any data moves."
+    },
+    {
+      "id": "faq-2",
+      "anchor": "faq-proadvisor-cost",
+      "question": "How much does a QuickBooks ProAdvisor cost?",
+      "speakable_class": "qb-speakable-2",
+      "voice_answer": "QuickBooks ProAdvisor rates nationally run $75–$250 per hour. Hharpp quotes setup, cleanup, and migration engagements as flat-rate projects after a free diagnostic review.",
+      "full_answer": "Structured engagements — new setup, file cleanup, or Desktop migration — are typically quoted as flat-rate projects after a diagnostic review so you know the total cost before any work begins. The scope that drives pricing includes file size, how far back cleanup needs to go, migration complexity, and whether payroll integration is included. A free consultation produces a precise quote. Call (702) 342-8844 or visit hharpp.com/contact/."
+    },
+    {
+      "id": "faq-3",
+      "anchor": "faq-do-i-need-proadvisor",
+      "question": "Do I need a QuickBooks ProAdvisor, or can I set it up myself?",
+      "speakable_class": "qb-speakable-3",
+      "voice_answer": "You can set up QuickBooks yourself — but if your chart of accounts is wrong, every financial report produced from that file will be wrong. Fixing a poorly configured file costs 3–5x more than setting it up correctly from the start.",
+      "full_answer": "A ProAdvisor is most valuable when you are starting fresh and want it right, migrating from Desktop to Online, or have discovered your existing file has errors. Hharpp offers a free diagnostic to determine whether your file needs a rebuild. There is no obligation to proceed, and the diagnostic itself is free."
+    },
+    {
+      "id": "faq-4",
+      "anchor": "faq-which-qbo-plan",
+      "question": "Which QuickBooks Online plan does a small business need?",
+      "speakable_class": "qb-speakable-4",
+      "voice_answer": "Most small businesses need QuickBooks Online Plus at $99 per month, which supports job costing, class tracking, and up to 5 users. Simple Start works for sole proprietors with basic needs.",
+      "full_answer": "Simple Start ($35/month) works for sole proprietors with basic income and expenses. Essentials ($65/month) adds multi-user access and bill management. Plus ($99/month) adds job costing via Projects and class tracking — the right plan for most construction and project-based businesses. Advanced ($235/month) is for businesses with 6+ users or complex reporting needs. Contractors with job costing requirements should use Plus or Advanced — Simple Start and Essentials do not include job costing. Hharpp advises on plan selection before setup and can pass a ProAdvisor discount on the subscription."
+    },
+    {
+      "id": "faq-5",
+      "anchor": "faq-desktop-sunset",
+      "question": "What happens to my data when QuickBooks Desktop 2023 sunsets?",
+      "speakable_class": "qb-speakable-5",
+      "voice_answer": "After May 31, 2026, QuickBooks Desktop 2023 loses three critical functions: payroll tax tables stop updating, bank feed connections disconnect, and security patches stop.",
+      "full_answer": "Your company file does not disappear — you can still open it and enter transactions manually — but any feature that connects to Intuit's servers shuts off. Businesses still using Desktop 2023 after this date face immediate payroll compliance risk because payroll tax tables will be out of date. Hharpp migrates company files to QuickBooks Online, validates all data against Desktop reports, and rebuilds payroll history in QBO. Migration consultations are free — call (702) 342-8844."
+    },
+    {
+      "id": "faq-6",
+      "anchor": "faq-fix-messy-quickbooks",
+      "question": "How do I fix a messy QuickBooks file?",
+      "speakable_class": "qb-speakable-6",
+      "voice_answer": "Fixing a messy QuickBooks file requires three steps: a full diagnostic to identify every error, a flat-rate quote before work begins, and systematic period-by-period cleanup with each period locked when complete.",
+      "full_answer": "Step 1 — Diagnose: Before touching anything, a professional reviews the full file — chart of accounts structure, reconciliation status, Undeposited Funds balance, balance sheet integrity, and opening balances. Step 2 — Flat-rate quote: Based on the diagnostic, a cleanup scope and fixed price are agreed before work begins. Step 3 — Systematic cleanup: Work proceeds chronologically through each period, reconciling bank accounts, reclassifying transactions, correcting account types, and clearing reconciliation discrepancies. Each period is locked when complete. Delivery: a clean trial balance and accurate financial statements. Hharpp follows this process for every cleanup engagement. File diagnostics are free."
+    },
+    {
+      "id": "faq-7",
+      "anchor": "faq-bookkeeper-quickbooks",
+      "question": "Can my bookkeeper set up and manage QuickBooks?",
+      "speakable_class": "qb-speakable-7",
+      "voice_answer": "Yes — and when your bookkeeper sets up QuickBooks, the chart of accounts is built around your actual business processes, not a generic default template.",
+      "full_answer": "Hharpp sets up QuickBooks and runs the books for clients who want a single engagement: setup, monthly reconciliation, and ongoing support from the same person who built the file. This eliminates the coordination gap between a separate QB consultant and a separate bookkeeper. Bookkeeping services are available at hharpp.com/bookkeeping/."
+    },
+    {
+      "id": "faq-8",
+      "anchor": "faq-accountingsuite",
+      "question": "What is AccountingSuite and who needs it?",
+      "speakable_class": "qb-speakable-8",
+      "voice_answer": "AccountingSuite is a cloud-based ERP built specifically for construction and project-based businesses with native job costing, project management, and advanced inventory — without the workarounds QuickBooks Online requires.",
+      "full_answer": "AccountingSuite competes with QuickBooks Enterprise for contractor clients who need construction-native financial management. It includes change order management, RFIs, subcontractor tracking, and multi-entity reporting natively. Heather Potvin is certified in AccountingSuite and is the only named local provider in Nevada offering AccountingSuite setup and training. For contractors evaluating AccountingSuite versus QuickBooks, Hharpp advises honestly on which platform fits your workflow — and is certified in both. See the full AccountingSuite setup and training page at hharpp.com/accountingsuite/.",
+      "crosslink_anchor": "See the full AccountingSuite setup and training page",
+      "crosslink_url": "https://hharpp.com/accountingsuite/"
+    },
+    {
+      "id": "faq-9",
+      "anchor": "faq-near-henderson",
+      "question": "Who does QuickBooks setup near Henderson, Nevada?",
+      "speakable_class": "qb-speakable-9",
+      "voice_answer": "Hharpp Business Services in Boulder City, Nevada provides QuickBooks setup, training, cleanup, and Desktop migration for small businesses in Henderson and the greater Las Vegas area. Owner Heather Potvin is a QuickBooks Advanced ProAdvisor.",
+      "full_answer": "Hharpp Business Services is located in Boulder City, Nevada and serves Henderson, Las Vegas, and the broader Southern Nevada market — all delivered virtually via screen share, so location is never a barrier. Heather Potvin is a QuickBooks Advanced ProAdvisor and Certified Public Bookkeeper with 16 years of experience. She provides QuickBooks Online setup, Desktop-to-Online migration, file cleanup, one-on-one training, and construction QB setup including Buildertrend integration and AccountingSuite certification. Free consultation: (702) 342-8844, Mon–Thu 8:30 AM–4:00 PM MT, or at hharpp.com/contact/."
+    }
+  ],
+
+  "service_area": {
+    "h2": "QuickBooks services in Henderson, Boulder City, and across Nevada",
+    "body": "Hharpp delivers all QuickBooks services 100% virtually via screen share — no office visit required. Heather works with clients across Nevada, California, and nationally, with priority service to Henderson, Las Vegas, and the greater Boulder City area.",
+    "geo_chips": [
+      "Boulder City NV",
+      "Henderson NV",
+      "Las Vegas NV",
+      "North Las Vegas NV",
+      "Southern Nevada",
+      "Statewide Nevada",
+      "Rancho Cucamonga CA",
+      "Southern California",
+      "Nationwide (virtual)"
+    ]
+  },
+
+  "lead_magnet": {
+    "title": "The QuickBooks Online Setup Checklist for Nevada Small Businesses — 2026 Edition",
+    "description": "A free, printable checklist covering everything you need to set up QuickBooks correctly from day one.",
+    "bullets": [
+      "QBO plan selection guide — 4-plan comparison with decision criteria",
+      "Chart of accounts must-haves by business type",
+      "Bank feed connection and automation rules setup steps",
+      "QuickBooks Payroll integration checklist",
+      "Nevada-specific items — MBT account setup, sales tax, payroll tax agencies",
+      "Automation rules to configure in month one",
+      "First-month reconciliation checklist"
+    ],
+    "cta_text": "Download free",
+    "format": "PDF, 2 pages, Hharpp-branded, printable"
+  },
+
+  "cta_band": {
+    "h2": "Get your QuickBooks right — from the only Advanced ProAdvisor in Henderson who is also a Certified Public Bookkeeper.",
+    "body": "Free consultation. No obligation. Flat-rate quotes before any work begins.",
+    "stat_1_value": "Free",
+    "stat_1_label": "Consultation",
+    "stat_2_value": "16",
+    "stat_2_label": "Years experience",
+    "stat_3_value": "0",
+    "stat_3_label": "Complaints — BBB listed",
+    "cta_primary_text": "Schedule a free QuickBooks consultation",
+    "cta_primary_url": "https://hharpp.com/contact/",
+    "cta_secondary_text": "Call (702) 342-8844",
+    "cta_secondary_href": "tel:+17023428844",
+    "hours": "Mon–Thu 8:30 AM–4:00 PM MT",
+    "email": "services@hharpp.com"
+  },
+
+  "internal_links": [
+    {
+      "anchor_text": "Bookkeeping services",
+      "url": "https://hharpp.com/bookkeeping/",
+      "context": "QB + bookkeeping bundle cross-sell — services grid and FAQ"
+    },
+    {
+      "anchor_text": "Payroll services for construction",
+      "url": "https://hharpp.com/payroll/",
+      "context": "QB Payroll + certified payroll cross-link — construction section"
+    },
+    {
+      "anchor_text": "AccountingSuite setup and training",
+      "url": "https://hharpp.com/accountingsuite/",
+      "context": "AccountingSuite cross-link — construction section and FAQ 9"
+    },
+    {
+      "anchor_text": "About Heather Potvin",
+      "url": "https://hharpp.com/about/",
+      "context": "Credentials reference — why Hharpp section"
+    },
+    {
+      "anchor_text": "Contact — free consultation",
+      "url": "https://hharpp.com/contact/",
+      "context": "Primary CTA destination — all CTA bands"
+    }
+  ],
+
+  "schema": {
+    "organization_id": "https://hharpp.com/#organization",
+    "person_id": "https://hharpp.com/#heather-potvin",
+    "page_url": "https://hharpp.com/quickbooks/",
+    "speakable_selectors": [
+      ".qb-speakable-0",
+      ".qb-speakable-1",
+      ".qb-speakable-2",
+      ".qb-speakable-3",
+      ".qb-speakable-4",
+      ".qb-speakable-5",
+      ".qb-speakable-6",
+      "#faq-which-qbo-plan",
+      "#faq-accountingsuite",
+      "#faq-near-henderson"
+    ],
+    "howto_cleanup_name": "How to fix a messy QuickBooks file",
+    "howto_cleanup_description": "A step-by-step process for diagnosing and systematically fixing QuickBooks errors — covering file diagnostic, flat-rate quote, and period-by-period cleanup with locked periods.",
+    "howto_cleanup_steps": [
+      {
+        "position": 1,
+        "name": "File diagnostic",
+        "text": "Before touching anything, a professional reviews the full file — chart of accounts structure, reconciliation status, Undeposited Funds balance, balance sheet integrity, and opening balances. This reveals the full scope of errors and produces a written summary delivered before work begins.",
+        "url": "https://hharpp.com/quickbooks/#rescue-step-1"
+      },
+      {
+        "position": 2,
+        "name": "Flat-rate cleanup quote",
+        "text": "Based on the diagnostic, a cleanup scope and fixed price are agreed before work begins. You know the total cost before a single transaction is touched.",
+        "url": "https://hharpp.com/quickbooks/#rescue-step-2"
+      },
+      {
+        "position": 3,
+        "name": "Systematic cleanup and lock",
+        "text": "Work proceeds chronologically through each affected period. Each period is reconciled, verified against bank statements, and locked when complete. Delivery: clean trial balance, accurate P&L, and correct balance sheet.",
+        "url": "https://hharpp.com/quickbooks/#rescue-step-3"
+      }
+    ],
+    "howto_migration_name": "How to migrate QuickBooks Desktop 2023 to Online",
+    "howto_migration_description": "A 4-step process for migrating a QuickBooks Desktop 2023 company file to QuickBooks Online before the May 31, 2026 sunset deadline — covering pre-migration cleanup, file migration, payroll history rebuild, and post-migration validation.",
+    "howto_migration_steps": [
+      {
+        "position": 1,
+        "name": "Pre-migration file cleanup",
+        "text": "Reconcile all accounts, merge duplicates, and clear Undeposited Funds before export. A clean Desktop file migrates cleanly. A messy one migrates messy.",
+        "url": "https://hharpp.com/quickbooks/#migration-step-1"
+      },
+      {
+        "position": 2,
+        "name": "Company file migration",
+        "text": "Run Intuit's migration tool, transfer chart of accounts, customer and vendor lists, and up to 24 months of transaction history. Validate the trial balance against Desktop before proceeding.",
+        "url": "https://hharpp.com/quickbooks/#migration-step-2"
+      },
+      {
+        "position": 3,
+        "name": "Payroll history migration",
+        "text": "Employee YTD balances, deduction configurations, and tax setup do not automatically transfer. Rebuild this manually in QBO Payroll so the first post-migration payroll run is correct.",
+        "url": "https://hharpp.com/quickbooks/#migration-step-3"
+      },
+      {
+        "position": 4,
+        "name": "Post-migration validation",
+        "text": "Compare trial balance, A/R aging, A/P aging, and bank balances between Desktop and QBO. Discrepancies caught now are fixed in hours. Discrepancies caught at tax time cost thousands.",
+        "url": "https://hharpp.com/quickbooks/#migration-step-4"
+      }
+    ]
+  }
+}

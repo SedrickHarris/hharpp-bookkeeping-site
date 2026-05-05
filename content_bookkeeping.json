@@ -1,0 +1,455 @@
+{
+  "page": {
+    "title": "Virtual Bookkeeping Services for Small Business | Boulder City & Henderson, NV | Hharpp",
+    "meta_description": "16 years. CPB-certified. Virtual bookkeeping, catch-up, account reconciliation, and financial statements for small businesses in Nevada and California. Serving Henderson, Boulder City, and Las Vegas. Free consultation — services@hharpp.com",
+    "canonical": "https://hharpp.com/bookkeeping/",
+    "og_title": "Virtual Bookkeeping Services for Small Business | Hharpp — Boulder City, NV",
+    "og_description": "Monthly bookkeeping, catch-up and cleanup, account reconciliation, and financial statements for small businesses in Nevada and California. Certified Public Bookkeeper. Free consultation.",
+    "og_image": "https://hharpp.com/assets/og-bookkeeping.jpg",
+    "geo_region": "US-NV",
+    "geo_placename": "Boulder City, Nevada",
+    "geo_position": "35.9788;-114.8328"
+  },
+
+  "company": {
+    "name": "Hharpp Business Services",
+    "legal_name": "Hharpp Business Services Inc",
+    "owner": "Heather Potvin",
+    "title": "President / CFO / CPB",
+    "founded": "2009",
+    "years": "16+",
+    "phone": "(702) 342-8844",
+    "phone_schema": "+1-702-342-8844",
+    "email": "services@hharpp.com",
+    "website": "https://hharpp.com",
+    "hours": "Monday–Thursday 8:30 AM – 4:00 PM MT",
+    "address": {
+      "street": "1010 Industrial Road #166 Canary Way",
+      "city": "Boulder City",
+      "state": "NV",
+      "zip": "89005",
+      "country": "US",
+      "lat": 35.9788,
+      "lng": -114.8328
+    },
+    "social_proof": "Alignable Highly Recommended · 16 Peer Recommendations · BBB Listed — Zero Complaints"
+  },
+
+  "credentials": [
+    { "name": "Certified Public Bookkeeper (CPB)", "issuer": "American Institute of Professional Bookkeepers", "url": "https://www.aipb.org" },
+    { "name": "Certified Management Accountant (CMA, retired)", "issuer": "CMA Canada" },
+    { "name": "QuickBooks Certified Advanced Pro-Advisor", "issuer": "Intuit" },
+    { "name": "Master of Business Administration (MBA)", "issuer": "" }
+  ],
+
+  "memberships": [
+    { "name": "American Institute of Professional Bookkeepers (AIPB)", "url": "https://www.aipb.org" },
+    { "name": "Society for Human Resource Management (SHRM)" }
+  ],
+
+  "hero": {
+    "eyebrow": "Virtual Bookkeeping · Boulder City, NV · Nevada & California",
+    "h1": "Virtual Bookkeeping Services for Small Business in Nevada & California",
+    "subheading_italic": "Clean books, accurate reports, and no chaos — 100% online.",
+    "hero_speakable": "Hharpp Business Services provides professional virtual bookkeeping for small businesses in Nevada and California — delivered by a Certified Public Bookkeeper with 16 years of experience since 2009.",
+    "body": "Hharpp provides professional virtual bookkeeping for small businesses across Nevada and California — monthly bookkeeping, catch-up and cleanup work, account reconciliation, financial statement preparation, and ongoing QuickBooks maintenance. Delivered entirely online by a Certified Public Bookkeeper with 16 years of experience. No call centers. No one-size-fits-all packages. No surprises.",
+    "cta_primary": "Book your free consultation",
+    "cta_primary_url": "/contact/",
+    "cta_secondary": "See what's included →",
+    "cta_secondary_url": "#whats-included",
+    "credentials_strip": "Certified Public Bookkeeper (CPB) · QuickBooks Certified Advanced Pro-Advisor · SHRM Member · AIPB Member · Est. 2009",
+    "trust_stats": [
+      { "number": "16+", "label": "Years in business" },
+      { "number": "100%", "label": "Virtual delivery" },
+      { "number": "NV & CA", "label": "States served" },
+      { "number": "CPB", "label": "Certified bookkeeper" }
+    ]
+  },
+
+  "qualifier": {
+    "eyebrow": "Quick assessment",
+    "title": "Find out what your books actually need",
+    "question": "How far behind are your books right now?",
+    "options": [
+      {
+        "value": "current",
+        "label": "Up to date — I just want a professional to take over",
+        "sub": "Books are current, looking for ongoing monthly bookkeeping"
+      },
+      {
+        "value": "months3",
+        "label": "1–3 months behind",
+        "sub": "A quarter or less of backlog — manageable catch-up"
+      },
+      {
+        "value": "months12",
+        "label": "3–12 months behind",
+        "sub": "Half a year to a full year of unreconciled accounts"
+      },
+      {
+        "value": "years",
+        "label": "More than a year behind — or I honestly don't know",
+        "sub": "Significant backlog, possibly messy or incomplete records"
+      }
+    ],
+    "results": {
+      "current": {
+        "title": "Monthly bookkeeping — ongoing professional management",
+        "body": "Your books are in good shape and you want to keep them that way. Hharpp will take over monthly reconciliation, financial statement preparation, and QuickBooks maintenance — freeing you to focus on running the business while a Certified Public Bookkeeper manages the numbers."
+      },
+      "months3": {
+        "title": "Short catch-up + transition to monthly service",
+        "body": "A 1–3 month backlog is one of the most straightforward catch-up situations. Hharpp typically resolves this in one to two weeks, delivers clean financial statements covering the missed period, and transitions you directly into ongoing monthly bookkeeping so it never falls behind again."
+      },
+      "months12": {
+        "title": "Catch-up bookkeeping — 3 to 12 months",
+        "body": "A half-year to full-year backlog requires systematic, month-by-month reconstruction. Hharpp works in chronological order — reconciling each period against bank statements, correcting categorizations, and building accurate financial statements for the entire range. Most projects at this scope are completed in two to four weeks."
+      },
+      "years": {
+        "title": "Full catch-up — significant backlog or unknown scope",
+        "body": "No situation is too far behind and no books are too messy to fix. Hharpp has successfully caught up businesses with more than three years of unreconciled records. The process starts with a free assessment to establish scope, timeline, and a fixed-price quote — before any work begins. No surprises."
+      }
+    }
+  },
+
+  "whats_included": {
+    "eyebrow": "What we deliver every month",
+    "h2": "What's included in Hharpp's bookkeeping service",
+    "intro": "Every Hharpp bookkeeping engagement is built around the same core deliverables — the financial foundation your CPA needs, your lenders expect, and your business decisions depend on. Here is exactly what we do for you each month.",
+    "services": [
+      {
+        "h3": "Monthly bank account reconciliation",
+        "body": "We reconcile every bank account, credit card account, and payment processor against your accounting records each month — before the next month opens. Unreconciled books are the number one source of financial errors, missed deductions, and tax surprises."
+      },
+      {
+        "h3": "Profit & loss statement preparation",
+        "body": "Your monthly P&L tells you whether your business made money last month and where it went. We prepare a clean, categorized profit and loss statement every month so you always know your actual net income — not just your bank balance."
+      },
+      {
+        "h3": "Balance sheet and cash flow statements",
+        "body": "The Big Three financial reports — P&L, balance sheet, and cash flow statement — are what your CPA, banker, and any potential business buyer will ask for first. We deliver all three in a format CPAs actually want to work with."
+      },
+      {
+        "h3": "Accounts receivable management",
+        "body": "We record every invoice, track incoming payments, and flag overdue accounts so you know exactly what's owed to your business and for how long. Clean receivables mean better cash flow decisions."
+      },
+      {
+        "h3": "Accounts payable management",
+        "body": "We record every bill, match payments to invoices, and track due dates so nothing slips through. Accounts payable errors — duplicate payments, missed credits, late fees — cost small businesses thousands of dollars per year."
+      },
+      {
+        "h3": "Transaction categorization and QuickBooks maintenance",
+        "body": "Every transaction gets assigned to the correct account in your QuickBooks file. Proper categorization is what turns raw data into meaningful financial information and keeps your chart of accounts clean for tax season."
+      },
+      {
+        "h3": "Year-end bookkeeping and 1099 filing",
+        "body": "As the year closes, we prepare your books for tax filing, reconcile the full year, and manage your 1099-NEC filings for contractors paid $600 or more. We hand your CPA records they can actually work with — not a cleanup project."
+      }
+    ]
+  },
+
+  "catchup": {
+    "eyebrow": "Our specialty",
+    "h2": "Catch-up and cleanup bookkeeping — no backlog too big",
+    "para1": "If your books are months or years behind, have been handed off by someone who didn't know what they were doing, or are a mix of uncategorized transactions and unreconciled accounts — you are in exactly the right place. About 25% of small businesses need catch-up bookkeeping work before they can move to a regular monthly cadence. Hharpp specializes in it.",
+    "para2": "Our catch-up process starts with an assessment of what exists, a prioritization plan based on your most urgent needs (typically tax readiness first), and a systematic reconstruction of your records from bank statements, credit card data, and prior software files. We work in chronological order, reconcile every period individually, and deliver clean financial statements covering the entire catch-up period. No situation is too far behind. No books are too messy to fix.",
+    "process_h3": "How catch-up bookkeeping works at Hharpp",
+    "steps": [
+      {
+        "id": "catchup-step-1",
+        "number": "1",
+        "title": "Assessment",
+        "body": "We review your existing accounts, identify how far back and which accounts need work, and give you a clear scope and timeline before we touch anything. The initial assessment is included in your free consultation."
+      },
+      {
+        "id": "catchup-step-2",
+        "number": "2",
+        "title": "Reconstruction",
+        "body": "We work backward through your records month by month, reconciling each period against bank statements and correcting categorization errors as we go. Catch-up must be done chronologically — beginning balances carry forward."
+      },
+      {
+        "id": "catchup-step-3",
+        "number": "3",
+        "title": "Delivery",
+        "body": "You receive clean P&L, balance sheet, and general ledger statements covering the entire catch-up period — tax-ready and CPA-ready. Construction clients also receive job costing summaries."
+      },
+      {
+        "id": "catchup-step-4",
+        "number": "4",
+        "title": "Transition",
+        "body": "We move you directly into ongoing monthly bookkeeping so the backlog never returns. The same bookkeeper who completed the catch-up continues managing your books — no handoff, no re-explaining your business."
+      }
+    ],
+    "testimonial_quote": "Like Mary Poppins, she swept in and took care of everything. She set us up on QuickBooks, organized our customers and jobs, and made sense out of the chaos.",
+    "testimonial_author": "Cathy DeHart",
+    "testimonial_company": "DeHart Construction Services",
+    "mid_cta_text": "Talk to us about your catch-up situation →",
+    "mid_cta_url": "/contact/"
+  },
+
+  "nevada_compliance": {
+    "eyebrow": "Nevada-specific expertise",
+    "h2": "Nevada compliance your bookkeeper needs to know",
+    "intro": "Nevada has no state income tax — but Nevada employers and businesses face several compliance obligations that directly affect how your books need to be structured. Most bookkeeping services treat these as footnotes. Hharpp is based in Boulder City, Nevada, and handles them as core parts of every engagement.",
+    "items": [
+      {
+        "id": "nv-mbt",
+        "h3": "Modified Business Tax (MBT)",
+        "body": "Nevada's quarterly employer payroll tax — currently 1.378% on gross wages above the $50,000 quarterly threshold, per the Nevada Department of Taxation. Your books need to flag when quarterly wages are approaching the threshold and track MBT payments accurately for each filing period. Missing or underpaying MBT triggers interest and penalties.",
+        "source_text": "Nevada Department of Taxation",
+        "source_url": "https://tax.nv.gov/Businesses/Modified_Business_Tax/"
+      },
+      {
+        "id": "nv-sales-tax",
+        "h3": "Nevada sales and use tax — 2026 filing deadline change",
+        "body": "Henderson and Las Vegas combined sales tax rate: 8.38%. Critical 2026 update: Nevada moved sales tax filing deadlines from the last day of the following month to the 20th of the following month, per the Nevada Department of Taxation. If your bookkeeping system or calendar still shows the old deadline, it needs to be updated immediately.",
+        "source_text": "Nevada Department of Taxation",
+        "source_url": "https://tax.nv.gov/FAQs/Sales_Tax_FAQs/"
+      },
+      {
+        "id": "nv-commerce-tax",
+        "h3": "Commerce Tax",
+        "body": "Nevada's annual gross revenue tax applies to businesses earning more than $4 million in Nevada revenue. Rates vary by industry (0.051%–0.331%), per the Nevada Department of Taxation. Most small businesses fall below the threshold, but if your revenue is growing quickly, your books need to track this threshold.",
+        "source_text": "Nevada Department of Taxation",
+        "source_url": "https://tax.nv.gov/Businesses/Commerce_Tax_Information/"
+      },
+      {
+        "id": "nv-detr",
+        "h3": "Nevada DETR — Unemployment Insurance",
+        "body": "Every Nevada employer registers with the Nevada Department of Employment, Training and Rehabilitation (DETR) for quarterly UI filing. Hharpp structures payroll records so DETR quarterly reports are accurate and filed on time. UI contribution rates vary based on your experience rating.",
+        "source_text": "Nevada DETR",
+        "source_url": "https://ui.nv.gov/ESSHOME.html"
+      },
+      {
+        "id": "nv-licenses",
+        "h3": "Multi-jurisdiction business licensing",
+        "body": "Las Vegas, Henderson, and Clark County each have separate license fees, renewal schedules, and semi-annual or annual revenue reporting requirements. We build these compliance deadlines into your bookkeeping calendar so they never become late penalties. The Nevada State Business License ($200/year for most businesses, $500 for corporations) is filed through the Nevada Secretary of State SilverFlume portal.",
+        "source_text": "Nevada Secretary of State SilverFlume",
+        "source_url": "https://esos.nv.gov/"
+      }
+    ]
+  },
+
+  "who_its_for": {
+    "eyebrow": "Is this you?",
+    "h2": "Who Hharpp bookkeeping services are built for",
+    "intro": "Hharpp works best with small business owners who are ready to hand off their books entirely — not just get occasional advice. Here are the client types we serve most effectively.",
+    "profiles": [
+      {
+        "title": "The overwhelmed owner — books are months behind",
+        "body": "You started the year intending to catch up and it hasn't happened. Tax season is coming or has already passed, your CPA is asking for records you don't have, and you have no reliable picture of what your business has actually made. We fix this."
+      },
+      {
+        "title": "The new Nevada business or LLC",
+        "body": "You incorporated in Nevada — often for asset protection — and you need a bookkeeper who understands Nevada's tax structure, the Modified Business Tax, multi-jurisdiction licensing, and how to set up your chart of accounts correctly from the beginning."
+      },
+      {
+        "title": "The construction contractor in Southern Nevada",
+        "body": "You're managing multiple active jobs, tracking labor and materials costs, issuing AIA bills, managing subcontractors, and you need a bookkeeper who has actually worked inside the construction industry — not one who learned it from a course. See our construction accounting page."
+      },
+      {
+        "title": "The California-to-Nevada business",
+        "body": "You've relocated, incorporated a Nevada LLC from California, or operate across both states. Your books need to handle multi-state compliance and you want a bookkeeper with confirmed experience in both markets."
+      },
+      {
+        "title": "The QuickBooks owner whose books are a mess",
+        "body": "You have QuickBooks. You've been using it for months or years. But the categorizations are wrong, the accounts are unreconciled, and you've been told by your CPA that the file needs a cleanup before they can file. We diagnose, fix, and train."
+      },
+      {
+        "title": "The business that outgrew a national platform",
+        "body": "You used Bench, QuickBooks Live, or a similar national bookkeeping platform and found it impersonal, unresponsive, or missing the Nevada-specific knowledge your business needs. Or you were one of thousands of Bench clients displaced when the platform shut down in December 2024. At Hharpp, you work with the same person every month — Heather knows Nevada compliance, knows QuickBooks, and will know your business."
+      }
+    ]
+  },
+
+  "why_hharpp": {
+    "eyebrow": "Why clients choose us",
+    "h2": "Why Hharpp for bookkeeping — not a national platform, not a generalist",
+    "differentiators": [
+      {
+        "title": "You get a Certified Public Bookkeeper — not software",
+        "body": "QuickBooks Online, Bench, and similar platforms give you software. Hharpp gives you Heather Potvin, a Certified Public Bookkeeper (CPB) and retired Certified Management Accountant (CMA) with 16 years of experience. GAAP-compliant bookkeeping requires a human who knows what to look for — software alone cannot make judgment calls."
+      },
+      {
+        "title": "Books your CPA will actually want to work with",
+        "body": "The most common complaint CPAs have about small business clients is disorganized, noncompliant records. Hharpp delivers GAAP-compliant books, properly categorized and reconciled, in a format your CPA can work from efficiently. Clean books mean lower CPA fees and fewer audit risks."
+      },
+      {
+        "title": "Nevada expertise, not generic compliance",
+        "body": "Hharpp is based in Boulder City, Nevada, and works with Nevada businesses every day. We know the Modified Business Tax, the DETR filing requirements, the 2026 sales tax deadline change, and the multi-jurisdiction licensing structure — because these are our clients' reality, not a textbook."
+      },
+      {
+        "title": "You work with one person who knows your business",
+        "body": "National bookkeeping platforms rotate staff. At Hharpp, you work directly with Heather — the same person every month, who knows your accounts, your industry, your patterns, and your goals. The relationship-first model is not a marketing line. It is the actual service."
+      }
+    ]
+  },
+
+  "testimonials": [
+    {
+      "quote": "Like Mary Poppins, she swept in and took care of everything. She set us up on QuickBooks, organized our customers and jobs, and made sense out of the chaos.",
+      "author": "Cathy DeHart",
+      "company": "DeHart Construction Services",
+      "rating": 5
+    },
+    {
+      "quote": "Choosing Hharpp for our bookkeeping has been one of the best decisions our Board of Directors has made to make me more effective as a leader.",
+      "author": "Brad Letner",
+      "company": "President & CEO, Hesperia Chamber of Commerce",
+      "rating": 5
+    },
+    {
+      "quote": "She is amazing at what she does and takes time to listen and understand the individualized needs of your business.",
+      "author": "Armands Williams",
+      "company": "SimpleTech",
+      "rating": 5
+    }
+  ],
+
+  "post_testimonials_cta": {
+    "italic_text": "Ready to see what Hharpp can do for your books?",
+    "button_text": "Book your free consultation",
+    "button_url": "/contact/",
+    "reassurance": "Free · No obligation · Same-day response Mon–Thu"
+  },
+
+  "faqs": [
+    {
+      "id": "faq-0",
+      "speakable_class": "faq-speakable-0",
+      "question": "What is bookkeeping — and what does a bookkeeper actually do?",
+      "voice_answer": "Bookkeeping is the ongoing process of recording, categorizing, and reconciling every financial transaction in your business — the foundation your CPA, lender, and every business decision you make depends on.",
+      "full_answer": "Bookkeeping is the ongoing process of recording, categorizing, and reconciling every financial transaction in your business — the foundation your CPA, lender, and every business decision you make depends on. A bookkeeper handles the day-to-day financial record-keeping that keeps your business compliant and your numbers accurate: recording income and expenses, reconciling bank accounts and credit cards, managing accounts receivable and payable, and producing the monthly financial reports — profit and loss statement, balance sheet, and cash flow statement — that tell you how your business is actually performing. Without clean, current bookkeeping, tax preparation becomes expensive and error-prone, business decisions become guesswork, and lenders have nothing to work from. With clean books, you know your numbers, your CPA has what they need, and your business runs on facts rather than assumptions."
+    },
+    {
+      "id": "faq-1",
+      "speakable_class": "faq-speakable-1",
+      "question": "What is included in bookkeeping services?",
+      "voice_answer": "Professional bookkeeping services include monthly bank account reconciliation, transaction categorization, accounts receivable and payable management, and preparation of the three core financial reports: profit and loss statement, balance sheet, and cash flow statement.",
+      "full_answer": "Professional bookkeeping services include monthly bank account reconciliation, transaction categorization, accounts receivable and payable management, and preparation of the three core financial reports — profit and loss statement, balance sheet, and cash flow statement. At Hharpp, every monthly bookkeeping engagement also includes year-end services: general ledger reconciliation, 1099-NEC preparation for contractors, and delivery of tax-ready records to your CPA. The exact scope depends on your business — transaction volume, number of accounts, industry, and whether catch-up work is needed. Your first consultation is a full review of what your books need, with no obligation to proceed."
+    },
+    {
+      "id": "faq-2",
+      "speakable_class": "faq-speakable-2",
+      "question": "How often should I reconcile my books?",
+      "voice_answer": "Small businesses should reconcile their bank accounts and credit cards at minimum once per month — immediately after the previous month's bank statement closes. High-transaction businesses or those with tight cash flow should reconcile weekly.",
+      "full_answer": "Small businesses should reconcile their bank accounts and credit cards at minimum once per month — immediately after the previous month's bank statement closes. Waiting longer than 30 days creates a compounding problem: unreconciled transactions hide errors, unauthorized charges, and cash flow blind spots that get harder to resolve the longer they sit. High-transaction businesses — restaurants, retail, contractors with multiple projects — should reconcile weekly. A QuickBooks Certified Advanced Pro-Advisor like Heather can set up automated bank feeds that make weekly reconciliation nearly effortless once the system is properly configured."
+    },
+    {
+      "id": "faq-3",
+      "speakable_class": "faq-speakable-3",
+      "question": "What financial reports should my bookkeeper provide each month?",
+      "voice_answer": "Your bookkeeper should deliver three reports every month: the profit and loss statement, the balance sheet, and the cash flow statement. These are the three documents your CPA, your lender, and any potential business buyer will ask to see first.",
+      "full_answer": "Your bookkeeper should deliver three core financial reports every month — the profit and loss statement (P&L), the balance sheet, and the cash flow statement. These are the documents your CPA, your lender, and any potential business buyer will ask for first. The P&L shows revenue, expenses, and net income for the period. The balance sheet shows what your business owns and owes at a point in time. The cash flow statement shows how money actually moved through the business. At Hharpp, we also provide accounts receivable and accounts payable aging reports on request, which are critical for businesses managing project-based billing, subcontractors, or multiple revenue streams."
+    },
+    {
+      "id": "faq-4",
+      "speakable_class": "faq-speakable-4",
+      "question": "How much does bookkeeping cost per month for a small business?",
+      "voice_answer": "Professional bookkeeping for most small businesses ranges from $200 to $800 per month for ongoing monthly service, depending on transaction volume, number of accounts, and services included. Catch-up work is typically priced as a separate one-time project.",
+      "full_answer": "Professional bookkeeping for most small businesses ranges from $200 to $800 per month for ongoing monthly service, depending on transaction volume, number of accounts, industry complexity, and services included. Catch-up bookkeeping is typically priced as a separate one-time project — scope and cost depend on how far behind and how complex the records are. At Hharpp, pricing is customized to your specific business. We don't use tiered packages because no two businesses have the same volume, structure, or needs. Your free consultation includes an assessment of what your books require and a transparent quote — before you commit to anything."
+    },
+    {
+      "id": "faq-5",
+      "speakable_class": "faq-speakable-5",
+      "question": "Do I need a bookkeeper if I have QuickBooks?",
+      "voice_answer": "Yes. QuickBooks is software — it records what you tell it to record. A bookkeeper makes judgment calls: categorizing transactions correctly, catching errors, reconciling accounts, and ensuring the output is accurate and useful for tax filing and business decisions.",
+      "full_answer": "Yes. QuickBooks is accounting software — it records what you tell it to record, and it processes what your bank feeds send it. A bookkeeper makes the judgment calls: categorizing transactions correctly (not just accepting QuickBooks' guesses), reconciling every account against the actual bank statements, catching duplicates and errors, reviewing for anomalies, and producing accurate reports from the underlying data. Owning QuickBooks is not the same as having accurate books. Many businesses with QuickBooks files have more disorganized records than those using spreadsheets — because QuickBooks can silently accumulate miscategorized transactions, uncategorized items, and unreconciled balances for months before anyone notices. As a QuickBooks Certified Advanced Pro-Advisor, Heather often diagnoses exactly this situation in new client files."
+    },
+    {
+      "id": "faq-6",
+      "speakable_class": "faq-speakable-6",
+      "question": "How long does catch-up bookkeeping take?",
+      "voice_answer": "Most catch-up bookkeeping projects take two to eight weeks, depending on how far back the backlog goes and the complexity of the accounts. A three-month backlog is typically resolved in one to two weeks. A multi-year backlog takes four to eight weeks.",
+      "full_answer": "Most catch-up bookkeeping projects take two to eight weeks depending on how far behind the records are, the number of accounts involved, transaction volume, and the condition of any existing data. A three-month backlog for a straightforward small business is typically resolved in one to two weeks. A multi-year backlog for a construction company with multiple accounts, job costing, and contractor payments takes four to eight weeks — sometimes longer for particularly complex or disorganized files. At Hharpp, the process always begins with a thorough assessment so we can give you a realistic timeline and scope before work begins. We have successfully caught up businesses that were more than three years behind."
+    },
+    {
+      "id": "faq-7",
+      "speakable_class": "faq-speakable-7",
+      "question": "Is outsourced bookkeeping better than hiring an in-house bookkeeper?",
+      "voice_answer": "For most small businesses, outsourced bookkeeping is more cost-effective and more reliable than an in-house hire. A full-time bookkeeper costs $40,000 to $55,000 per year plus benefits. A professional outsourced service delivers the same work for a fraction of that cost.",
+      "full_answer": "For most small businesses, outsourced bookkeeping is more cost-effective and often more reliable than hiring an in-house bookkeeper. A full-time entry-level bookkeeper costs $40,000 to $55,000 per year in salary alone, plus payroll taxes, benefits, software licenses, training, and management overhead. A professional outsourced service delivers the same core work — reconciliation, reporting, year-end filing preparation — for $2,400 to $9,600 per year depending on volume. Beyond cost, outsourced bookkeeping provides continuity: if an in-house bookkeeper leaves, your records and processes leave with them. With Hharpp, your books, your QuickBooks file, and your financial history are always yours — and the relationship continues even as your business grows."
+    }
+  ],
+
+  "service_area": {
+    "eyebrow": "Where we work",
+    "h2": "Serving small businesses across Nevada and California — 100% online",
+    "body": "Based in Boulder City, Nevada, Hharpp serves small businesses throughout Southern Nevada — including Henderson, Las Vegas, North Las Vegas, and Boulder City — as well as Southern California, including Rancho Cucamonga and the Inland Empire. Because we work entirely online, geography is not a limitation.",
+    "chips": [
+      "Boulder City, NV",
+      "Henderson, NV",
+      "Las Vegas, NV",
+      "North Las Vegas, NV",
+      "Southern Nevada",
+      "Rancho Cucamonga, CA",
+      "Inland Empire, CA",
+      "Southern California",
+      "Nevada LLCs nationwide"
+    ],
+    "related_links": [
+      { "text": "Henderson, NV bookkeeping →", "url": "/henderson-nv/" },
+      { "text": "Las Vegas, NV bookkeeping →", "url": "/las-vegas-nv/" },
+      { "text": "Construction accounting →", "url": "/construction-accounting/" }
+    ]
+  },
+
+  "about_preview": {
+    "eyebrow": "Who does your bookkeeping",
+    "h2": "Heather Potvin, CPB — your dedicated bookkeeper",
+    "body": "Your books are managed by Heather Potvin — Certified Public Bookkeeper (CPB), retired Certified Management Accountant (CMA), QuickBooks Certified Advanced Pro-Advisor, MBA, and founder of Hharpp Business Services since 2009. Heather is a member of the American Institute of Professional Bookkeepers (AIPB) and the Society for Human Resource Management (SHRM). She has spent 30+ years specializing in small business accounting, payroll compliance, and construction cost accounting in Nevada and California.",
+    "credential_chips": ["CPB", "CMA (retired)", "MBA", "QuickBooks Advanced Pro-Advisor", "SHRM", "AIPB", "Est. 2009"],
+    "link_text": "Read Heather's full credentials and story →",
+    "link_url": "/about/"
+  },
+
+  "lead_magnet": {
+    "eyebrow": "Free resource",
+    "h2": "Nevada Small Business Bookkeeping Checklist",
+    "body": "Monthly, quarterly, and annual bookkeeping tasks every Nevada business owner needs to track — including Nevada-specific compliance deadlines for MBT, DETR, and the 2026 sales tax deadline change. Prepared by Heather Potvin, CPB.",
+    "bullets": [
+      "40+ tasks across monthly, quarterly, annual cadences",
+      "Nevada compliance deadlines included",
+      "Construction accounting track"
+    ],
+    "pdf_url": "/downloads/hharpp-nevada-bookkeeping-checklist.pdf",
+    "form_label": "Get the free checklist",
+    "name_placeholder": "Your name",
+    "email_placeholder": "Your email address",
+    "button_text": "Send me the checklist",
+    "fine_print": "No spam. Unsubscribe anytime."
+  },
+
+  "cta_band": {
+    "h2_italic": "Ready to get your books in order?",
+    "body": "Your first consultation is free. We'll review where your books stand, tell you what they need, and give you a clear picture of what working with Hharpp looks like — no obligation, no pressure.",
+    "button_text": "Book your free consultation",
+    "button_url": "/contact/",
+    "contact_line": "Or call (702) 342-8844 · services@hharpp.com · Mon–Thu 8:30 AM – 4:00 PM MT"
+  },
+
+  "internal_links": [
+    { "text": "payroll services", "url": "/payroll/" },
+    { "text": "QuickBooks setup and training", "url": "/quickbooks/" },
+    { "text": "construction accounting and job costing", "url": "/construction-accounting/" },
+    { "text": "cash flow management", "url": "/cash-flow-management/" },
+    { "text": "business consulting", "url": "/consulting/" },
+    { "text": "About Heather Potvin, CPB", "url": "/about/" },
+    { "text": "Book a free consultation", "url": "/contact/" },
+    { "text": "See all bookkeeping FAQs", "url": "/faq/" }
+  ],
+
+  "schema": {
+    "organization_id": "https://hharpp.com/#organization",
+    "heather_id": "https://hharpp.com/#heather-potvin",
+    "website_id": "https://hharpp.com/#website",
+    "service_id": "https://hharpp.com/bookkeeping/#service",
+    "webpage_id": "https://hharpp.com/bookkeeping/#webpage",
+    "same_as": [
+      "https://www.alignable.com/henderson-nv/hharpp-accounting-services",
+      "https://proadvisor.intuit.com/app/accountant/search?searchId=heather-potvin",
+      "https://members.ghdcc.com/members/member/hharpp-business-services-inc-117",
+      "https://www.bbb.org/us/ca/rancho-cucamonga/profile/accountant/hharpp-accounting-services-1126-89075592"
+    ]
+  }
+}
