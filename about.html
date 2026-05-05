@@ -398,7 +398,92 @@ h3 { font-family: var(--font-serif); font-weight: 400; font-size: 20px; color: v
 .see-also-links { display: flex; flex-wrap: wrap; gap: 10px; }
 
 /* ===== FOOTER ===== */
-.site-footer { background: var(--charcoal); color: rgba(255,255,255,0.7); padding: 40px 24px; }
+/* ===== FOOTER ===== */
+.site-footer {
+  background: var(--navy);
+  padding: 56px 24px 32px;
+  border-top: 0.5px solid rgba(255,255,255,0.08);
+}
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+}
+.footer-brand-name {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+}
+.footer-brand-tag {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 14px;
+  color: var(--gold);
+  margin: 6px 0 12px;
+}
+.footer-contact {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: rgba(255,255,255,0.55);
+  line-height: 1.8;
+}
+.footer-label {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 12px;
+  color: rgba(255,255,255,0.4);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+}
+.footer-link {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: rgba(255,255,255,0.7);
+  display: block;
+  margin-bottom: 8px;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.footer-link:hover { color: rgba(255,255,255,1); }
+.footer-link.active {
+  color: var(--gold);
+  cursor: default;
+  pointer-events: none;
+}
+.footer-area {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: rgba(255,255,255,0.55);
+  display: block;
+  line-height: 1.9;
+}
+.footer-bottom {
+  border-top: 0.5px solid rgba(255,255,255,0.12);
+  margin-top: 40px;
+  padding-top: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.footer-bottom span {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  color: rgba(255,255,255,0.4);
+}
+@media (min-width: 768px) {
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 1280px) {
+  .footer-grid { grid-template-columns: 1.2fr 1fr 1fr 1fr; gap: 48px; }
+}
 .footer-inner { max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 24px; }
 .footer-brand { font-family: var(--font-serif); font-weight: 600; font-size: 18px; color: #fff; }
 .footer-info { font-family: var(--font-sans); font-size: 13px; line-height: 1.7; margin-top: 6px; }
@@ -961,30 +1046,60 @@ textarea:focus-visible {
 <!-- ============= FOOTER ============= -->
 <footer class="site-footer">
   <div class="footer-inner">
-    <div class="footer-left">
-      <div class="footer-brand">Hharpp Business Services Inc</div>
-      <div class="footer-info">
-        1010 Industrial Road #166 Canary Way, Boulder City, NV 89005<br>
-        <a href="tel:+17023428844">(702) 342-8844</a><br>
-        <a href="mailto:services@hharpp.com" style="color:inherit;text-decoration:none;">services@hharpp.com</a><br>
-        Mon-Thu 8:30 AM-4:30 PM · Fri by appt · PT
+    <div class="footer-grid">
+
+      <div>
+        <div class="footer-brand-name">Hharpp Business Services</div>
+        <div class="footer-brand-tag">Making sense out of chaos.</div>
+        <div class="footer-contact">
+          1010 Industrial Road #166 Canary Way<br>
+          Boulder City, NV 89005<br>
+          <a href="mailto:services@hharpp.com" style="color:inherit;text-decoration:none;">services@hharpp.com</a><br>
+          <a href="tel:+17023428844" style="color:inherit;text-decoration:none;">(702) 342-8844</a><br>
+          Mon&#8209;Thu 8:30&#160;AM&#8209;4:30&#160;PM &middot; Fri by appt &middot; PT
+        </div>
       </div>
+
+      <div>
+        <div class="footer-label">Services</div>
+        <a href="/bookkeeping/" class="footer-link">Bookkeeping</a>
+        <a href="/payroll/" class="footer-link">Payroll Services</a>
+        <a href="/quickbooks/" class="footer-link">QuickBooks Setup &amp; Training</a>
+        <a href="/contact/" class="footer-link">Cash Flow Management</a>
+        <a href="/contact/" class="footer-link">Business Consulting</a>
+        <a href="/contact/" class="footer-link">HR Services</a>
+        <a href="/contact/" class="footer-link">Cloud Accounting &amp; Data Storage</a>
+      </div>
+
+      <div>
+        <div class="footer-label">Company</div>
+        <a href="/about/" class="footer-link active">About Heather</a>
+        <a href="/faq/" class="footer-link">FAQ / Resources</a>
+        <a href="/contact/" class="footer-link">Contact Us</a>
+        <a href="/contact/" class="footer-link">Book a Consultation</a>
+        <a href="/privacy-policy/" class="footer-link">Privacy Policy</a>
+        <a href="/terms/" class="footer-link">Terms of Service</a>
+      </div>
+
+      <div>
+        <div class="footer-label">Service area</div>
+        <span class="footer-area">Boulder City, NV</span>
+        <span class="footer-area">Henderson, NV</span>
+        <span class="footer-area">Las Vegas, NV</span>
+        <span class="footer-area">North Las Vegas, NV</span>
+        <span class="footer-area">Southern Nevada</span>
+        <span class="footer-area">Rancho Cucamonga, CA</span>
+        <span class="footer-area">Inland Empire, CA</span>
+        <span class="footer-area">Southern California</span>
+        <span class="footer-area">Remote / Nationwide</span>
+      </div>
+
     </div>
-    <div class="footer-right">
-      <div class="footer-nav">
-        <a href="/bookkeeping/">Bookkeeping</a>
-        <span class="sep">·</span>
-        <a href="/payroll/">Payroll</a>
-        <span class="sep">·</span>
-        <a href="/quickbooks/">QuickBooks</a>
-        <span class="sep">·</span>
-        <a href="/about/">About</a>
-        <span class="sep">·</span>
-        <a href="/contact/">Contact</a>
-      </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Hharpp Business Services Inc &middot; All rights reserved</span>
+      <span>Certified Public Bookkeeper &middot; QuickBooks Advanced Pro-Advisor &middot; Boulder City, Nevada</span>
     </div>
   </div>
-  <div class="footer-bottom">© 2025 Hharpp Business Services Inc · Boulder City, NV · QuickBooks and the QuickBooks logo are registered trademarks of Intuit Inc.</div>
 </footer>
 
 <script>

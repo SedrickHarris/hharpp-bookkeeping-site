@@ -229,165 +229,91 @@
     }
     .btn-outline-white:hover { border-color: var(--white); }
 
-    /* FOOTER */
-    footer { background: var(--charcoal); color: rgba(255,255,255,0.65); padding: 40px 24px; }
-    .footer-inner {
-      max-width: 1200px; margin: 0 auto;
-      display: flex; flex-wrap: wrap; justify-content: space-between; gap: 24px;
-    }
-    .footer-left p { font-size: 13px; line-height: 1.7; margin-bottom: 2px; }
-    .footer-name { font-family: var(--font-serif); font-weight: 600; font-size: 18px; color: var(--white); margin-bottom: 6px !important; }
-    .footer-left a { color: rgba(255,255,255,0.65); text-decoration: none; }
-    .footer-left a:hover { color: var(--white); }
-    .footer-right { text-align: right; display: flex; flex-direction: column; gap: 4px; }
-    @media (max-width: 640px) { .footer-right { text-align: left; } }
-    .footer-right a { font-size: 13px; color: rgba(255,255,255,0.65); text-decoration: none; display: block; }
-    .footer-right a:hover { color: var(--white); }
-    .footer-bottom {
-      max-width: 1200px; margin: 20px auto 0;
-      padding-top: 16px; border-top: 0.5px solid rgba(255,255,255,0.1);
-      font-size: 12px; color: rgba(255,255,255,0.4);
-    }
-  
-/* ============================================================
-   GLOBAL ENHANCEMENTS — injected across all Hharpp pages
-   ============================================================ */
-
-/* ── Scroll-triggered fade-in ── */
-.reveal {
-  opacity: 0;
-  transform: translateY(22px);
-  transition: opacity 0.55s ease, transform 0.55s ease;
+    /* ===== FOOTER ===== */
+.site-footer {
+  background: var(--navy);
+  padding: 56px 24px 32px;
+  border-top: 0.5px solid rgba(255,255,255,0.08);
 }
-.reveal.visible {
-  opacity: 1;
-  transform: translateY(0);
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
 }
-.reveal-delay-1 { transition-delay: 0.08s; }
-.reveal-delay-2 { transition-delay: 0.16s; }
-.reveal-delay-3 { transition-delay: 0.24s; }
-
-/* ── Card hover elevation (plain cards only) ── */
-.service-card:hover,
-.cat-card:hover,
-.sv-card:hover,
-.cm-card:hover,
-.tr-card:hover,
-.mc-card:hover,
-.svc-card:hover,
-.plan-card:hover,
-.who-card:hover,
-.hw-card:hover,
-.profile-card:hover,
-.ds-step:hover,
-.rs-errors:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.07);
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
 }
-
-/* ── Gold-accent card hover ── */
-.cr-card:hover,
-.included-card:hover,
-.diff-card:hover,
-.cqb-card:hover,
-.why-card:hover,
-.sf-card:hover,
-.sp-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(184,150,12,0.12);
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
-}
-
-/* ── Button micro-interactions ── */
-.btn-gold, .btn-primary, .nav-cta,
-.btn-gold-outline, a.btn-gold, a.btn-primary {
-  transition: background 0.15s ease, transform 0.1s ease, box-shadow 0.15s ease;
-}
-.btn-gold:hover, a.btn-gold:hover, .nav-cta:hover {
-  box-shadow: 0 4px 14px rgba(184,150,12,0.3);
-}
-.btn-gold:active, a.btn-gold:active,
-.btn-primary:active, a.btn-primary:active,
-.nav-cta:active {
-  transform: scale(0.97);
-}
-
-/* ── H2 gold underline (section headings) ── */
-.section-h2-gold {
-  position: relative;
-  display: inline-block;
-}
-.section-h2-gold::after {
-  content: '';
-  position: absolute;
-  bottom: -10px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 44px;
-  height: 3px;
-  background: var(--gold);
-  border-radius: 2px;
-}
-
-/* ── Testimonial decorative quote mark ── */
-.test-card,
-.testimonial-card,
-.te-card {
-  position: relative;
-}
-.test-card::before,
-.testimonial-card::before,
-.te-card::before {
-  content: '\201C';
-  position: absolute;
-  top: 8px;
-  right: 18px;
+.footer-brand-name {
   font-family: var(--font-serif);
-  font-size: 72px;
-  line-height: 1;
-  color: var(--gold-border);
-  opacity: 0.35;
-  pointer-events: none;
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+}
+.footer-brand-tag {
+  font-family: var(--font-serif);
   font-style: italic;
+  font-size: 14px;
+  color: var(--gold);
+  margin: 6px 0 12px;
 }
-
-/* ── Focus ring — accessible, branded ── */
-a:focus-visible,
-button:focus-visible,
-input:focus-visible,
-select:focus-visible,
-textarea:focus-visible {
-  outline: 2px solid var(--gold);
-  outline-offset: 3px;
-  border-radius: 4px;
+.footer-contact {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: rgba(255,255,255,0.55);
+  line-height: 1.8;
 }
-
-/* ── Nav active page indicator ── */
-.nav-current {
-  color: var(--navy) !important;
-  font-weight: 600 !important;
-  position: relative;
+.footer-label {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 12px;
+  color: rgba(255,255,255,0.4);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
 }
-.nav-current::after {
-  content: '';
-  position: absolute;
-  bottom: -4px;
-  left: 0;
-  width: 100%;
-  height: 2px;
-  background: var(--gold);
-  border-radius: 1px;
+.footer-link {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: rgba(255,255,255,0.7);
+  display: block;
+  margin-bottom: 8px;
+  text-decoration: none;
+  transition: color 0.15s;
 }
-
-/* ── Smooth card transition baseline ── */
-[class*="-card"] {
-  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.15s ease;
+.footer-link:hover { color: rgba(255,255,255,1); }
+.footer-link.active {
+  color: var(--gold);
+  cursor: default;
+  pointer-events: none;
 }
-
-/* ── Hero subtle gradient ── */
-.hero-gradient {
-  background: radial-gradient(ellipse at 50% 0%, #FFF8E0 0%, var(--warm-white) 65%);
+.footer-area {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: rgba(255,255,255,0.55);
+  display: block;
+  line-height: 1.9;
+}
+.footer-bottom {
+  border-top: 0.5px solid rgba(255,255,255,0.12);
+  margin-top: 40px;
+  padding-top: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.footer-bottom span {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  color: rgba(255,255,255,0.4);
+}
+@media (min-width: 768px) {
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 1280px) {
+  .footer-grid { grid-template-columns: 1.2fr 1fr 1fr 1fr; gap: 48px; }
 }
 
 </style>
@@ -701,29 +627,62 @@ textarea:focus-visible {
 </section>
 
 <!-- FOOTER -->
-<footer>
+<!-- ============= FOOTER ============= -->
+<footer class="site-footer">
   <div class="footer-inner">
-    <div class="footer-left">
-      <p class="footer-name">Hharpp Business Services Inc</p>
-      <p>1010 Industrial Road #166 Canary Way, Boulder City, NV 89005</p>
-      <p><a href="tel:+17023428844">(702) 342-8844</a></p>
-      <p>Mon-Thu 8:30 AM-4:30 PM · Fri by appt · PT</p>
+    <div class="footer-grid">
+
+      <div>
+        <div class="footer-brand-name">Hharpp Business Services</div>
+        <div class="footer-brand-tag">Making sense out of chaos.</div>
+        <div class="footer-contact">
+          1010 Industrial Road #166 Canary Way<br>
+          Boulder City, NV 89005<br>
+          <a href="mailto:services@hharpp.com" style="color:inherit;text-decoration:none;">services@hharpp.com</a><br>
+          <a href="tel:+17023428844" style="color:inherit;text-decoration:none;">(702) 342-8844</a><br>
+          Mon&#8209;Thu 8:30&#160;AM&#8209;4:30&#160;PM &middot; Fri by appt &middot; PT
+        </div>
+      </div>
+
+      <div>
+        <div class="footer-label">Services</div>
+        <a href="/bookkeeping/" class="footer-link">Bookkeeping</a>
+        <a href="/payroll/" class="footer-link">Payroll Services</a>
+        <a href="/quickbooks/" class="footer-link">QuickBooks Setup &amp; Training</a>
+        <a href="/contact/" class="footer-link">Cash Flow Management</a>
+        <a href="/contact/" class="footer-link">Business Consulting</a>
+        <a href="/contact/" class="footer-link">HR Services</a>
+        <a href="/contact/" class="footer-link">Cloud Accounting &amp; Data Storage</a>
+      </div>
+
+      <div>
+        <div class="footer-label">Company</div>
+        <a href="/about/" class="footer-link">About Heather</a>
+        <a href="/faq/" class="footer-link">FAQ / Resources</a>
+        <a href="/contact/" class="footer-link">Contact Us</a>
+        <a href="/contact/" class="footer-link">Book a Consultation</a>
+        <a href="/privacy-policy/" class="footer-link">Privacy Policy</a>
+        <a href="/terms/" class="footer-link active">Terms of Service</a>
+      </div>
+
+      <div>
+        <div class="footer-label">Service area</div>
+        <span class="footer-area">Boulder City, NV</span>
+        <span class="footer-area">Henderson, NV</span>
+        <span class="footer-area">Las Vegas, NV</span>
+        <span class="footer-area">North Las Vegas, NV</span>
+        <span class="footer-area">Southern Nevada</span>
+        <span class="footer-area">Rancho Cucamonga, CA</span>
+        <span class="footer-area">Inland Empire, CA</span>
+        <span class="footer-area">Southern California</span>
+        <span class="footer-area">Remote / Nationwide</span>
+      </div>
+
     </div>
-    <div class="footer-right">
-      <a href="/bookkeeping/">Bookkeeping</a>
-      <a href="/payroll/">Payroll</a>
-      <a href="/quickbooks/">QuickBooks</a>
-      <a href="/accountingsuite/">AccountingSuite</a>
-      <a href="/about/">About</a>
-      <a href="/contact/">Contact</a>
-      <a href="/faq/">FAQ</a>
-      <a href="/privacy-policy/">Privacy Policy</a>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Hharpp Business Services Inc &middot; All rights reserved</span>
+      <span>Certified Public Bookkeeper &middot; QuickBooks Advanced Pro-Advisor &middot; Boulder City, Nevada</span>
     </div>
-  </div>
-  <div class="footer-bottom">
-    © 2025 Hharpp Business Services Inc · Boulder City, NV ·
-    <a href="/privacy-policy/" style="color:rgba(255,255,255,0.4);text-decoration:none">Privacy Policy</a> ·
-    <a href="/terms/" style="color:rgba(255,255,255,0.4);text-decoration:none">Terms of Service</a>
   </div>
 </footer>
 

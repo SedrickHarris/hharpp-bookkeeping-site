@@ -1090,7 +1090,7 @@ h3 {
 .site-footer {
   background: var(--navy);
   padding: 56px 24px 32px;
-  border-top: 0.5px solid rgba(255,255,255,0.05);
+  border-top: 0.5px solid rgba(255,255,255,0.08);
 }
 .footer-inner {
   max-width: 1200px;
@@ -1139,6 +1139,11 @@ h3 {
   transition: color 0.15s;
 }
 .footer-link:hover { color: rgba(255,255,255,1); }
+.footer-link.active {
+  color: var(--gold);
+  cursor: default;
+  pointer-events: none;
+}
 .footer-area {
   font-family: var(--font-sans);
   font-size: 12px;
@@ -1161,7 +1166,12 @@ h3 {
   font-size: 11px;
   color: rgba(255,255,255,0.4);
 }
-
+@media (min-width: 768px) {
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 1280px) {
+  .footer-grid { grid-template-columns: 1.2fr 1fr 1fr 1fr; gap: 48px; }
+}
 /* ===== RESPONSIVE ===== */
 @media (min-width: 768px) {
   .nav-links { display: flex; }
@@ -1672,7 +1682,13 @@ textarea:focus-visible {
       <div>
         <div class="footer-brand-name">Hharpp Business Services</div>
         <div class="footer-brand-tag">Making sense out of chaos.</div>
-        <div class="footer-contact">Boulder City, NV<br><a href="mailto:services@hharpp.com" style="color:inherit;text-decoration:none;">services@hharpp.com</a><br><a href="tel:+17023428844" style="color:inherit;text-decoration:none;">(702) 342-8844</a></div>
+        <div class="footer-contact">
+          1010 Industrial Road #166 Canary Way<br>
+          Boulder City, NV 89005<br>
+          <a href="mailto:services@hharpp.com" style="color:inherit;text-decoration:none;">services@hharpp.com</a><br>
+          <a href="tel:+17023428844" style="color:inherit;text-decoration:none;">(702) 342-8844</a><br>
+          Mon&#8209;Thu 8:30&#160;AM&#8209;4:30&#160;PM &middot; Fri by appt &middot; PT
+        </div>
       </div>
 
       <div>
@@ -1711,8 +1727,8 @@ textarea:focus-visible {
 
     </div>
     <div class="footer-bottom">
-      <span>© 2026 Hharpp Business Services Inc · All rights reserved</span>
-      <span>Certified Public Bookkeeper · QuickBooks Advanced Pro-Advisor · Boulder City, Nevada</span>
+      <span>&copy; 2026 Hharpp Business Services Inc &middot; All rights reserved</span>
+      <span>Certified Public Bookkeeper &middot; QuickBooks Advanced Pro-Advisor &middot; Boulder City, Nevada</span>
     </div>
   </div>
 </footer>
